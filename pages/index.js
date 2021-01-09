@@ -107,7 +107,7 @@ scolds his soldiers and quietly plots his revenge.</small>
 
 
   <div className="fullHeight">
-  <p className="news"><large><b>Jr. L. T. Caso Gets Questionable Win</b></large></p>
+  <p className="news"><large><b>Jr. L. 'T.' Caso Gets Questionable Win</b></large></p>
 <p className="narration"><small>May 17, 2020</small></p>
 <p className="story">
   <small>Junior Lieutenant ‘the’ Caso claimed his first victory of the war last night, although rumors of chemical 
@@ -160,6 +160,34 @@ hope and passion, only to fall by the limits of their own weaponry. With the pri
 funding, artillery, and technology, General CJ crushed the hope of the passionate Red army (and 
 perhaps the world) allowing a blood-colored history to once again, repeat itself.</small></p>
 
+</div>
+
+<div className="fullHeight">
+<p className="narration">June 14, 2020</p>
+
+<p>The Gordian knot of military bureaucracy just wasn’t worth fighting today. </p>
+
+<p className="story">...
+<br/>
+<br/>
+Fed up with the constant ridicule from his peers, Jr. Lieutenant 'the' Caso reluctantly finished his mound of paperwork, anxious to finally order the ‘General the Caso’ nameplate to display prominently on his desk. “I’ll probably order the silver - to match the Live, Laugh, Love sign,” he pondered as he knocked on his superior’s door.
+“Come in,” the staunch old man ordered, clearly aggravated by the Lieutenant’s interruption and disheveled appearance. “Back again for the promotion plea I see?”
+The Lieutenant held back his loathe for the expendable old man. “Yes, sir,” he said. “I’ve got everything you asked for this time.” 
+He handed the neatly stacked, laminated documents to the systemic man and pretended to respect the outdated procedures. “It’s all there, sir. May I have the title now?”
+“Not yet, Lieutenant,” the man sneered as he stood to face the Caso. “Put your goddamn crimes of passion to rest and secure a real win tonight. Then, if you’re lucky, I might consider your request, Lieutenant.” The Caso idly saluted and stomped back to his office to prepare a battle plan. He sighed as he noticed a new smudge on the ‘Junior Lieutenant’ nameplate, sitting sluggishly on his desk.
+<br/>
+<br/>
+Back out on the battlefields, the soldiers were tired, and the violence seemed infinite. Unknowingly fighting for nothing other than a broken man’s new nameplate, they obeyed their orders and listened to the Lieutenant’s passionately mediocre speech. “You only live once, so go fight for it!” concluded the sermon with a lackluster ‘hoo-rah’ as the army’s response. The soldiers knew not what they were fighting for, but nonetheless blindly adhered to the lines of command. “It is what it is,” a veteran soldier whispered to a questioning young recruit, as they watched the Lieutenant prepare the artillery for another inevitable battle.
+<br/>
+<br/>
+The night began, once again, with bloodshed. Several battles immediately rang out across the nations, with frustrated generals continuing the attack orders amidst the truly random outcomes.  General Daddison, typically at the wrong end of the arbitrary results, held strong even as the nation’s leaders were conspiring against him. The conspiracy came to an abrupt halt as the yellow army commander entered the conversation, and each nation worked to secure a strategic territory and make neighborly agreements - albeit only through necessity. 
+<br/>
+<br/>
+The Caso, settling in the northwest, was sure this was the one. Repressing his desire to commit crimes of passion, the Lieutenant felt confident in his alliances and territory, with a vision of a shiny new nameplate gaining new clarity. General Johnson, a warrior for the greater good, noticed the rare discipline of the Lieutenant and concluded this was too much power for the low-ranked leader. Johnson decided to break up the blue army’s stronghold in return for nothing but a few empty ‘thank yous’ from the other world leaders. Meanwhile, a yellow army, desperate for a win, was eagerly waiting at the door to clean up the blue/green mess. General Daddison swept through the scraps of war, quickly gaining momentum on the coattails of the green army’s good deeds. Having not seen endgame in quite some time, the yellow commander made a miscalculated push, and his scent of victory quickly faded. A patiently waiting red army marched westward for the final cleanup blow to the battle-ridden lands.
+<br/>
+<br/>
+Lieutenant the Caso was furious.
+</p>
 </div>
 
 
