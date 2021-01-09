@@ -18,6 +18,14 @@ p{
   font-size:3.80rem
 }
 
+.fullHeightCentered {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .prologue{
   font-family: 'Xanh Mono', monospace;
   padding-top: 20rem;
@@ -41,14 +49,6 @@ p.news{
 
 p.story{
   font-family: 'Inconsolata', monospace;
-}
-
-.fullHeightCentered {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 .fullHeight {
