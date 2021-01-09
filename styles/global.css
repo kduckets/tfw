@@ -15,12 +15,12 @@ p{
 }
 
 .title{
-  font-size:4.20rem
+  font-size:3.80rem
 }
 
 .prologue{
   font-family: 'Xanh Mono', monospace;
-  height: 100vh;
+  padding-top: 20rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
