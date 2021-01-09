@@ -170,14 +170,16 @@ perhaps the world) allowing a blood-colored history to once again, repeat itself
 <p className="story">...
 <br/>
 <br/>
-Fed up with the constant ridicule from his peers, Jr. Lieutenant 'the' Caso reluctantly finished his mound of paperwork, 
+<small>Fed up with the constant ridicule from his peers, Jr. Lieutenant 'the' Caso reluctantly finished his mound of paperwork, 
 anxious to finally order the ‘General the Caso’ nameplate to display prominently on his desk. “I’ll probably order the 
 silver - to match the Live, Laugh, Love sign,” he pondered as he knocked on his superior’s door.
 “Come in,” the staunch old man ordered, clearly aggravated by the Jr. Lieutenant’s interruption and disheveled appearance. 
-“Back again for the promotion plea I see?”
-The Jr. Lieutenant held back his loathe for the expendable old man. “Yes, sir,” he said. “I’ve got everything you asked for this time.” 
+“Back again for the promotion plea I see?” The Jr. Lieutenant held back his loathe for the expendable old man. 
+<br/>
+“Yes, sir,” he said. “I’ve got everything you asked for this time.” 
 He handed the neatly stacked, laminated documents to the systemic man and pretended to respect the outdated procedures. 
 “It’s all there, sir. May I have the title now?”
+<br/>
 “Not yet, Lieutenant,” the man sneered as he stood to face the Caso. 
 “Put your goddamn crimes of passion to rest and secure a real win tonight. 
 Then, if you’re lucky, I might consider your request, Lieutenant.” The Caso idly saluted and stomped back to his office to prepare a 
@@ -209,7 +211,7 @@ push, and his scent of victory quickly faded. A patiently waiting red army march
 battle-ridden lands.
 <br/>
 <br/>
-Jr. Lt 'the' Caso was furious.
+Jr. Lt. 'the' Caso was furious.</small>
 </p>
 </div>
 
