@@ -60,7 +60,7 @@ export default function Home() {
       <div className="fullHeight">
    <p className="news">
 <h3>G. Johnson Falls Hard</h3></p>
-<p className="narration"><small>May 3, 2020</small></p>
+<p className="story">May 3, 2020</p>
 <p className="story">
 <small>The ceasefire proved costly for General Johnson’s troops, 
 as the undefeated veteran collapsed to two previously 
@@ -87,7 +87,7 @@ scolds his soldiers and quietly plots his revenge.</small>
 
   <div className="fullHeight">
   <p className="news"><h3>The Worth of War</h3></p>
-<p className="narration"><small>May 10, 2020</small></p>
+<p className="story">May 10, 2020</p>
 <p className="story">
   <small>The eerie silence of the DMZ was eagerly shattered as Ol General Patch spiked his fancy wine-beer, 
   loudly declaring warfare across Europe. The destruction continued with the Almighty Johnson 
@@ -110,7 +110,7 @@ scolds his soldiers and quietly plots his revenge.</small>
 
   <div className="fullHeight">
   <p className="news"><h3>Jr. L. 'T.' Caso Gets Questionable Win</h3></p>
-<p className="narration"><small>May 17, 2020</small></p>
+<p className="story">May 17, 2020</p>
 <p className="story">
   <small>Junior Lieutenant ‘the’ Caso claimed his first victory of the war last night, although rumors of chemical 
     warfare could prove diminishing to the win. “I felt loopy, I certainly wasn’t myself,” General Rad stated to 
