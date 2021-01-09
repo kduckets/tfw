@@ -18,12 +18,14 @@ export default function Home() {
 
         <div className="prologue">
         <p>Prologue</p>
-        <p>The year is 2020. The great thinkers of earth had sensed struggle and unrest brewing for quite some time, 
+        <p><small>The year is 2020. The great thinkers of earth had sensed struggle and unrest brewing for quite some time, 
           but very few were prepared for what was to come next. Sickness, suffering, and death were just the tip of the iceberg
            as an already unstable human race was ravaged by plague, cultural , and warfare. 
-           <p>The following is a collection of diary entries, news articles, letters, and other miscellaneous artifacts 
+           <br/>
+           <br/>
+           The following is a collection of diary entries, news articles, letters, and other miscellaneous artifacts 
            from one group of completely insignificant boys who had been forced to stay in their homes and play video games during this 
-           unprecedented year.</p>
+           unprecedented year.</small>
         </p>
         </div>
 
