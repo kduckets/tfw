@@ -59,7 +59,7 @@ export default function Home() {
 
       <div className="fullHeight">
    <p className="news">
-<large><b>G. Johnson Falls Hard</b></large></p>
+<h3>G. Johnson Falls Hard</h3></p>
 <p className="narration"><small>May 3, 2020</small></p>
 <p className="story">
 <small>The ceasefire proved costly for General Johnson’s troops, 
@@ -86,7 +86,7 @@ scolds his soldiers and quietly plots his revenge.</small>
       </div>
 
   <div className="fullHeight">
-  <p className="news"><large><b>The Worth of War</b></large></p>
+  <p className="news"><h3>The Worth of War</h3></p>
 <p className="narration"><small>May 10, 2020</small></p>
 <p className="story">
   <small>The eerie silence of the DMZ was eagerly shattered as Ol General Patch spiked his fancy wine-beer, 
@@ -109,7 +109,7 @@ scolds his soldiers and quietly plots his revenge.</small>
 
 
   <div className="fullHeight">
-  <p className="news"><large><b>Jr. L. 'T.' Caso Gets Questionable Win</b></large></p>
+  <p className="news"><h3>Jr. L. 'T.' Caso Gets Questionable Win</h3></p>
 <p className="narration"><small>May 17, 2020</small></p>
 <p className="story">
   <small>Junior Lieutenant ‘the’ Caso claimed his first victory of the war last night, although rumors of chemical 
@@ -129,7 +129,7 @@ scolds his soldiers and quietly plots his revenge.</small>
 <div className="fullHeight">
 <p className="narration">June 7, 2020</p>
 
-<p className="story"><large><b>The Many Colors of War</b></large></p>
+<p className="story"><h3>The Many Colors of War</h3></p>
 <p>Chaos and crimes of passion overshadowed any hope for actual strategy, as verbal conflict blended with 
 senseless violence to fuel the cycle of incessant devastation.</p> 
 
