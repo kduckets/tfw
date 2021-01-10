@@ -30,7 +30,7 @@ export default function Home() {
         </div>
 
       <div className="fullHeight">
-      <p className="narration"><small><i>An excerpt from General Kev’s diary:</i></small></p>
+      <p className="narration"><small>An excerpt from General Kev’s diary:</small></p>
       <p className="diary"><b>April 20, 2020</b></p>
       <p className="diary">
       The unrest among the group has lead to a few seemingly harmless battles to air some petty grievances. Tonight my battle strategy was sound, but the execution was poor. We had built up a huge border defense on the southern region during the Battle of Caso-Johnson, but left an unfortunate gap when I sent a western army, fully armed, up through Canada. 
