@@ -46,16 +46,13 @@ export default function Home() {
       </div>
 
       <div className="fullHeight">
-      <p className="narration">Following a weekend of minor quarrels, the hints of chaos seemed to deflate as quickly as they appeared. Peace talks were underway in an effort
+      <p className="narration">Following a weekend of minor quarrels, the hints of chaos seemed to deflate as 
+      quickly as they had distended. Although small battles continued, peace talks were underway in an effort
       to prevent large-scale warfare. 
       <br/>
       <br/>
-      Throughout the ceasefire, the politicians continued to bicker from high atop their castle walls, unable 
-      to reach an agreement. 
-      As egos squabbled, the fragile ice beneath the soldiers’ feet began to crack. 
-      Before too long, another armistice had been broken. The calls for peace had been silenced. 
       </p>
-      <p>Every so often, calls for harmony will nourish the potential for war...</p>
+ 
       </div>
 
       <div className="fullHeight">
@@ -77,6 +74,16 @@ scolds his soldiers and quietly plots his revenge.
       </div>
 
       <div className="fullHeight">
+      <p className="narration">
+      Throughout the ceasefire, the politicians continued to bicker from high atop their castle walls, unable 
+      to reach an agreement. 
+      As egos squabbled, the fragile ice beneath the soldiers’ feet began to crack. 
+      Before too long, another armistice had been broken. The calls for peace had been silenced. 
+      </p>
+      <p>Every so often, calls for harmony will nourish the potential for war...</p>
+      </div>
+
+      <div className="fullHeight">
       <p className="narration"><small>An excerpt from General Kev’s diary:</small></p>
       <p className="diary"><b>May 4, 2020</b></p>
       <p className="diary">
@@ -92,7 +99,7 @@ scolds his soldiers and quietly plots his revenge.
     <h3>The Worth of War</h3>
   <h4>May 10, 2020</h4>
   </p>
-<p className="news">
+<p className="story">
  The eerie silence of the DMZ was eagerly shattered as Ol General Patch spiked his fancy wine-beer, 
   loudly declaring warfare across Europe. The destruction continued with the Almighty Johnson 
   demolishing France for the first victory of the evening. In the battle that followed the Green army was swiftly cast to the 
