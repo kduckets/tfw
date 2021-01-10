@@ -12,9 +12,16 @@ html,
 p{
   font-size:1.4rem;
 }
-
+.titleImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  padding-top: 14px;
+}
 .title{
   font-size:26pt;
+  text-align: center;
 }
 .title span{
   opacity: 0;
@@ -30,6 +37,9 @@ p{
 .title span:nth-of-type(3){
   animation-delay: 1s;
 }
+.title span:nth-of-type(4){
+  animation-delay: 2s;
+}
 
 @keyframes fadeIn{
   to{
@@ -43,8 +53,8 @@ p{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  -ms-transform: translateY(-10%);
-  transform: translateY(-10%);
+  /* -ms-transform: translateY(-10%);
+  transform: translateY(-10%); */
 }
 
 .prologue{
