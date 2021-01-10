@@ -19,16 +19,16 @@ p{
 .title span{
   opacity: 0;
   /* transform: translateY(30px); */
-  animation: fadeIn 2s ease-out forwards;
+  animation: fadeIn 1.2s ease-out forwards;
   display:inline-block;
 }
 
 .title span:nth-of-type(2){
-  animation-delay: .8s;
+  animation-delay: .420s;
 }
 
 .title span:nth-of-type(3){
-  animation-delay: 1.6s;
+  animation-delay: 1s;
 }
 
 @keyframes fadeIn{
