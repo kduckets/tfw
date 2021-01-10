@@ -24,7 +24,7 @@ export default function Home() {
            <br/>
            <br/>
            The following is a collection of diary entries, news articles, letters, and other miscellaneous artifacts 
-           from one group of completely insignificant boys who had been forced to stay in their homes and play video games during this 
+           from one group of completely insignificant mostly not dads who had been forced to stay in their homes and play video games during this 
            unprecedented year.</small>
         </p>
         </div>
