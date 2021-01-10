@@ -77,7 +77,7 @@ scolds his soldiers and quietly plots his revenge.
       </div>
 
       <div className="fullHeight">
-      <p className="narration"><small><i>An excerpt from General Kev’s diary:</i></small></p>
+      <p className="narration"><small>An excerpt from General Kev’s diary:</small></p>
       <p className="diary"><b>May 4, 2020</b></p>
       <p className="diary">
       Alternating between peace and war seems to be the new normal. It's unclear how long this will last, however it doesn't
