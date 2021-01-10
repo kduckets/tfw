@@ -35,7 +35,7 @@ p{
 }
 
 .title span:nth-of-type(3){
-  animation-delay: 1s;
+  animation-delay: .8s;
 }
 .title span:nth-of-type(4){
   animation-delay: 2s;
