@@ -58,9 +58,10 @@ export default function Home() {
       </div>
 
       <div className="fullHeight">
-   <p className="news">
+   <p className="story">
 <h3>G. Johnson Falls Hard</h3>
-May 3, 2020</p>
+<h4>May 3, 2020</h4>
+</p>
 <p className="news">
 The ceasefire proved costly for General Johnson’s troops, 
 as the undefeated veteran collapsed to two previously 
@@ -86,9 +87,10 @@ scolds his soldiers and quietly plots his revenge.
       </div>
 
   <div className="fullHeight">
-  <p className="news">
+  <p className="story">
     <h3>The Worth of War</h3>
-  May 10, 2020</p>
+  <h4>May 10, 2020</h4>
+  </p>
 <p className="news">
  The eerie silence of the DMZ was eagerly shattered as Ol General Patch spiked his fancy wine-beer, 
   loudly declaring warfare across Europe. The destruction continued with the Almighty Johnson 
@@ -110,10 +112,11 @@ scolds his soldiers and quietly plots his revenge.
   </small></p>
   </div>
 
-
-  <div className="fullHeight">
-  <p className="news"><h3>Jr. L. 'T.' Caso Gets Questionable Win</h3>
-  May 17, 2020</p>
+<div className="fullHeight">
+<p className="story">
+<h3>Jr. L. 'T.' Caso Gets Questionable Win</h3>
+<h4>May 17, 2020</h4>
+</p>
 <p className="news">
   Junior Lieutenant ‘the’ Caso claimed his first victory of the war last night, although rumors of chemical 
     warfare could prove diminishing to the win. “I felt loopy, I certainly wasn’t myself,” General Rad stated to 
@@ -345,9 +348,11 @@ Blood-soaked and traumatized from the gruesome event carried out by Lieutenant t
 <br/>
 <br/>
 
-<p className="news">
+<p className="story">
 <h3>Controversial Turn Miss Causes Big Loss for Orange</h3>
-<h5>July 19, 2020</h5>
+<h4>July 19, 2020</h4>
+</p>
+<p className="news">
 The Orange base proved advantageous for General Serg at first, 
 as evidence of a private comms channel between the generals recently surfaced. 
 The evidence is spotty and contains several lewd transmissions, so the media 
