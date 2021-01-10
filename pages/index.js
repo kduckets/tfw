@@ -61,7 +61,7 @@ export default function Home() {
    <p className="news">
 <h3>G. Johnson Falls Hard</h3>
 May 3, 2020</p>
-<p className="story">
+<p className="news">
 The ceasefire proved costly for General Johnson’s troops, 
 as the undefeated veteran collapsed to two previously 
 winless armies in yet another bloody Saturday night. 
