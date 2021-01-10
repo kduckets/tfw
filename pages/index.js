@@ -18,7 +18,7 @@ export default function Home() {
 
         <div className="prologue">
         <p>Prologue</p>
-        <p><small>The year is 2020. The great thinkers of earth had sensed struggle and unrest brewing for quite some time, 
+        <p><small>The year is 2020. Most great thinkers of earth had sensed struggle and unrest brewing for quite some time, 
           but very few were prepared for what was to come next. Sickness, suffering, and death were just the tip of the iceberg
            as an already unstable human race was ravaged by plague, cultural divergence, and warfare. 
            <br/>
