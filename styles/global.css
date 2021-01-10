@@ -3,8 +3,8 @@ html,
   margin-right: auto;
   margin-left:  auto;
   max-width: 960px;
-  padding-right: 16px;
-  padding-left: 16px;
+  padding-right: 14px;
+  padding-left: 14px;
   font-family:'Redressed', cursive;
   /* background-image: url("../public/old-paper-background.png"); */
   
@@ -20,8 +20,8 @@ p{
 }
 .title span{
   opacity: 0;
-  transform: translateY(30px);
-  animation: fadeIn 4.20s ease-out forwards;
+  /* transform: translateY(30px); */
+  animation: fadeIn 3s ease-out forwards;
   display:inline-block;
 }
 
