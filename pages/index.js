@@ -33,7 +33,7 @@ export default function Home() {
       <p className="narration"><small>An excerpt from General Kev’s diary:</small></p>
       <p className="diary"><b>April 20, 2020</b></p>
       <p className="diary">
-      The unrest among the group has lead to a few seemingly harmless battles to air some petty grievances. Tonight my battle strategy was sound, but the execution was poor. We had built up a huge border defense on the southern region during the Battle of Caso-Johnson, but left an unfortunate gap when I sent a western army, fully armed, up through Canada. 
+      The unrest amongst the group has lead to a few seemingly harmless battles to air some petty grievances. Tonight my battle strategy was sound, but the execution was poor. We had built up a huge border defense on the southern region during the Battle of Caso-Johnson, but left an unfortunate gap when I sent a western army, fully armed, up through Canada. 
       Devistatingly, I ran outta time just as I was hitting the fortify button. That small opening was all General Johnson's army needed to make its move. 
       Bruised, but not defeated from the bloody Caso-Johnson war, General Johnson sent his men down through the gap and wreaked havoc on the southern region. 
       The fight continued in Canada but it was not enough to take down the almighty Johnson. With a damaged south and a once cololorful map 
