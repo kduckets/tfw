@@ -26,19 +26,19 @@ p{
 .title span{
   opacity: 0;
   /* transform: translateY(30px); */
-  animation: fadeIn 1.2s ease-out forwards;
+  animation: fadeIn 4.20s ease-out forwards;
   display:inline-block;
 }
 
 .title span:nth-of-type(2){
-  animation-delay: .420s;
+  animation-delay: 1s;
 }
 
 .title span:nth-of-type(3){
-  animation-delay: .8s;
+  animation-delay: 2s;
 }
 .title span:nth-of-type(4){
-  animation-delay: 2s;
+  animation-delay: 4s;
 }
 
 @keyframes fadeIn{
