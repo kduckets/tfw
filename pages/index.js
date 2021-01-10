@@ -83,7 +83,7 @@ scolds his soldiers and quietly plots his revenge.
       <p>Every so often, calls for harmony will nourish the potential for war...</p>
       </div>
 
-      <div className="fullHeight">
+      {/* <div className="fullHeight">
       <p className="narration"><small>An excerpt from General Kev’s diary:</small></p>
       <p className="diary"><b>May 4, 2020</b></p>
       <p className="diary">
@@ -92,7 +92,7 @@ scolds his soldiers and quietly plots his revenge.
        I'm truly nervous about is the Jr. Lieutenant. He seems too inexperienced to be dealing with this caliber of war. Someone should keep an eye on him.
       
       </p>
-      </div>
+      </div> */}
 
   <div className="fullHeight">
   <p className="story">
