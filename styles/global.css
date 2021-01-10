@@ -7,8 +7,6 @@ html,
   padding-left: 14px;
   font-family:'Redressed', cursive;
   /* background-image: url("../public/old-paper-background.png"); */
-  
-  
   }
 
 p{
@@ -45,6 +43,8 @@ p{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  -ms-transform: translateY(-10%);
+  transform: translateY(-10%);
 }
 
 .prologue{
