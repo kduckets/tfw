@@ -145,8 +145,9 @@ scolds his soldiers and quietly plots his revenge.
 
 
 <div className="fullHeight">
-<p className="narration"><small>June 7, 2020</small></p>
-<h2>The Many Colors of War</h2>
+<p className="narration"><small>June 7, 2020</small>
+<h3>The Many Colors of War</h3>
+</p>
 <p>Chaos and crimes of passion overshadowed any hope for actual strategy, as verbal conflict blended with 
 senseless violence to fuel the cycle of incessant devastation.</p> 
 
