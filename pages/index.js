@@ -591,7 +591,23 @@ the Junior Lieutenant was about to forfeit all hope and shit himself again, he h
 <br/>
 <br/>
 <small>
-The night began as any other, with nations grabbing their respective corners of the map through blood and handshakes. Jr. Lt ‘the’ Caso, recently stunned by a devastating box cat mobile defeat, quickly found himself sandwiched between the north and south - a position that would ultimately define the evening. As Generals Johnson and Dowals formed a strong southern alliance, the vacillating Jr. Lieutenant remained fairly neutral; albeit following a handful of General Dowals’ orders to assist with border disputes against a growing yellow army in the northeast. These small quarrels largely yielded stalemate until the silence was inevitably broken, providing the opportunity for all hell to break loose. The fuse of chaos was lit by some harsh words exchanged between General Daddison and General Dowals, foreshadowing the War of Passion that was about to materialize. General Dowals, in the name of passion itself, began to march north to defend his army against the words of General Daddison. A strong northern partnership between Generals Daddison and Kev fought back against the marching southern tyrant and his Jr Lieutenant minion, causing a tangential battle to break out between blue and red in the west. General Dowals’ propaganda attempts at first looked to persuade Jr. Lt ‘the’ Caso to join the fascist Orange regime for the foreseeable future, however the Orange army’s power and status blinded the General to the back door negotiations that were occurring between blue and red out west. In a pivotal turning point, the blue army, under orders of General Dowals, moved aggressively into General Daddison’s territory, planting a large army against an important red border, causing yet another territorial dispute in the north. Winds howled, blood spilled, and passions tensed, all while the imminent shitstorm of War awaited eagerly on the horizon.
+The night began as any other, with nations grabbing their respective corners of the map through 
+blood and handshakes. Jr. Lt ‘the’ Caso, recently stunned by a devastating box cat mobile defeat, 
+quickly found himself sandwiched between the north and south - a position that would ultimately define the evening. 
+As Generals Johnson and Dowals formed a strong southern alliance, the vacillating Jr. Lieutenant remained 
+fairly neutral; albeit following a handful of General Dowals’ orders to assist with border disputes against a 
+growing Yellow army in the northeast. These small quarrels largely yielded stalemate until the silence was 
+inevitably broken, providing the opportunity for all hell to break loose. The fuse of chaos was lit by some 
+harsh words exchanged between General Daddison and General Dowals, foreshadowing the War of Passion that was 
+about to materialize. General Dowals, in the name of passion itself, began to march north to defend his army 
+against the words of General Daddison. A strong northern partnership between Generals Daddison and Kev fought 
+back against the marching southern tyrant and his Jr Lieutenant minion, causing a tangential battle to break out 
+between Blue and Red in the west. General Dowals’ propaganda attempts at first looked to persuade Jr. Lt ‘the’ Caso 
+to join the fascist Orange regime for the foreseeable future, however the Orange army’s power and status 
+blinded the General to the back door negotiations that were occurring between blue and red out west. In a 
+pivotal turning point, the blue army, under orders of General Dowals, moved aggressively into General Daddison’s 
+territory, planting a large army against an important red border, causing yet another territorial dispute in the north. 
+Winds howled, blood spilled, and passions tensed, all while the imminent shitstorm of War awaited eagerly on the horizon.
 <br/>
 <br/>
 ...
