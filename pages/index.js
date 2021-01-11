@@ -107,7 +107,7 @@ scolds his soldiers and quietly plots his revenge.
   <small>
  The eerie tranquility of the DMZ was eagerly shattered as Ol General Patch spiked his fancy wine-beer, 
   loudly declaring warfare across Europe. The destruction continued with the Almighty Johnson 
-  demolishing France for the first victory of the evening. The Green army was swiftly cast to the 
+  slapping through France for the first victory of the evening. The Green army was swiftly cast to the 
   southwest corner for the following battle, relying on carefully executed alliances and manipulative 
   lawyer-speak just to survive. The piss-colored Yellow army, also fighting in the south, was prematurely 
   destroyed in both battles, leaving General Daddison with a fading taste of victory and an army 
