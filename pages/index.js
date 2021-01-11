@@ -577,7 +577,7 @@ the Junior Lieutenant was about to forfeit all hope and shit himself again, he h
 
 <h4>December 4, 2020</h4>
 <p>A Nor’Easter of rain and snow descended upon the battlefield as the chaos and 
-  tension of a seemingly endless war, now entering winter, began to puncture the 
+  tension of a seemingly endless war, now officially entering winter, began to puncture the 
   souls of both Generals and troops, blurring the lines of victory and defeat. 
   Time, as they say, can be the mother of spirit; and time in war, quite the contrary. 
   It’s only a matter of  that time in which the turmoils of war begin to rear their ugly heads, 
