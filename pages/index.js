@@ -63,7 +63,7 @@ export default function Home() {
 
 <div className="fullHeight">
    <p className="newsTitle">
-<h2>Johnson Falls Hard</h2>
+<h2>Big Johnson Falls Hard</h2>
 <h4>May 3, 2020</h4>
 </p>
 <p className="news">
