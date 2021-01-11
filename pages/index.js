@@ -252,7 +252,7 @@ In a pitiful display of desperation, Jr. Lieutenant ‘the’ Caso utilized desp
 inciting chaos, camping, shielding, tear gassing, and attacking without formally breaking alliances to 
 steal a dissatisfying win from the warring nations. Analysts are left questioning the legitimacy of the 
 Blue nation and are considering pulling global funding from the deplorable boys in blue. Even war has its 
-limits, and the Blue army has shown it will show no shame in the lines it is willing to cross in order to 
+limits, and the Blue army has shown it will act without shame in regards to the lines it is willing to cross in order to 
 maintain status as an admissible organization. Any respect and authority the nation once held is certainly dwindling, if not already nonexistent. 
 The nations of the world will be holding several meetings over the course of the next few months to determine 
 the fate of the Blue army and its questionable constituents.
