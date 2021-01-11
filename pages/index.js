@@ -530,7 +530,7 @@ If blood were currency, War would be rich.</small>
 ...
 </p>
 <p className="news">
-<h2>Nations Ban Against Blue</h2>
+<h2>Nations Ban Together Against Blue</h2>
 <h4>November 22, 2020</h4>
 
 Reports of chemical warfare involving General Daddison have resurfaced, as one nation in particular 
