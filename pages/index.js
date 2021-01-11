@@ -640,7 +640,8 @@ commander teared up the middle of the map, kamikazing into the Red territory of 
 perspiring ballsac openly swinging in the faces of his war-ravaged enemies.
 <br/>
 <br/>
-As the dust of disarray settled, a note was recovered from a blue army messenger found amongst the gruesome remains of the historic battle. The note read simply,
+As the dust of disarray settled, a note was recovered from a blue army messenger 
+found amongst the gruesome remains of the historic battle. The note read simply,
 </small>
 </p>
 <p className="diary">
