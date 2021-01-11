@@ -63,7 +63,7 @@ export default function Home() {
 
 <div className="fullHeight">
    <p className="news">
-<h2>G. Johnson Falls Hard</h2>
+<h2>Johnson Falls Hard</h2>
 <h4>May 3, 2020</h4>
 </p>
 <p className="news">
@@ -131,10 +131,10 @@ scolds his soldiers and quietly plots his revenge.
 </p>
 <p className="news">
   Junior Lieutenant ‘the’ Caso claimed his first victory of the war last night, although rumors of chemical 
-    warfare could prove diminishing to the win. “I felt loopy, I certainly wasn’t myself,” General Rad stated to 
+    warfare could prove diminishing to the win. “I felt loopy, I certainly wasn’t myself,” General Daddison stated to 
     reporters when asked why he didn’t use his cards at a crucial battle moment. “I guess it coulda been the anchovies,” 
     he added, apprehensively. In response to the allegations, Lieutenant the Caso began to describe an awkward dream he 
-    had about the yellow army’s commander, followed by some patronizing advice to the seasoned General. The topics of 
+    had about the Yellow army’s commander, followed by some patronizing advice to the seasoned General. The topics of 
     chemical warfare and anchovies were suspiciously avoided.
   <br/>
   <br/>
@@ -156,36 +156,35 @@ senseless violence to fuel the cycle of incessant devastation.</p>
 'the' Caso dropped his curry dinner, allegedly distracted by the sirenesque 
 sounds of General Dowals’ mistress. Filled with shame and regret, the Lieutenant 
 cracked a can of watery tuna and heeded the calls of war to fill the painful void. 
-The 'drop heard round the world' proved unfortunate for the red army, who shared a border 
+The 'drop heard round the world' proved unfortunate for the Red army, who shared a border 
 with the humiliated Lieutenant looking to unleash his anger on a nearest neighbor. A battle of 
-passion broke out, resulting in a depleted red army with no option but to beg for an alliance with 
+passion broke out, resulting in a depleted Red army with no option but to beg for an alliance with 
 General Dowals in the north. Desperate for companionship in wartime, the General accepted the offer 
-and the orange-red army marched to destroy any hopeless soldiers in its path. Unable to band together 
-against the Goliath, the nations resorted to blame and slander as they fell pitifully to orange, all 
+and the Orange-Red army marched to destroy any hopeless soldiers in its path. Unable to band together 
+against the Goliath, the nations resorted to blame and slander as they fell pitifully to Orange, all 
 while a tuna-breathed Lieutenant continued to stir the pot of conflict from the grave. 
 <br/>
 <br/>
 Perhaps out of both breathe and energy, the yelling calmed in Africa as the nations all turned against Orange, 
 leaving an opening for a win-starved Purple army to deploy a fresh strategy. The decision to not camp in a 
-single country proved fruitful for Ol General Patch as he was able to build and bleed through the war-torn 
+single country proved fruitful for Ol General Patch, as he was able to build and bleed through the war-torn 
 nations for a much needed Purple victory.
 <br/>
 <br/>
-The battle turned to the grounds of the Roman Empire, where the generals, 
+The battle turned to the grounds of the Roman Empire where the generals, 
 seemingly unable to learn from the past, began to repeat history (again). The 
 coastal quarrels quickly boiled over, leaving room for the armies inland to grow and plot. 
 With a valiant effort to break the infinite loops of the days of old, the Red army marched with 
 hope and passion, only to fall by the limits of their own weaponry. With the privilege of superior 
-funding, artillery, and technology, General CJ crushed the hope of the passionate Red army (and 
+funding, artillery, and technology, General Johnson crushed the hope of the passionate Red army (and 
 perhaps the world) allowing a blood-colored history to once again, repeat itself.</small></p>
 
 </div>
 
 <div className="fullHeight">
 <p className="narration">
-  <h4>June 14, 2020</h4></p>
-
-<p>The Gordian knot of military bureaucracy just wasn’t worth fighting today. </p>
+  <h4>June 14, 2020</h4>
+  The Gordian knot of military bureaucracy just wasn’t worth fighting today. </p>
 
 <p className="story">...
 <br/>
@@ -204,7 +203,7 @@ He handed the neatly stacked, laminated documents to the systemic man and preten
 “Not yet, Lieutenant,” the man sneered as he stood to face the Caso. 
 “Put your goddamn crimes of passion to rest and secure a real win tonight. 
 Then, if you’re lucky, I might consider your request, <i>Lieutenant</i>.” The Caso idly saluted and stomped back to his office to prepare a 
-battle plan. He sighed as he noticed a new smudge on the <i>Junior Lieutenant</i> nameplate, sitting sluggishly on his desk.
+battle plan. He sighed as he noticed a new scratch on the <i>Junior Lieutenant</i> nameplate, sitting sluggishly on his desk.
 <br/>
 <br/>
 Back out on the battlefield the soldiers were tired and the violence seemed infinite. Unknowingly fighting for nothing other than a broken man’s new nameplate, 
@@ -217,12 +216,12 @@ as they all watched the Jr. Lieutenant prepare the artillery for another inevita
 The night began, once again, with bloodshed. Several battles immediately rang out across the nations, with frustrated generals 
 continuing the attack orders amidst the truly random outcomes.  General Daddison, typically at the wrong end of the arbitrary 
 results, held strong even as the nation’s leaders were conspiring against him. The conspiracy came to an abrupt halt as the 
-Yellow army commander entered the conversation, and each nation worked to secure a strategic territory and make neighborly 
+Yellow army commander entered the public comms channel, and each nation worked to secure a strategic territory and make neighborly 
 agreements - albeit only through necessity. 
 <br/>
 <br/>
 The Caso, settling in the northwest, was sure this was the one. Repressing his desire to commit crimes of passion, the Jr. 
-Lieutenant felt confident in his alliances and territory, with a vision of a shiny new nameplate gaining new clarity. 
+Lieutenant felt confident in his alliances and territory, with a vision of a shiny new nameplate gaining clarity. 
 General Johnson, a warrior for the greater good, noticed the rare discipline of the Junior Lieutenant and concluded this was too 
 much power for the low-ranked leader. Johnson decided to break up the Blue army’s stronghold in return for nothing but a 
 few empty ‘thank yous’ from the other world leaders. Meanwhile, a desperate Yellow army was eagerly waiting at 
@@ -239,7 +238,7 @@ Jr. Lt. 'the' Caso was furious.</small>
 <div className="fullHeight">
   <p className="narration">
     As the grappling heart of the summer of 2020 continued to bleed out, the boys kept fighting in lieu of patching 
-    open wounds. Albeit ultimately meanlingless, small victories on the battlefield provided vital jolts of energy 
+    open wounds. Despite being ultimately meanlingless, small victories on the battlefield provided vital jolts of energy 
     to the desperate individuals lucky enough to aquire them.
   </p>
 </div>
@@ -276,16 +275,15 @@ Why would we change policies that kept us on top for hundreds of years? We <i>ju
 have an immigration problem to throw more military dollars at...and now, this. A god damn calamity, Caso. With your face 
 on the poster.”
 <br/>
-The superior officer collapsed into his chair, too fat and exhausted to fully comprehend the mess Caso left in his wake. 
-An unpleasant moment of silence hovered in the office before the old superior spoke again. 
+The superior officer collapsed into his chair, too fat and exhausted to fully comprehend the mess Caso had left in his wake. 
+An unpleasant moment of silence hovered ominously in the office before the old superior spoke again. 
 <br/>
 <br/>
 “I hear the original virus is beefing up on breakfast burritos and on the hunt for a new color. If we don’t wipe the 
 papers clean of this disaster immediately, we just might have an opening on Blue’s leadership team. And if the word 
-‘defund’ crosses my desk one more time, you can kiss any chance at promotion in a blue uniform goodbye, <i>for life</i>. 
+‘defund’ crosses my desk one more time, you can kiss any chance at a promotion in a blue uniform goodbye, <i>for life</i>." The superior suspired.
 <br/>
-Get out of my office, it smells like you defecated yourself.”
-<br/>
+"Get out of my office, it smells like you defecated yourself.”
 <br/>
 Caso, shocked at his superior’s analysis of his tiresome win, paused before he made his next move.
 <br/> 
@@ -302,7 +300,7 @@ The Junior Lieutenant turned and scampered out, suddenly aware that he had, in f
     <h3>June 29, 2020</h3>
 <small>
 “That squirrelly Lieutenant is becoming my biggest regret. What are my options?” The old Blue superior 
-was almost relieved by the news of his Junior Lieutenant’s sudden disappearance. 
+barked, almost relieved by the news of his Junior Lieutenant’s sudden disappearance. 
 <br/>
 “Desertion carries a maximum punishment of dishonorable discharge, forfeiture of all 
 tokens, and confinement of up to five weeks, sir.” 
@@ -319,9 +317,13 @@ clean. And call the old virus, we have an open position.”
 ...
 <br/>
 <br/>
-
-The news of Caso’s peace strike spread like wildfire and the generals were eager to take advantage 
-of the chance at a legitimate win. The war moved to the grounds of the freedom-loving US of A, a 
+</small>
+</p>
+<p className="news">
+<h2>General Serg Marches in Blue</h2>
+<small>
+News of Caso’s peace strike spread like wildfire and the generals were eager to take advantage 
+of the chance at a legitimate battle. The war moved to the grounds of the freedom-loving US of A, a 
 land where irony and juxtaposition had gone long past the point of humility. A place where extreme 
 individualism was posed to destroy a conceptual ideal perpetually doomed before the ink had even dried. 
 <i> All’s fair in love and war.</i> 
@@ -329,9 +331,9 @@ individualism was posed to destroy a conceptual ideal perpetually doomed before 
 <br/>
 
 As fate would have it, General Dowals was given the New England territory, formerly ruled by 
-King Brady who had fled to the south, presumably to gather fresher oranges. General Dowals 
+King Brady who had recently fled south, presumably to gather fresher oranges. General Dowals 
 quickly stacked the few borders of the advantageous territory, a privilege the elitist coasties 
-typically squander. Meanwhile, Ol General Patch was claiming sunny California and setting up camp 
+typically squander. Meanwhile, Ol General Patch claimed sunny California and set up camp 
 in the west, with the virus and General “Switzerland” Johnson taking up the middle of the divided 
 mess of a country. Without many options, the Red army made an attempt to seize the south, now 
 sandwiched between Orange and Purple bicoastal strongholds. Forced to choose a side, the Red army 
@@ -359,20 +361,20 @@ Rumors of a win by General Dowals have since surfaced, although the media cannot
 confirm or deny such claims without hard evidence. 
 <br/>
 <br/>
-
 ...
-<br/>
-<br/>
-
+</small>
+</p>
+<p className="story">
+  <small>
 “Strategies are like underwear,” the old Blue superior told his new recruit following an acceptable first performance in blue. 
 “Everyone has some, and they are all susceptible to being destroyed by a unruly heap of shit. 
 We need to wipe the news clean of the disaster and illegitimate wins Lieutenant Caso caused for the boys in blue. 
 A virus might just be the chaos we need to clear our record and go back to the days of old. Keep it up out there, 
-General Serg. If you succeed, we may one day enjoy the privilege of invincibility the blue uniform once gave us. 
+General Serg. If you succeed, we may again one day enjoy the privilege of invincibility the blue uniform once stood for. 
 Stir the bullshit up, but do so under the radar. We don’t need another pants-shitter steering this ship.”
 <br/>
 
-“Yes, sir” the General replied.
+“Yes, sir” General Serg replied.
 </small>
 </p>
 </div>
@@ -415,14 +417,18 @@ And with the simple motion of a contracting finger, blood was dispersed on a nig
   <p className="story">
   <h4>July 18, 2020</h4>
 <small>
-Blood-soaked and traumatized from the gruesome event carried out by Lieutenant the Caso, General Serg grabbed a blue uniform from the dead superior’s closet and haphazardly parted ways with the Lieutenant. Refuge was offered at the Orange camp, a desirable escape for The Virus as General Dowals’ “don’t ask don’t tell” policy was well established amongst the below-the-radar types. Donning the purloined blue uniform, General Serg entered the Orange Gates under diplomatic immunity and prepared for what would be a long, bloody, emotionally draining evening of war.
+Blood-soaked and traumatized from the gruesome event carried out by Lieutenant the Caso, General Serg grabbed a 
+blue uniform from the dead superior’s closet and haphazardly parted ways with the Lieutenant. 
+Refuge was offered at the Orange camp, a desirable escape for The Virus as General Dowals’ 
+<i>&nbsp;don’t ask don’t tell</i> policy was well established amongst the below-the-radar types. Donning the purloined blue uniform, General Serg entered the Orange Gates under diplomatic immunity and prepared for what would be a long, bloody, emotionally draining evening of war.
 </small>
 </p>
-<br/>
-<br/>
+</div>
 
-<p className="story">
-<h3>Controversial Turn Miss Causes Big Loss for Orange</h3>
+<div className="fullHeight">
+
+<p className="news">
+<h2>Controversial Turn Miss Causes Big Loss for Orange</h2>
 <h4>July 19, 2020</h4>
 </p>
 <p className="news">
@@ -457,12 +463,41 @@ HACK SUCCESSFUL.<br/>
 <br/>
 
 END MEMO
-
-
-
-  </p>
-
+</p>
 </div>
+
+<div className="fullHeight">
+  <p className="narration">
+    End of summer narration
+  </p>
+</div>
+
+<div className="fullHeight">
+<p className="news">
+  <h2>Fall Brings Same War, New Battles</h2>
+<h4>November 19, 2020</h4>
+
+Following an ominous but surprisingly amicable fall, the first winds of winter exposed the 
+shadows of War quickly approaching the precipice of peace. Verbal disagreements between the 
+Flock nations hinted at violence for the first time since the blood-soaked summer of 2020, 
+as Junior Lieutenant 'the' Caso, a well documented cheater, fired back at the accusation of foul play from General Johnson’s 
+press secretary. Threats of crimes of passion were immediately spewed by the Jr. Lieutenant, 
+who has been recently cleared of all murder charges following a questionably quick trial. 
+Although the Blue army has claimed to have held a fair, impartial trial by jury, the details 
+of the trial have been tightly concealed behind Blue walls, provoking suspicions of wrongdoing 
+and abuse of power. General Serg, another suspect and alleged accomplice in the murder case, 
+was swift in his attempt to de-escalate the situation between Jr. Lieutenant the Caso and 
+General Johnson’s press team. General Serg has since fled the Blue nation, escaping the 
+trial under diplomatic immunity, but his prompt and unfiltered response to the altercation could 
+suggest continued allegiance to the Blue army and its corrupt leaders. Rumors of technological 
+warfare have also resurfaced, as the true cause of General Dowals’ historic missing turn has yet 
+to be determined. As of this evening, no violence has been reported, however the unresolved conflicts 
+between the nations seems to suggest an overabundance of shit inside the tender bowels of War.
+
+</p>
+</div>
+
+
 
  </div>
   )
