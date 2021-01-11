@@ -641,12 +641,12 @@ perspiring ballsac openly swinging in the faces of his war-ravaged enemies.
 <br/>
 <br/>
 As the dust of disarray settled, a note was recovered from a blue army messenger found amongst the gruesome remains of the historic battle. The note read simply,
-<i>“Stir shit up, the Final Phase is upon us. 
--The Virus”</i>
-
-
-  </small>
-
+</small>
+</p>
+<p className="diary">
+Stir shit up, the Final Phase is upon us. 
+<br/>
+-The Virus
 </p>
 </div>
 
