@@ -565,6 +565,7 @@ intent, stating, “The dice don’t hate you, your friends do.”
 The anger was back, this time fueling a deep hatred for the Orange-filled map. Anger turned back to despair, and just as 
 the Junior Lieutenant was about to forfeit all hope and shit himself again, he heard a knock at the door. 
 <br/>
+<br/>
 “I have ninety-nine PBRs and some information about the Orange army you may be interested in,” said General Serg.
 <br/>
 “The virus is back, baby.”
