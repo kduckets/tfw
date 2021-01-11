@@ -96,10 +96,8 @@ scolds his soldiers and quietly plots his revenge.
 
   <div className="fullHeight">
   <h2>The Worth of War</h2>
-  <p className="narration">
+  <p className="story">
   <h5>May 10, 2020</h5>
-  </p>
-<p className="story">
  The eerie silence of the DMZ was eagerly shattered as Ol General Patch spiked his fancy wine-beer, 
   loudly declaring warfare across Europe. The destruction continued with the Almighty Johnson 
   demolishing France for the first victory of the evening. For the following battle, the Green army was swiftly cast to the 
