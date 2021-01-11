@@ -505,8 +505,8 @@ between the nations seems to suggest an overabundance of shit inside the tender 
 <h4>November 21, 2020</h4>
 <small>
 There it was again. He knew what he had to do; he knew what he should do. But he just couldn’t do it. 
-<i>I don’t deserve this,</i> he thought, staring in awe at the red, white, and blue hues of the magnificent parcel. 
-<i>This treasure is for champions.</i> His gazing eyes settled on the ribbon at the edge of the box. 
+<i>&nbsp;I don’t deserve this,</i> he thought, staring in awe at the red, white, and blue hues of the magnificent parcel. 
+<i>&nbsp;This treasure is for champions.</i> His gazing eyes settled on the ribbon at the edge of the box. 
 A ribbon representing first place; the top. The winner. The best. A Blue ribbon. 
 The Junior Lieutenant’s mind unwelcomely recalled the blue of his superior’s uniform, 
 soaked in red from the action he had once performed. A sawed-off shotgun in his hand. General Serg, in shock, by his side. 
@@ -517,9 +517,9 @@ The Jr. Lieutenant’s shame quickly morphed into anger as he sought to distribu
 <br/>
 Where had General Serg fled to after that unforgettable scene? Why had his only correspondence been a 
 cryptic memo about hacking the Orange base in the name of Blue victory? Was he working with General Dowals now, 
-in exchange for diplomatic immunity? Or perhaps just integrity? <i>The entire Blue organization is in shambles,</i> he thought. <i>Surely General 
+in exchange for diplomatic immunity? Or perhaps just integrity? <i>T&nbsp;he entire Blue organization is in shambles,</i> he thought. <i>&nbsp;Surely General 
   Serg has moved on to form other alliances.</i> His anger turned back to shame as part of an endless familiar cycle, and he slowly 
-  walked away from the ninety-nine units of liquid gold. <i>I must prepare; victory on the 
+  walked away from the ninety-nine units of liquid gold. <i>&nbsp;I must prepare; victory on the 
     battlefield is my only option to reclaim the honor a Blue uniform once represented.</i>
     <br/>
 If blood were currency, War would be rich.</small>
