@@ -529,10 +529,11 @@ If blood were currency, War would be rich.</small>
 <br/>
 ...
 </p>
-<p className="news">
+<p className="newsTitle">
 <h2>Nations Ban Together Against Blue</h2>
 <h4>November 22, 2020</h4>
-
+</p>
+<p className="news">
 Reports of chemical warfare involving General Daddison have resurfaced, as one nation in particular 
 couldn’t seem to adhere to the agreed upon wartime. Witnesses claim the tardy General was seen accepting 
 a piece of candy from the Yellow army leader just moments before the botched attempt at timeliness. 
