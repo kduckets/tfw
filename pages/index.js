@@ -575,7 +575,7 @@ the Junior Lieutenant was about to forfeit all hope and shit himself again, he h
 
 <div className="fullHeight">
 
-<h2>December 4, 2020</h2>
+<h2><b>December 4, 2020</b></h2>
 <p>A Nor’Easter of rain and snow descended upon the battlefield as the chaos and 
   tension of a seemingly endless war, now officially entering winter, began to puncture the 
   souls of both Generals and troops, blurring the lines of victory and defeat. 
