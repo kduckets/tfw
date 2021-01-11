@@ -109,7 +109,7 @@ scolds his soldiers and quietly plots his revenge.
   loudly declaring warfare across Europe. The destruction continued with the Almighty Johnson 
   demolishing France for the first victory of the evening. The Green army was swiftly cast to the 
   southwest corner for the following battle, relying on carefully executed alliances and manipulative 
-  lawyer-speak just to survive. Also fighting in the south, the piss-colored Yellow army was prematurely 
+  lawyer-speak just to survive. The piss-colored Yellow army, also fighting in the south, was prematurely 
   destroyed in both battles, leaving General Daddison with a fading taste of victory and an army 
   hungry for vengeance. As tensions grew late into the hours of darkness, General Dowals broke 
   a strong alliance with General Patch and began his valiant march through the north, only to be stopped 
