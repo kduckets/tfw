@@ -84,7 +84,7 @@ scolds his soldiers and quietly plots his revenge.
       Throughout the ceasefire, the politicians continued to bicker from high atop their castle walls, unable 
       to reach an agreement. 
       As egos squabbled, the fragile ice beneath the soldiers’ feet began to crack. 
-      Before too long, another armistice had been broken. The calls for peace had been silenced. 
+      Before too long, another armistice had been broken. The calls for peace had been silenced. Even dick jokes weren't funny anymore.
       </p>
       <p>Every so often, calls for harmony will nourish the potential for war...</p>
       </div>
