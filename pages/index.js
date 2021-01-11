@@ -430,7 +430,7 @@ Refuge was offered at the Orange camp, a desirable escape for The Virus as Gener
 
 <div className="fullHeight">
 
-<p className="news">
+<p className="newsTitle">
 <h2>Controversial Turn Miss Causes Big Loss for Orange</h2>
 <h4>July 19, 2020</h4>
 </p>
