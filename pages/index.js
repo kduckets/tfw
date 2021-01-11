@@ -584,8 +584,6 @@ the Junior Lieutenant was about to forfeit all hope and shit himself again, he h
   while the energy of the spirit is forced to the converse. In war, time can be hell; yet that 
   same time remains the last thing one can afford to lose.
   </p>
-<br/>
-<br/>
 ...
 <p className="story">
 
