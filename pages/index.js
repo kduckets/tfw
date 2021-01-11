@@ -126,7 +126,7 @@ scolds his soldiers and quietly plots his revenge.
 
 <div className="fullHeight">
 <p className="news">
-<h2>Jr. L. 'T.' Caso Gets Questionable Win</h2>
+<h2>Caso Gets Questionable Win</h2>
 <h4>May 17, 2020</h4>
 </p>
 <p className="news">
