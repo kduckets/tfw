@@ -6,7 +6,7 @@ export default function Home() {
       <Head>
         <title>The Flock Wars</title>
         <link rel="icon" href="/favicon.ico" />
-        <link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Inconsolata&display=swap" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Inconsolata&family=Caveat&family=Arapey&display=swap" rel="stylesheet"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
       </Head>
 
@@ -34,15 +34,21 @@ export default function Home() {
       <p className="narration"><small>An excerpt from General Kev’s diary:</small></p>
       <p className="diary"><b>April 20, 2020</b></p>
       <p className="diary">
-      The unrest amongst the group has lead to a few seemingly harmless battles to air some petty grievances. Tonight my battle strategy was sound, but the execution was poor. We had built up a huge border defense on the southern region during the Battle of Caso-Johnson, but left an unfortunate gap when I sent a western army, fully armed, up through Canada. 
-      Devistatingly, I ran outta time just as I was hitting the fortify button. That small opening was all General Johnson's army needed to make its move. 
+      The unrest amongst the group has lead to a few seemingly harmless battles to air some petty grievances. 
+      Tonight my battle strategy was sound, but the execution was poor. We had built up a huge border defense on 
+      the southern region during the Battle of Caso-Johnson, but left an unfortunate gap after sending a western army up 
+      through Canada and ran outta time just as I was hitting the fortify button. That small opening was all General Johnson's army needed to make its move. 
       Bruised, but not defeated from the bloody Caso-Johnson war, General Johnson sent his men down through the gap and wreaked havoc on the southern region. 
       The fight continued in Canada but it was not enough to take down the almighty Johnson. With a damaged south and a once cololorful map 
       now only scattered with red, General Johnson was able to return north and claim victory once again.
 
-      The battle is over, but the scars remain.</p>
-
+      The battle is over, but the scars remain.
+      </p>
+      <p className="diary">
       <img src='/xo.png' height="200px"></img>
+      
+      &nbsp;&nbsp;   &nbsp;&nbsp;    ^ battle strategy
+      </p>
       </div>
 
       <div className="fullHeight">
@@ -55,9 +61,9 @@ export default function Home() {
  
       </div>
 
-      <div className="fullHeight">
-   <p className="story">
-<h3>G. Johnson Falls Hard</h3>
+<div className="fullHeight">
+   <p className="news">
+<h2>G. Johnson Falls Hard</h2>
 <h4>May 3, 2020</h4>
 </p>
 <p className="news">
@@ -98,10 +104,11 @@ scolds his soldiers and quietly plots his revenge.
   <h2>The Worth of War</h2>
   <p className="story">
   <h5>May 10, 2020</h5>
- The eerie silence of the DMZ was eagerly shattered as Ol General Patch spiked his fancy wine-beer, 
+  <small>
+ The eerie tranquility of the DMZ was eagerly shattered as Ol General Patch spiked his fancy wine-beer, 
   loudly declaring warfare across Europe. The destruction continued with the Almighty Johnson 
-  demolishing France for the first victory of the evening. For the following battle, the Green army was swiftly cast to the 
-  southwest corner, relying on carefully executed alliances and manipulative 
+  demolishing France for the first victory of the evening. The Green army was swiftly cast to the 
+  southwest corner for the following battle, relying on carefully executed alliances and manipulative 
   lawyer-speak just to survive. Also fighting in the south, the piss-colored Yellow army was prematurely 
   destroyed in both battles, leaving General Daddison with a fading taste of victory and an army 
   hungry for vengeance. As tensions grew late into the hours of darkness, General Dowals broke 
@@ -110,8 +117,7 @@ scolds his soldiers and quietly plots his revenge.
   bleed across the north, claiming the final victory of the night from his tiny camp on Randall’s island.
   <br/>
   <br/>
-  <small>
-  <i>“In war, whichever side may call itself the victor, there are no winners, but all are losers”</i>, Jr. Lieutenant 'the' 
+  <i>In war, whichever side may call itself the victor, there are no winners, but all are losers,&nbsp;</i> Jr. Lieutenant 'the' 
   Caso tells himself as he contemplates his failed alliance strategies. The Junior Lieutenant looks over his 
   Blue army, now appearing purple from the blood soaked uniforms, and quietly tells them to go home and “thank 
   your mothahs”.
@@ -119,8 +125,8 @@ scolds his soldiers and quietly plots his revenge.
   </div>
 
 <div className="fullHeight">
-<p className="story">
-<h3>Jr. L. 'T.' Caso Gets Questionable Win</h3>
+<p className="news">
+<h2>Jr. L. 'T.' Caso Gets Questionable Win</h2>
 <h4>May 17, 2020</h4>
 </p>
 <p className="news">
@@ -146,7 +152,7 @@ senseless violence to fuel the cycle of incessant devastation.</p>
 
 ...
 
-<p className="story"><small>The soft echoes of peace were quickly silenced as Junior Lieutenant 
+<p className="story"><small>The pale echoes of peace were swiftly silenced as Junior Lieutenant 
 'the' Caso dropped his curry dinner, allegedly distracted by the sirenesque 
 sounds of General Dowals’ mistress. Filled with shame and regret, the Lieutenant 
 cracked a can of watery tuna and heeded the calls of war to fill the painful void. 
@@ -231,6 +237,67 @@ Jr. Lt. 'the' Caso was furious.</small>
 </div>
 
 <div className="fullHeight">
+  <p className="narration">
+    As the grappling heart of the summer of 2020 continued to bleed out, the boys kept fighting in lieu of patching 
+    open wounds. Albeit ultimately meanlingless, small victories on the battlefield provided vital jolts of energy 
+    to the desperate individuals lucky enough to aquire them.
+  </p>
+</div>
+
+<div className="fullHeight">
+<p className="news">
+<h2>Blue Virus Loots Pathetic 'Victory'</h2>
+<h4>June 20, 2020</h4>
+In a pitiful display of desperation, Jr. Lieutenant ‘the’ Caso utilized despicable war tactics such as 
+inciting chaos, camping, shielding, tear gassing, and attacking without formally breaking alliances to 
+steal a dissatisfying win from the warring nations. Analysts are left questioning the legitimacy of the 
+Blue nation and are considering pulling global funding from the deplorable boys in blue. Even war has its 
+limits, and the Blue army has shown it will show no shame in the lines it is willing to cross in order to 
+maintain power. Any respect and authority the nation once held is certainly dwindling, if not already nonexistent. 
+The nations of the world will be holding several meetings over the course of the next few months to determine 
+the fate of the Blue army and its questionable constituents.
+</p>
+</div>
+
+<div className="fullHeight">
+<p className="story">
+  <h3>June 21, 2020</h3>
+<small>
+“Wipe that shit grin off your face before I demote you back to infantry, <i>Junior Lieutenant</i>.” 
+<br/>
+<br/>
+The Caso’s superior hung his head in disgrace, unable to look the Lieutenant in the eye. Caso’s grin quickly faded. 
+<br/>
+“In all my years, I have never seen such poppycock. Camping at the fucking pier? Attacking the north for no reason? 
+And now every headline is calling you the new virus in town? Your bullshit ‘win’ off the coattails of General Johnson’s 
+prudent strategy is a PR catastrophe. I’m sure you’re now aware of the calls for a full blue systemic reform? The boys 
+in blue were sitting pretty, Caso. For centuries. Nobody questioned our authority. Our funding had been skyrocketing. 
+Why would we change policies that kept us on top for hundreds of years? We <i>just</i> got finished convincing the public we 
+have an immigration problem to throw more military dollars at...and now, this. A god damn calamity, Caso. With your face 
+on the poster.”
+<br/>
+The superior officer collapsed into his chair, too fat and exhausted to fully comprehend the mess Caso left in his wake. 
+An unpleasant moment of silence hovered in the office before the old superior spoke again. 
+<br/>
+<br/>
+“I hear the original virus is beefing up on breakfast burritos and on the hunt for a new color. If we don’t wipe the 
+papers clean of this disaster immediately, we just might have an opening on Blue’s leadership team. And if the word 
+‘defund’ crosses my desk one more time, you can kiss any chance at promotion in a blue uniform goodbye, <i>for life</i>. 
+<br/>
+Get out of my office, it smells like you defecated yourself.”
+<br/>
+<br/>
+Caso, shocked at his superior’s analysis of his tiresome win, paused before he made his next move.
+<br/> 
+“A win’s a win though, right, sir?”
+<br/>
+“GET OUT!” the superior roared, finally gazing directly into the Caso’s eyes. 
+The Junior Lieutenant turned and scampered out, suddenly aware that he had, in fact, shit himself.
+</small>
+</p>
+</div>
+
+<div className="fullHeight">
   <p className="story">
     <h3>June 29, 2020</h3>
 <small>
@@ -242,7 +309,7 @@ tokens, and confinement of up to five weeks, sir.”
 <br/>
 “Fine, find him and lock him up.” 
 <br/>
-“Well sir, for desertion during a time of war, the ultimate punishment may be applied...”
+“Well sir, for desertion during a time of war, the <i>ultimate punishment</i> may be applied...”
 <br/>
 “Just find him. Check the rivers, we know he had some poopy pants to 
 clean. And call the old virus, we have an open position.”
