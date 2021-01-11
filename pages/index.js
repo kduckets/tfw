@@ -184,7 +184,7 @@ perhaps the world), allowing a blood-colored history to once again, repeat itsel
 
 <div className="fullHeight">
 
-  <p className="story"><h4>June 14, 2020</h4></p>
+  <h3>June 14, 2020</h3>
   <p> The Gordian knot of military bureaucracy just wasn’t worth fighting today. </p>
 
 <p className="story">...
