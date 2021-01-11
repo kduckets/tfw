@@ -588,8 +588,6 @@ the Junior Lieutenant was about to forfeit all hope and shit himself again, he h
 <p className="story">
 
 <h2><i>The War of Passion:</i> Part I</h2>
-<br/>
-<br/>
 <small>
 The night began as any other, with nations grabbing their respective corners of the map through 
 blood and handshakes. Jr. Lt ‘the’ Caso, recently stunned by a devastating box cat mobile defeat, 
@@ -610,11 +608,13 @@ territory, planting a large army against an important red border, causing yet an
 Winds howled, blood spilled, and passions tensed, all while the imminent shitstorm of War awaited eagerly on the horizon.
 <br/>
 <br/>
+</small>
 ...
 <br/>
 <br/>
+
 <h2><i>The War of Passion:</i> Part II</h2>
-<br/>
+<small>
 “I didn’t attack you!” the Jr Lieutenant roared over the public comms to the fuming Red army, who was upset about 
 the recent shift in alliances that was occurring. The Jr. Lieutenant’s words and actions were not in alignment, 
 as a formal Red/Blue agreement was broken while the Blue army brute-forced an aggressive amount of troops into a 
