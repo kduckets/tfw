@@ -573,6 +573,58 @@ the Junior Lieutenant was about to forfeit all hope and shit himself again, he h
 </p>
 </div>
 
+<div className="fullHeight">
+<p className="story">
+  <small>
+<h4>December 4, 2020</h4>
+A Nor’Easter of rain and snow descended upon the battlefield as the chaos and tension of a seemingly endless war, now entering winter, began to puncture the souls of both Generals and troops, blurring the lines of victory and defeat. Time, as they say, can be the mother of spirit; and time in war, quite the contrary. It’s only a matter of  that time in which the turmoils of war begin to rear their ugly heads, while the energy of the spirit is forced to the converse. In war, time can be hell; yet that same time remains the last thing one can afford to lose.
+<br/>
+<br/>
+...
+<br/>
+<br/>
+<h2><i>The War of Passion:</i> Part I</h2>
+<br/>
+<br/>
+The night began as any other, with nations grabbing their respective corners of the map through blood and handshakes. Jr. Lt ‘the’ Caso, recently stunned by a devastating box cat mobile defeat, quickly found himself sandwiched between the north and south - a position that would ultimately define the evening. As Generals Johnson and Dowals formed a strong southern alliance, the vacillating Jr. Lieutenant remained fairly neutral; albeit following a handful of General Dowals’ orders to assist with border disputes against a growing yellow army in the northeast. These small quarrels largely yielded stalemate until the silence was inevitably broken, providing the opportunity for all hell to break loose. The fuse of chaos was lit by some harsh words exchanged between General Daddison and General Dowals, foreshadowing the War of Passion that was about to materialize. General Dowals, in the name of passion itself, began to march north to defend his army against the words of General Daddison. A strong northern partnership between Generals Daddison and Kev fought back against the marching southern tyrant and his Jr Lieutenant minion, causing a tangential battle to break out between blue and red in the west. General Dowals’ propaganda attempts at first looked to persuade Jr. Lt ‘the’ Caso to join the fascist Orange regime for the foreseeable future, however the Orange army’s power and status blinded the General to the back door negotiations that were occurring between blue and red out west. In a pivotal turning point, the blue army, under orders of General Dowals, moved aggressively into General Daddison’s territory, planting a large army against an important red border, causing yet another territorial dispute in the north. Winds howled, blood spilled, and passions tensed, all while the imminent shitstorm of War awaited eagerly on the horizon.
+<br/>
+<br/>
+...
+<br/>
+<br/>
+<h2><i>The War of Passion:</i> Part II</h2>
+<br/>
+“I didn’t attack you!” the Jr Lieutenant roared over the public comms to the fuming red army, who was upset about 
+the recent shift in alliances that was occurring. The Jr. Lieutenant’s words and actions were not in alignment, 
+as a formal Red/Blue agreement was broken while the blue army brute-forced an aggressive amount of troops into a 
+strategic territory for the Yellow/Red northern partnership. This event allowed General Dowals, under the pretense 
+of fully securing the Caso’s allegiance, to formally declare war on the north, while General Kev continued his 
+attempts at defusing growing tensions between the northern alliance and the historically irrational Blue leader. 
+The stakes had never been higher to gain the blue army’s support.
+<br/>
+<br/>
+Following General Kev’s impassioned speech about the dangers of fascism, Jr. Lieutenant ‘the’ Caso 
+reevaluated his position and quietly agreed to join the north’s pursuit against the southern dictatorship, 
+in what was to become a major wartime turning point. Unbeknownst to General Dowals, General Kev now had the 
+support of the Blue army and was able to launch a blitzkrieg on the south, landing a direct hit on one of the Orange 
+army’s largest southern strongholds. Furious at the Jr. Lieutenant’s treasonous actions,  General Dowals removed his 
+nutsack from his orange uniformed pants and proceeded to aggressively wipe his sweaty testicles all over the map, 
+stirring a sea of passion and yelling unmatched by any previous moment in this shithell of a war. The eye of the storm 
+had focused its glare.
+<br/>
+“I’m above the meridian!” the Jr. Lieutenant urged, suddenly facing several counts of treason within the walls of the Orange nation. Disgusted with the state of the warring nations, General Dowals made one last plea to his by-standing Green southern ally, to no avail. With few options left, the Orange army commander teared up the middle of the map, kamikazing into the Red territory of the northwest, with his perspiring ballsac openly swinging in the faces of his war-ravaged enemies.
+<br/>
+<br/>
+As the dust of disarray settled, a note was recovered from a blue army messenger found amongst the gruesome remains of the historic battle. The note read simply,
+<i>“Stir shit up, the Final Phase is upon us. 
+-The Virus”</i>
+
+
+  </small>
+
+</p>
+</div>
+
 
 
  </div>
