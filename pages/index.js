@@ -652,8 +652,93 @@ Stir shit up, the Final Phase is upon us.
 </p>
 </div>
 
+<div className="fullHeight">
+ 
+<p>As the battles carry over into a new year, the longing for an end to the war is palpable. </p> 
+<p className="newsTitle">
+    <h2>Ol Patch Nukes Green Goliath</h2>
+    <h4>January 3, 2021</h4>
+    </p>
 
-
+<p className="news">
+In yet another night colored by passion and crimes, desperation drove General Daddison to an attempted 
+raid of the red army’s uniforms while simultaneously claiming “only a fool cares about the color he dons”. 
+The failed operation led to General Kev pitying the winless piss-yellow army, offering the powerful red 
+uniform to General Daddison if he could actually claim a victory. Spoiler alert: he didn’t. 
+<br/>
+<br/>
+The eye of the battle quickly focused south, as a powerful Green army placed a colossal missile 
+staring straight up the butthole of the eastern region of the map. General Dowals and General Kev made 
+the strategic decision to ally against the Green threat, pledging to stage a joint attack for the benefit 
+of all nations. General Daddison, who had spent the early battle launching petty attacks against the red 
+uniforms he so desperately wanted, refused to join the alliance stating “I won’t join your war but I will 
+stop passioning your ass for now.”
+<br/>
+<br/>
+The Orange army began the defensive attack with a powerful blow to Green from Japan. To the shock of the 
+world, air support to the mission was provided by Ol General Patch who launched a surprise nuke directly at 
+General Johnson’s reserves in the north, decimating the Green army’s chance at victory. 
+“Remember the Ol General Patch!” the nations cheered at the uncharacteristic Purple move. 
+General Kev, staying true to his word, offered the all but finishing blow to General Johnson, 
+moving south in an effort to untangle the east and escape the passion war with General Daddison. The 
+Green army struck back with bitter vengeance, clearing all Red army reserves from the north in lieu of 
+rebuilding his fallen empire. As the green ship sank pulling the red army down with it, General Johnson 
+turned his steaming glare to General Patch, as if to say, “General Johnson doesn’t forget.”
+<br/>
+<br/>
+Following the altruistic takedown of the Green Goliath, the remaining nations fought for the renewed 
+opportunity at victory. Albeit building an impressively sized army, General Daddison’s middle position 
+proved too difficult to protect, eventually leaving a thin path for one of the strong coastal nations to 
+march through. The initial attempt was made by General Dowals, a valiant, calculated effort held short of 
+victory by just a single country. The void proved fruitful for General Patch, who launched his now unrivaled 
+nukes over a war-torn land, claiming a much-needed victory. Experts say had it not been for his air support 
+during the Battle of the Green Goliath, history would sing a different song. The Green army leader, when 
+asked for a comment, condescendingly referred to this analysis as “counterfactual”.
+<br/>
+<br/>
+The second battle of the evening proved to be a battle of grievances, as many tend to be. 
+General Johnson followed through on his vows to eliminate the previously victorious Purple 
+army via yet another kamikaze mission. Meanwhile, conspiracies over the red/orange alliances emerged, 
+ultimately leading to Jr. Lieutenant “the” Caso clouding the comms channel with outright fables. 
+Meanwhile, General Daddison used the conspiracy theories to continue his war of passion against 
+the red uniform he so desired. With the yellow and red armies unable to reach an agreement, the two 
+armies slowly chipped away at each other, giving General Dowals the opportunity to quietly rebuild his 
+army in the south, simultaneously claiming publicly, “I am willing to die for you, General Kev.” Claims of 
+surrender didn’t fool anyone, however the blue army was not strong enough to hold General Dowals off and 
+the Orange army eventually marched through the bloody north, to victory. 
+<br/>
+<br/>
+After a suspiciously quiet night from Jr. Lieutenant the Caso, the press has intercepted a 
+correspondence from the Blue army headquarters, as it was accidentally addressed to <i>'Cyrus the V-brb I just shat myself'. </i>
+ The letter will be published, unaltered, to serve as a public service announcement warning of a dangerous, 
+ potentially psychotic Jr Lieutenant, currently a fugitive under international law.
+ </p>
+<p className="diary">
+Dear General Serg,
+<br/>
+<br/>
+It’s been a few moon cycles since we last spoke, and it seems the war has truly shattered us all. I assume you’re out there, lurking in the shadows, silently building strength; but the Blue army could really use an ally such as yourself in these trying times. War has made monsters of all its proprietors.
+<br/>
+<br/>
+This evening, as conspirators perpetuated ideas that only gain momentum through popularity of opinion, I was so disillusioned that I started completely making up stories about General Kev stabbing General Dowals in the back. When the chaos and insanity begin to normalize - that’s when you know you’ve reached the inner circles of the hell of war.
+<br/>
+<br/>
+They say the end is near; that there’s a cure to this devastation on the horizon. I’m just not sure we can take much more of this madness. And although we have no choice but to fight the war, it is clear both soldiers and leaders alike are growing more and more longing for the times of before; if those times can ever even be again. 
+<br/>
+<br/>
+While the other nations fight their own battles, all I ever desired was to obtain the General’s title. All the crimes, passion, and murder will have been for nothing if we don’t succeed in that goal. Once I become General of the Blue army, I promise you diplomacy and the highest Blue honor - which comes with perks beyond your wildest dreams. I just ask for your immediate assistance, as my only chance at achieving the rank I deserve is to bring home an uncontested Blue victory. The nations are weak, General Serg. It is time for us to strike. 
+<br/>
+<br/>
+Warmest regards,
+<br/>
+Jr. Lieutenant the Caso
+<br/>
+<br/>
+</p>
+<p className="news"><i>Editor’s note: Traces of human feces were found on both the letter and the envelope. All materials will be sent to the lab for further testing. 
+</i>
+  </p>
+</div>
  </div>
   )
 }
