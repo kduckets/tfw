@@ -95,9 +95,9 @@ scolds his soldiers and quietly plots his revenge.
       </div> */}
 
   <div className="fullHeight">
-  <p className="story">
-    <h3>The Worth of War</h3>
-  <h4>May 10, 2020</h4>
+  <h2>The Worth of War</h2>
+  <p className="narration">
+  <h5>May 10, 2020</h5>
   </p>
 <p className="story">
  The eerie silence of the DMZ was eagerly shattered as Ol General Patch spiked his fancy wine-beer, 
@@ -141,9 +141,8 @@ scolds his soldiers and quietly plots his revenge.
 
 
 <div className="fullHeight">
-<p className="narration">June 7, 2020</p>
-
-<p className="story"><h3>The Many Colors of War</h3></p>
+<p className="narration"><small>June 7, 2020</small></p>
+<h2>The Many Colors of War</h2>
 <p>Chaos and crimes of passion overshadowed any hope for actual strategy, as verbal conflict blended with 
 senseless violence to fuel the cycle of incessant devastation.</p> 
 
@@ -179,7 +178,8 @@ perhaps the world) allowing a blood-colored history to once again, repeat itself
 </div>
 
 <div className="fullHeight">
-<p className="narration">June 14, 2020</p>
+<p className="narration">
+  <h4>June 14, 2020</h4></p>
 
 <p>The Gordian knot of military bureaucracy just wasn’t worth fighting today. </p>
 
@@ -234,7 +234,7 @@ Jr. Lt. 'the' Caso was furious.</small>
 
 <div className="fullHeight">
   <p className="story">
-    <h4>June 29, 2020</h4>
+    <h3>June 29, 2020</h3>
 <small>
 “That squirrelly Lieutenant is becoming my biggest regret. What are my options?” The old Blue superior 
 was almost relieved by the news of his Junior Lieutenant’s sudden disappearance. 
