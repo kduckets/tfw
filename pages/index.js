@@ -62,7 +62,7 @@ export default function Home() {
       </div>
 
 <div className="fullHeight">
-   <p className="news">
+   <p className="newsTitle">
 <h2>Johnson Falls Hard</h2>
 <h4>May 3, 2020</h4>
 </p>
@@ -125,7 +125,7 @@ scolds his soldiers and quietly plots his revenge.
   </div>
 
 <div className="fullHeight">
-<p className="news">
+<p className="newsTitle">
 <h2>Caso Gets Questionable Win</h2>
 <h4>May 17, 2020</h4>
 </p>
@@ -244,9 +244,11 @@ Jr. Lt. 'the' Caso was furious.</small>
 </div>
 
 <div className="fullHeight">
-<p className="news">
+<p className="newsTitle">
 <h2>Blue Virus Loots Pathetic 'Victory'</h2>
 <h4>June 20, 2020</h4>
+</p>
+<p className="news">
 In a pitiful display of desperation, Jr. Lieutenant ‘the’ Caso utilized despicable war tactics such as 
 inciting chaos, camping, shielding, tear gassing, and attacking without formally breaking alliances to 
 steal a dissatisfying win from the warring nations. Analysts are left questioning the legitimacy of the 
@@ -319,9 +321,10 @@ clean. And call the old virus, we have an open position.”
 <br/>
 </small>
 </p>
+
+<p className="newsTitle">
+<h2>General Serg Marches in Blue</h2></p>
 <p className="news">
-<h2>General Serg Marches in Blue</h2>
-<small>
 News of Caso’s peace strike spread like wildfire and the generals were eager to take advantage 
 of the chance at a legitimate battle. The war moved to the grounds of the freedom-loving US of A, a 
 land where irony and juxtaposition had gone long past the point of humility. A place where extreme 
@@ -362,7 +365,6 @@ confirm or deny such claims without hard evidence.
 <br/>
 <br/>
 ...
-</small>
 </p>
 <p className="story">
   <small>
@@ -474,23 +476,23 @@ END MEMO
 
 <div className="fullHeight">
 <p className="news">
-  <h2>Fall Brings Same War, New Battles</h2>
+<h2>Whispers of Winter War</h2>
 <h4>November 19, 2020</h4>
 
 Following an ominous but surprisingly amicable fall, the first winds of winter exposed the 
-shadows of War quickly approaching the precipice of peace. Verbal disagreements between the 
-Flock nations hinted at violence for the first time since the blood-soaked summer of 2020, 
-as Junior Lieutenant 'the' Caso, a well documented cheater, fired back at the accusation of foul play from General Johnson’s 
-press secretary. Threats of crimes of passion were immediately spewed by the Jr. Lieutenant, 
-who has been recently cleared of all murder charges following a questionably quick trial. 
-Although the Blue army has claimed to have held a fair, impartial trial by jury, the details 
+shadows of War quickly approaching the precipice of Peace. Verbal disagreements between the nations hinted at violence for 
+the first time since the blood-soaked summer of 2020.
+Junior Lieutenant 'the' Caso, a well documented cheater, fired back at an accusation of foul play from General Johnson’s 
+press secretary, triggering the war-hungry nations to re-enter the arena. Threats of crimes of passion were immediately spewed by the Jr. Lieutenant, 
+recently cleared of murder charges following a questionably quick trial. 
+Although the Blue army has claimed to have held an impartial trial by jury, the details 
 of the trial have been tightly concealed behind Blue walls, provoking suspicions of wrongdoing 
 and abuse of power. General Serg, another suspect and alleged accomplice in the murder case, 
 was swift in his attempt to de-escalate the situation between Jr. Lieutenant the Caso and 
-General Johnson’s press team. General Serg has since fled the Blue nation, escaping the 
-trial under diplomatic immunity, but his prompt and unfiltered response to the altercation could 
+General Johnson’s press team. General Serg has since fled the Blue nation, escaping his 
+trial under diplomatic immunity, however his prompt and unfiltered response to the altercation could 
 suggest continued allegiance to the Blue army and its corrupt leaders. Rumors of technological 
-warfare have also resurfaced, as the true cause of General Dowals’ historic missing turn has yet 
+warfare have also resurfaced, as the true cause of General Dowals’ historic missing turn over the summer has yet 
 to be determined. As of this evening, no violence has been reported, however the unresolved conflicts 
 between the nations seems to suggest an overabundance of shit inside the tender bowels of War.
 
