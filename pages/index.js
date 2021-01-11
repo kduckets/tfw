@@ -615,13 +615,13 @@ Winds howled, blood spilled, and passions tensed, all while the imminent shitsto
 <br/>
 <h2><i>The War of Passion:</i> Part II</h2>
 <br/>
-“I didn’t attack you!” the Jr Lieutenant roared over the public comms to the fuming red army, who was upset about 
+“I didn’t attack you!” the Jr Lieutenant roared over the public comms to the fuming Red army, who was upset about 
 the recent shift in alliances that was occurring. The Jr. Lieutenant’s words and actions were not in alignment, 
-as a formal Red/Blue agreement was broken while the blue army brute-forced an aggressive amount of troops into a 
+as a formal Red/Blue agreement was broken while the Blue army brute-forced an aggressive amount of troops into a 
 strategic territory for the Yellow/Red northern partnership. This event allowed General Dowals, under the pretense 
 of fully securing the Caso’s allegiance, to formally declare war on the north, while General Kev continued his 
 attempts at defusing growing tensions between the northern alliance and the historically irrational Blue leader. 
-The stakes had never been higher to gain the blue army’s support.
+The stakes had never been higher to gain the Blue army’s support.
 <br/>
 <br/>
 Following General Kev’s impassioned speech about the dangers of fascism, Jr. Lieutenant ‘the’ Caso 
@@ -633,7 +633,11 @@ nutsack from his orange uniformed pants and proceeded to aggressively wipe his s
 stirring a sea of passion and yelling unmatched by any previous moment in this shithell of a war. The eye of the storm 
 had focused its glare.
 <br/>
-“I’m above the meridian!” the Jr. Lieutenant urged, suddenly facing several counts of treason within the walls of the Orange nation. Disgusted with the state of the warring nations, General Dowals made one last plea to his by-standing Green southern ally, to no avail. With few options left, the Orange army commander teared up the middle of the map, kamikazing into the Red territory of the northwest, with his perspiring ballsac openly swinging in the faces of his war-ravaged enemies.
+“I’m above the meridian!” the Jr. Lieutenant urged, suddenly facing several counts of treason within 
+the walls of the Orange nation. Disgusted with the state of the warring nations, General Dowals made one 
+last plea to his by-standing Green southern ally, to no avail. With few options left, the Orange army 
+commander teared up the middle of the map, kamikazing into the Red territory of the northwest, with his 
+perspiring ballsac openly swinging in the faces of his war-ravaged enemies.
 <br/>
 <br/>
 As the dust of disarray settled, a note was recovered from a blue army messenger found amongst the gruesome remains of the historic battle. The note read simply,
