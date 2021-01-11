@@ -383,7 +383,7 @@ Stir the bullshit up, but do so under the radar. We don’t need another pants-s
 </div>
 
 <div className="fullHeight">
-  <h1>July 4, 2020</h1>
+  <h1><b>July 4, 2020</b></h1>
 
   <p>
     <small>
