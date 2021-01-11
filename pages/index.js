@@ -500,6 +500,58 @@ between the nations seems to suggest an overabundance of shit inside the tender 
 </p>
 </div>
 
+<div className="fullHeight">
+<p className="story">
+<h2>November 21, 2020</h2>
+
+There it was again. He knew what he had to do; he knew what he should do. But he just couldn’t do it. ‘I don’t deserve this,’ he thought, staring in awe at the red, white, and blue hues of the magnificent parcel. “This treasure is for champions.” His gazing eyes settled on the ribbon at the edge of the box. A ribbon representing first place; the top. The winner. The best. A Blue ribbon. The Junior Lieutenant’s mind unwelcomely recalled the blue of his superior’s uniform, soaked in red from the action he had once performed. A sawed-off shotgun in his hand. General Serg, in shock, by his side. A gruesome scene he had replayed in his mind incessantly since the incident. Every lie he told during the trial, every corrupt testimony from a loyal blue soldier, every moment of deceit and scam - this scene would replay in his mind. He understood he was the very definition of a cheater; certainly unworthy of the ninety-nine Blue ribbon winners laying before him. The Jr. Lieutenant’s shame quickly morphed into anger as he sought to distribute some of the blame. Where had General Serg fled to after that unforgettable scene? Why had his only correspondence been a cryptic memo about hacking the Orange base in the name of Blue victory? Was he working with General Dowals now, in exchange for diplomatic immunity? Or perhaps just integrity? ‘The entire Blue organization is in shambles,’ he thought. ‘Surely General Serg has moved on to form other alliances.’ His anger turned back to shame as part of an endless familiar cycle, and he slowly walked away from the ninety-nine units of liquid gold. ‘I must prepare; victory on the battlefield is my only option to reclaim the honor a Blue uniform once represented.’
+If blood were a currency, War would be rich.
+<br/>
+<br/>
+...
+</p>
+<p className="news">
+<h2>Nations Ban Against Blue</h2>
+<h4>November 22, 2020</h4>
+
+Reports of chemical warfare involving General Daddison have resurfaced, as one nation in particular 
+couldn’t seem to adhere to the agreed upon wartime. Witnesses claim the tardy General was seen accepting 
+a piece of candy from the Yellow army leader just moments before the botched attempt at timeliness. 
+This is certainly not the first allegation of chemical warfare on General Daddison’s resumé, and the 
+press will continue to investigate the matter. Perhaps a result of chemical warfare backfire, the Yellow 
+army showed up in purple uniforms, prompting questions of collusion and even dice manipulation. No charges 
+have been pressed at the time of this publication.
+<br/>
+<br/>
+Meanwhile, Junior Lieutenant “the” Caso, fresh out of the courtroom as a free man, was prompt and 
+eager to cast a shadow over the shameful events that had recently transpired across the Blue nation. 
+Communicating over a secure Generals-only line, the Generals agreed to pull soldiers from the second 
+battlefield, leaving the outranked Junior Lieutenant to unknowingly sacrifice blue blood to mere outdated 
+battle drones. The battle was officially called a draw, and although no winner was declared, there seemed to be an obvious loser.
+<br/>
+<br/>
+The Junior Lieutenant’s hopes of redemption continued to fade as the nation’s leaders remained on the 
+Generals-only comms channel for the final battle of the evening. The Generals unanimously agreed to 
+wipe the Caso off the map, sending a clear message to the disgraced Blue nation. Unaware of his 
+pre-determined fate, the Junior Lieutenant attributed his destruction to the “truly random” dice rolls, 
+perhaps conspiring against him. General Johnson responded with a savage memo, clearly declaring the nations’ 
+intent, stating, “The dice don’t hate you, your friends do.”
+</p>
+<p className="story">
+... 
+<br/>
+<br/>
+“Fucking hell,” the Junior Lieutenant muttered, watching yet another General Dowals’ victory play out in front of him. 
+The anger was back, this time fueling a deep hatred for the Orange-filled map. Anger turned back to despair, and just as 
+the Junior Lieutenant was about to forfeit all hope and shit himself again, he heard a knock at the door. 
+<br/>
+“I have ninety-nine PBRs and some information about the Orange army you may be interested in,” said General Serg.
+<br/>
+“The virus is back, baby.”
+
+</p>
+</div>
+
 
 
  </div>
