@@ -455,7 +455,7 @@ enough distraction for the Virus to spread, and eventually claim victory over a 
 <br/>
 <br/>
 Immediately following General Serg’s triumph, an intercepted transmission was 
-acquired by an anonymous source associated with the press, and will be published as follows, unaltered:
+acquired by an anonymous source associated with the press, and will be published, unaltered:
 <br/>
 <br/>
 TO: JR LT “T.” CASO<br/>
