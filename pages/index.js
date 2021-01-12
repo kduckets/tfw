@@ -304,7 +304,7 @@ The Junior Lieutenant turned and scampered out, suddenly aware that he had, in f
 
 <div className="fullHeight">
   <p className="narration">
-  While the arduous Summer blazed on, a few of the dudes escaped to the wilderness
+  While the arduous Summer blazed on, some of the dudes escaped to the wilderness
    to seek solace from both the individual isolation and communal devastation. 
   </p>
 </div>
