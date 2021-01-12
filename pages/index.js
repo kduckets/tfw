@@ -279,7 +279,7 @@ And now every headline is calling you the new virus in town? Your bullshit ‘wi
 prudent strategy is a PR catastrophe. I’m sure you’re now aware of the calls for a full blue systemic reform? The boys 
 in blue were sitting pretty, Caso. For centuries. Nobody questioned our authority. Our funding had been skyrocketing. 
 Why would we change policies that kept us on top for hundreds of years? We <i>just</i> got finished convincing the public we 
-have an immigration problem to throw more military dollars at...and now, this. A god damn calamity, Caso. With your face 
+have an immigration problem to throw more military dollars at - and now, this. A god damn calamity, Caso. With your face 
 on the poster.”
 <br/>
 The superior officer collapsed into his chair, too fat and exhausted to fully comprehend the mess Caso had left in his wake. 
