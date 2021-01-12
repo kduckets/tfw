@@ -501,7 +501,7 @@ have hinted at violence for the first time since the blood-soaked summer of 2020
 <br/>
 <br/>
 Junior Lieutenant 'the' Caso, a well documented cheater, fired back at an accusation of foul play from General Johnson’s 
-press secretary, triggering the war-hungry nations to re-enter the arena. Threats of crimes of passion were immediately spewed by the Jr. Lieutenant, 
+press secretary, triggering the war hungry nations to re-enter the arena. Threats of crimes of passion were immediately spewed by the Jr. Lieutenant, 
 who has been recently cleared of murder charges following a questionably quick trial. 
 Although the Blue army has claimed to have held an impartial trial by jury, the details 
 of the trial have been tightly concealed behind Blue walls, provoking suspicions of wrongdoing 
