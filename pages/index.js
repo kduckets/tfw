@@ -272,7 +272,7 @@ the fate of the Blue army and its questionable constituents.
 “Wipe that shit grin off your face before I demote you back to infantry, <i>Junior Lieutenant</i>.” 
 <br/>
 <br/>
-The Caso’s superior hung his head in disgrace, unable to look the Lieutenant in the eye. Caso’s grin quickly faded. 
+The Caso’s superior hung his head in disgrace, unable to look his subordinate in the eye. Caso’s grin quickly faded. 
 <br/>
 “In all my years, I have never seen such poppycock. Camping at the fucking pier? Attacking the north for no reason? 
 And now every headline is calling you the new virus in town? Your bullshit ‘win’ off the coattails of General Johnson’s 
