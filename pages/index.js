@@ -6,7 +6,7 @@ export default function Home() {
       <Head>
         <title>The Flock Wars</title>
         <link rel="icon" href="/favicon.ico" />
-        <link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Inconsolata&family=Caveat&family=Arapey&display=swap" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Hachi+Maru+Pop&family=Inconsolata&family=Caveat&family=Arapey&display=swap" rel="stylesheet"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
       </Head>
 
@@ -652,7 +652,7 @@ As the dust of disarray settled, a note was recovered from a Blue army messenger
 found amongst the gruesome remains of the historic battle. The note read simply,
 </small>
 </p>
-<p className="diary">
+<p className="diarySerg">
 Stir shit up, the Final Phase is upon us. 
 <br/>
 -The Virus
@@ -724,7 +724,7 @@ correspondence from the Blue army headquarters, as it was accidentally addressed
  The letter will be published, unaltered, to serve as a public service announcement warning of a dangerous, 
  potentially psychotic Jr Lieutenant, currently a fugitive under international law.
  </p>
-<p className="diary">
+<p className="diaryCaso">
 Dear General Serg,
 <br/>
 <br/>

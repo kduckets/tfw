@@ -75,6 +75,16 @@ p.diary{
   font-size: 1.4rem;
 }
 
+p.diaryCaso{
+  font-family: 'Hachi Maru Pop', cursive;
+  font-size:1rem;
+}
+
+p.diarySerg{
+  font-family: 'East Sea Dokdo', cursive;
+  font-size: 1.8rem;
+}
+
 p.news{
   font-family: 'Inconsolata', monospace;
   text-align: justify;
