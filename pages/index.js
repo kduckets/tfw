@@ -530,10 +530,8 @@ in exchange for diplomatic immunity? Or perhaps just integrity? <i>The entire Bl
     <br/>
     <br/>
 If blood were currency, War would be rich.</small>
-<br/>
-<br/>
-...
 </p>
+
 </div>
 
 <div className="fullHeight">
