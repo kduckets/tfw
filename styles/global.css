@@ -89,6 +89,7 @@ p.news{
   font-family: 'Inconsolata', monospace;
   text-align: justify;
   font-size: 1.1rem;
+  line-height: 140%;
 }
 
 p.newsTitle{

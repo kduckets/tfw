@@ -38,7 +38,7 @@ export default function Home() {
       Tonight my battle strategy was sound, but the execution was poor. We had built up a huge border defense on 
       the southern region during the Battle of Caso-Johnson, but left an unfortunate gap after sending a western army up 
       through Canada and ran outta time just as I was hitting the fortify button. That small opening was all the Johnson needed for penetration. 
-      Bruised, but not defeated from the bloody Caso-Johnson war, General Johnson went down through the gap and wreaked havoc on the southern region. 
+      Bruised, but not defeated from the bloody Caso-Johnson debacle, the Johnson perforated the gap and wreaked havoc on the southern region. 
       The fight continued in Canada but it was not enough to take down the almighty Johnson. With a damaged south and a once cololorful map 
       now only scattered with red, General Johnson was able to pull out, return north, and claim victory once again.
 
@@ -52,8 +52,8 @@ export default function Home() {
       </div>
 
       <div className="fullHeight">
-      <p className="narration">Following a weekend of minor quarrels, the hints of chaos seemed to deflate as 
-      quickly as they had distended. Although small battles continued, peace talks were underway in an effort
+      <p className="narration">Following a weekend of quarrels, the hints of chaos seemed to deflate as 
+      quickly as they had distended. A temporary ceasefire was agreed upon, and peace talks were underway in an effort
       to prevent large-scale warfare. 
       <br/>
       <br/>
@@ -101,10 +101,11 @@ scolds his soldiers and quietly plots his revenge.
       </div> */}
 
   <div className="fullHeight">
-  <h2>The Worth of War</h2>
-  <p className="story">
-  <h5>May 10, 2020</h5>
-  <small>
+  <p className="newsTitle">
+  <h2>Johnson Demolishes France; Dowals Marches Prematurely</h2>
+  <h4>May 10, 2020</h4>
+  </p>
+  <p className="news">
  The eerie tranquility of the DMZ was eagerly shattered as Ol General Patch spiked his fancy wine-beer, 
   loudly declaring warfare across Europe. The destruction continued with the Almighty Johnson 
   slapping through France for the first victory of the evening. The Green army was swiftly cast to the 
@@ -115,13 +116,16 @@ scolds his soldiers and quietly plots his revenge.
   a strong alliance with General Patch and began his valiant march through the north, only to be stopped 
   devastatingly short at just 67% of the map. The failed climatic offensive left the door open for General Kev and his Red army to 
   bleed across the north, claiming the final victory of the night from his tiny camp on Randall’s island.
+  </p>
   <br/>
-  <br/>
+  <p className="story">
+    <small>
   <i>In war, whichever side may call itself the victor, there are no winners, but all are losers,&nbsp;</i> Jr. Lieutenant 'the' 
   Caso tells himself as he contemplates his failed alliance strategies. The Junior Lieutenant looks over his 
   Blue army, now appearing purple from the blood soaked uniforms, and quietly tells them to go home and “thank 
   your mothahs”.
-  </small></p>
+  </small>
+ </p>
   </div>
 
 <div className="fullHeight">
