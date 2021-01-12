@@ -102,7 +102,7 @@ scolds his soldiers and quietly plots his revenge.
 
   <div className="fullHeight">
   <p className="newsTitle">
-  <h2>Johnson Demolishes France; Dowals Marches Prematurely</h2>
+  <h2>Johnson Demolishes France; Dowals Peaks Prematurely</h2>
   <h4>May 10, 2020</h4>
   </p>
   <p className="news">
