@@ -9,6 +9,21 @@ html,
   /* background-image: url("../public/old-paper-background.png"); */
   }
 
+ a:link {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+} 
 p{
   font-size:1.4rem;
 }

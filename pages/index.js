@@ -63,7 +63,7 @@ export default function Home() {
 
 <div className="fullHeight">
    <p className="newsTitle">
-<h2>Johnson Falls Flaccid</h2>
+<h2>Colossal Johnson Falls Flaccid</h2>
 <h4>May 3, 2020</h4>
 </p>
 <p className="news">
@@ -760,6 +760,9 @@ Jr. Lieutenant the Caso
 <p className="news"><i>Editor’s note: Traces of human feces were found on both the letter and the envelope. All materials will be sent to the lab for further testing. 
 </i>
   </p>
+</div>
+<div className="fullHeight">
+<p>To be continued..<a href="https://imgur.com/a/IXWxmJW">.</a></p>
 </div>
  </div>
   )
