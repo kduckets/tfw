@@ -478,10 +478,11 @@ END MEMO
 </div>
 
 <div className="fullHeight">
-<p className="news">
+<p className="newsTitle">
 <h2>Whispers of Winter War</h2>
 <h4>November 19, 2020</h4>
-
+</p>
+<p className="news">
 Following an ominous but surprisingly amicable fall, the first winds of winter have exposed the 
 shadows of War quickly approaching the precipice of Peace. Recent verbal disagreements between the nations 
 have hinted at violence for the first time since the blood-soaked summer of 2020.
