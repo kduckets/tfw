@@ -572,7 +572,7 @@ The Junior Lieutenant’s hopes of redemption continued to fade as the nation’
 Generals-only comms channel for the final battle of the evening. The Generals unanimously agreed to 
 wipe the Caso off the map, sending a clear message to the disgraced Blue nation. Unaware of his 
 pre-determined fate, the Junior Lieutenant attributed his destruction to the “truly random” dice rolls, 
-perhaps conspiring against him. General Johnson responded with a savage memo, clearly declaring the nations’ 
+perhaps conspiring against him. General Johnson responded publicly with a savage memo, clearly declaring the nations’ 
 intent, stating, “The dice don’t hate you, your friends do.”
 </p>
 <p className="story">
