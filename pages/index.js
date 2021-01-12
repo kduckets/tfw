@@ -471,7 +471,9 @@ END MEMO
 
 <div className="fullHeight">
   <p className="narration">
-    End of summer narration
+    The summer of 2020 ended much more peaceful than it began, as the world entered a fall with slight hints of normalcy.  
+    A peaceful autumn would eventually give rise to a wintry war like no other. They say it tends to be darkest before the 
+    dawn...
   </p>
 </div>
 
@@ -480,16 +482,18 @@ END MEMO
 <h2>Whispers of Winter War</h2>
 <h4>November 19, 2020</h4>
 
-Following an ominous but surprisingly amicable fall, the first winds of winter exposed the 
-shadows of War quickly approaching the precipice of Peace. Verbal disagreements between the nations hinted at violence for 
-the first time since the blood-soaked summer of 2020.
+Following an ominous but surprisingly amicable fall, the first winds of winter have exposed the 
+shadows of War quickly approaching the precipice of Peace. Recent verbal disagreements between the nations 
+have hinted at violence for the first time since the blood-soaked summer of 2020.
+<br/>
+<br/>
 Junior Lieutenant 'the' Caso, a well documented cheater, fired back at an accusation of foul play from General Johnson’s 
 press secretary, triggering the war-hungry nations to re-enter the arena. Threats of crimes of passion were immediately spewed by the Jr. Lieutenant, 
-recently cleared of murder charges following a questionably quick trial. 
+who has been recently cleared of murder charges following a questionably quick trial. 
 Although the Blue army has claimed to have held an impartial trial by jury, the details 
 of the trial have been tightly concealed behind Blue walls, provoking suspicions of wrongdoing 
 and abuse of power. General Serg, another suspect and alleged accomplice in the murder case, 
-was swift in his attempt to de-escalate the situation between Jr. Lieutenant the Caso and 
+was swift in his attempt to de-escalate the situation between the Caso and 
 General Johnson’s press team. General Serg has since fled the Blue nation, escaping his 
 trial under diplomatic immunity, however his prompt and unfiltered response to the altercation could 
 suggest continued allegiance to the Blue army and its corrupt leaders. Rumors of technological 
@@ -509,11 +513,11 @@ There it was again. He knew what he had to do; he knew what he should do. But he
 <i>&nbsp;This treasure is for champions.</i> His gazing eyes settled on the ribbon at the edge of the box. 
 A ribbon representing first place; the top. The winner. The best. A Blue ribbon. 
 The Junior Lieutenant’s mind unwelcomely recalled the blue of his superior’s uniform, 
-soaked in red from the action he had performed. A sawed-off shotgun in his hand. General Serg, in shock, by his side. 
+soaked in red from the action he had performed with a sawed-off shotgun in his hand. General Serg, in shock, by his side. 
 A gruesome scene he had replayed in his mind incessantly since the incident. Every lie he told during the trial, 
 every corrupt testimony from a loyal Blue soldier, every moment of deceit and scam - this scene would replay in his mind. 
 He understood he was the very definition of a cheater; certainly unworthy of the ninety-nine Blue ribbon winners laying before him. 
-The Jr. Lieutenant’s shame quickly morphed into anger as he sought to distribute some of the blame. 
+The Jr. Lieutenant’s shame quickly morphed into anger as he sought to distribute the blame. 
 <br/>
 <br/>
 Where had General Serg fled to after that unforgettable scene? Why had his only correspondence been a 
@@ -529,14 +533,17 @@ If blood were currency, War would be rich.</small>
 <br/>
 ...
 </p>
+</div>
+
+<div className="fullHeight">
 <p className="newsTitle">
 <h2>Nations Ban Together Against Blue</h2>
 <h4>November 22, 2020</h4>
 </p>
 <p className="news">
-Reports of chemical warfare involving General Daddison have resurfaced, as one nation in particular 
+Reports of chemical warfare involving General Daddison have resurfaced involving an incident in which a particular nation 
 couldn’t seem to adhere to the agreed upon wartime. Witnesses claim the tardy General was seen accepting 
-a piece of candy from the Yellow army leader just moments before the botched attempt at timeliness. 
+a vile from the Yellow army leader just moments before the botched attempt at timeliness. 
 This is certainly not the first allegation of chemical warfare on General Daddison’s resumé, and the 
 press will continue to investigate the matter. Perhaps a result of chemical warfare backfire, the Yellow 
 army showed up in purple uniforms, prompting questions of collusion and even dice manipulation. No charges 
@@ -546,7 +553,7 @@ have been pressed at the time of this publication.
 Meanwhile, Junior Lieutenant “the” Caso, fresh out of the courtroom as a free man, was prompt and 
 eager to cast a shadow over the shameful events that had recently transpired across the Blue nation. 
 Communicating over a secure Generals-only line, the Generals agreed to pull soldiers from the second 
-battlefield, leaving the outranked Junior Lieutenant to unknowingly sacrifice blue blood to mere outdated 
+battlefield, leaving the outranked Junior Lieutenant to unknowingly sacrifice Blue blood to mere outdated 
 battle drones. The battle was officially called a draw, and although no winner was declared, there seemed to be an obvious loser.
 <br/>
 <br/>
@@ -653,8 +660,12 @@ Stir shit up, the Final Phase is upon us.
 </div>
 
 <div className="fullHeight">
+<p className="narration">As the battles carry over into a new year, the longing for an end to the War is palpable. </p> 
+</div>
+
+<div className="fullHeight">
  
-<p>As the battles carry over into a new year, the longing for an end to the war is palpable. </p> 
+
 <p className="newsTitle">
     <h2>Ol Patch Nukes Green Goliath</h2>
     <h4>January 3, 2021</h4>
