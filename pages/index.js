@@ -304,7 +304,7 @@ The Junior Lieutenant turned and scampered out, suddenly aware that he had, in f
 
 <div className="fullHeight">
   <p className="narration">
-  While the arduous Summer blazed on, a few of the dudes took escapes to the desert and wilderness
+  While the arduous Summer blazed on, a few of the dudes took escapes to the wilderness
    to seek solace from both the individual isolation and communal devastation. 
   </p>
 </div>
@@ -483,7 +483,7 @@ END MEMO
 <div className="fullHeight">
   <p className="narration">
     The Summer of 2020 ended more peacefully than it began, while the world entered an autumn with slight hints of deceptive 
-    normalcy. A friendly fall would soon give rise to a warring winter with tension, conflict, and death threading through every fabric of humanity.
+    normalcy. A friendly fall would soon give rise to a warring winter with more tension, conflict, and death threading through every fabric of humanity.
      They say it tends to be darkest before the 
     dawn...
   </p>
@@ -671,7 +671,7 @@ Stir shit up, the Final Phase is upon us.
 </div>
 
 <div className="fullHeight">
-<p className="narration">As the battles carry over into a new year, the longing for an end to the War is palpable. </p> 
+<p className="narration">As the battles carried over into a new year, the longing for an end to the War was increasingly palpable. </p> 
 </div>
 
 <div className="fullHeight">
@@ -684,7 +684,7 @@ Stir shit up, the Final Phase is upon us.
 
 <p className="news">
 In yet another night colored by passion and crimes, desperation drove General Daddison to an attempted 
-raid of the red army’s uniforms while simultaneously claiming “only a fool cares about the color he dons”. 
+raid of the Red army’s uniforms while simultaneously claiming “only a fool cares about the color he dons”. 
 The failed operation led to General Kev pitying the winless piss-yellow army, offering the powerful red 
 uniform to General Daddison if he could actually claim a victory. Spoiler alert: he didn’t. 
 <br/>
@@ -704,8 +704,8 @@ General Johnson’s reserves in the north, decimating the Green army’s chance 
 General Kev, staying true to his word, offered the all but finishing blow to General Johnson, 
 moving south in an effort to untangle the east and escape the passion war with General Daddison. The 
 Green army struck back with bitter vengeance, clearing all Red army reserves from the north in lieu of 
-rebuilding his fallen empire. As the green ship sank pulling the red army down with it, General Johnson 
-turned his steaming glare to General Patch, as if to say, “General Johnson doesn’t forget.”
+rebuilding his fallen empire. As the Green ship sank pulling the Red army down with it, General Johnson 
+turned his steaming glare to General Patch, as if to say, "The Johnson doesn’t forget.”
 <br/>
 <br/>
 Following the altruistic takedown of the Green Goliath, the remaining nations fought for the renewed 
@@ -720,13 +720,13 @@ asked for a comment, condescendingly referred to this analysis as “counterfact
 <br/>
 The second battle of the evening proved to be a battle of grievances, as many tend to be. 
 General Johnson followed through on his vows to eliminate the previously victorious Purple 
-army via yet another kamikaze mission. Meanwhile, conspiracies over the red/orange alliances emerged, 
+army via yet another kamikaze mission. Meanwhile, conspiracies over the Red/Orange alliances emerged, 
 ultimately leading to Jr. Lieutenant “the” Caso clouding the comms channel with outright fables. 
 Meanwhile, General Daddison used the conspiracy theories to continue his war of passion against 
-the red uniform he so desired. With the yellow and red armies unable to reach an agreement, the two 
+the red uniform he so desired. With the Yellow and Red armies unable to reach an agreement, the two 
 armies slowly chipped away at each other, giving General Dowals the opportunity to quietly rebuild his 
-army in the south, simultaneously claiming publicly, “I am willing to die for you, General Kev.” Claims of 
-surrender didn’t fool anyone, however the blue army was not strong enough to hold General Dowals off and 
+army in the south, while claiming publicly, “I am willing to die for you, General Kev.” Claims of 
+surrender didn’t fool anyone, however the Blue units were not strong enough to hold General Dowals off and 
 the Orange army eventually marched through the bloody north, to victory. 
 <br/>
 <br/>
