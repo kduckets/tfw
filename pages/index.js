@@ -471,8 +471,8 @@ END MEMO
 
 <div className="fullHeight">
   <p className="narration">
-    The summer of 2020 ended much more peaceful than it began, as the world entered a fall with slight hints of normalcy.  
-    A peaceful autumn would eventually give rise to a wintry war like no other. They say it tends to be darkest before the 
+    The summer of 2020 ended much more peaceful than it began, as the world entered an autumn with slight hints of deceptive 
+    normalcy. A peaceful fall would eventually give rise to a wintry war like no other. They say it tends to be darkest before the 
     dawn...
   </p>
 </div>
