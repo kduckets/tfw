@@ -242,7 +242,7 @@ Jr. Lt. 'the' Caso was furious.</small>
 
 <div className="fullHeight">
   <p className="narration">
-    As the grappling heart of the summer of 2020 continued to bleed out, the boys kept fighting in lieu of patching 
+    As the summer of 2020's grappling heart continued to bleed out, the boys kept fighting in lieu of patching 
     open wounds. Despite being ultimately meanlingless, small victories on the battlefield provided vital jolts of energy 
     to the desperate individuals lucky enough to aquire them.
   </p>
