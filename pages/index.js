@@ -501,7 +501,7 @@ END MEMO
 <h4>November 19, 2020</h4>
 </p>
 <p className="news">
-Following an ominous but surprisingly amicable fall, the first winds of winter have exposed the 
+Following an ominous but surprisingly amicable autumn, the first winds of winter have exposed the 
 shadows of War quickly approaching the precipice of Peace. Recent verbal disagreements between the nations 
 have hinted at violence for the first time since the blood-soaked summer of 2020.
 <br/>
