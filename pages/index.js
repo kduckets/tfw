@@ -670,7 +670,7 @@ Stir shit up, the Final Phase is upon us.
 
 <div className="fullHeight">
 <p className="narration">As the battles carried over into a new year, the longing for an end to the War became 
-increasingly palpable. Time began to divide itself into the before and after, with an unquantified middle still in flight.</p> 
+increasingly palpable. Time began to divide itself into the before and the after, with an unquantified middle still in flight.</p> 
 </div>
 
 <div className="fullHeight">
