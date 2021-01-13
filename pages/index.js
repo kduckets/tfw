@@ -333,24 +333,28 @@ clean. And call the old virus, we have an open position.”
 </small>
 </p>
 
-<p className="newsTitle">
-<h2>General Serg Marches in Blue</h2></p>
-<p className="news">
-News of Caso’s peace strike spread like wildfire and the generals were eager to take advantage 
+<p className="story"><small>News of Caso’s peace strike spread like wildfire and the generals were eager to take advantage 
 of the chance at a legitimate battle. The war moved to the grounds of the freedom-loving US of A, a 
 land where irony and juxtaposition had gone long past the point of humility. A place where extreme 
 individualism was posed to destroy a conceptual ideal perpetually doomed before the ink had even dried. 
 <i> All’s fair in love and war.</i> 
+</small>
+</p>
 <br/>
 <br/>
+<p className="newsTitle">
+<h2>General Serg Marches in Blue</h2></p>
+<p className="news">
 
-As fate would have it, General Dowals was given the New England territory, formerly ruled by 
-King Brady who had recently fled south, presumably to gather fresher oranges. General Dowals 
+
+
+As fate would have it yesterday evening, General Dowals was given the New England territory, formerly ruled by 
+King Brady who had since fled south, presumably to gather fresher oranges. General Dowals 
 quickly stacked the few borders of the advantageous territory, a privilege the elitist coasties 
 typically squander. Meanwhile, Ol General Patch claimed sunny California and set up camp 
 in the west, with the virus and General “Switzerland” Johnson taking up the middle of the divided 
 mess of a country. Without many options, the Red army made an attempt to seize the south, now 
-sandwiched between Orange and Purple bicoastal strongholds. Forced to choose a side, the Red army 
+sandwiched between the Orange and Purple bicoastal strongholds. Forced to choose a side, the Red army 
 pledged their allegiance to the east, figuring the hard-skinned Patriots would then march north to 
 destroy the weak, lame-ass Swiss neutrality approach of the Green army. Focusing on westward expansion, the 
 Red army declared war against an encroaching Purple army, making shallow claims against General 
@@ -365,7 +369,7 @@ considered breaking his treaty with the war-torn Reds. Desperately pleading with
 to march north to prove to the world General Johnson’s bullshit foreign policy won’t hold any 
 longer, the Red army commander lost the argument, consequently losing the battle. The Green 
 army’s silence once again overshadowed the loud yells of bullshit, as the whiskey-fueled 
-arguments and drama left the country thin and weak, leaving an opening for the silent puppet master to march to victory. 
+arguments and drama left the country thin and weak, leaving an opening for the silent Green puppet master to march to victory. 
 <br/>
 <br/>
 
@@ -382,7 +386,8 @@ confirm or deny such claims without hard evidence.
 “Strategies are like underwear,” the old Blue superior told his new recruit following an acceptable first performance in blue. 
 “Everyone has some, and they are all susceptible to being destroyed by a unruly heap of shit. 
 We need to wipe the news clean of the disaster and illegitimate wins Lieutenant Caso caused for the boys in blue. 
-A virus might just be the chaos we need to clear our record and go back to the days of old. Keep it up out there, 
+A virus might just be the chaos we need to distract the public and clear our record to go back to the days of old. 
+Keep it up out there, 
 General Serg. If you succeed, we may again one day enjoy the privilege of invincibility the blue uniform once stood for. 
 Stir the bullshit up, but do so under the radar. We don’t need another pants-shitter steering this ship.”
 <br/>
