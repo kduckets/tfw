@@ -453,7 +453,7 @@ Refuge was offered at the Orange camp, a desirable escape for The Virus as Gener
 <h4>July 19, 2020</h4>
 </p>
 <p className="news">
-The Orange base proved advantageous for General Serg at first, 
+The Orange base proved advantageous for General Serg, 
 as evidence of a private comms channel between the generals recently surfaced. 
 The evidence is spotty and contains several lewd transmissions, so the media 
 will not be publishing a transcript at this time. 
