@@ -114,6 +114,7 @@ scolds his soldiers and quietly plots his revenge.
       Before long, another armistice had been broken. The calls for peace had been silenced. Even the dick jokes were going limp.
       </p>
       <p>Every so often, calls for harmony will nourish the potential for war...</p>
+      <img src="/chaos.png"></img>
       </div>
 
       {/* <div className="fullHeight">
