@@ -429,7 +429,7 @@ firmly holding a sawed off double-barreled shotgun directy at his superior’s d
 And with the simple motion of a contracting finger, blood was dispersed on a night of proposed peace, as a Junior Lieutenant instantaneously acquired newfound power. 
 </small>
   </p>
-  <img src="/1915-ranger-410.jpg" height="200px"></img>
+  <div class="image-ranger"></div>
 </div>
 
 <div className="fullHeight">

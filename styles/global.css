@@ -124,6 +124,15 @@ img {
   max-width: 100%;
   display: block;
 }
+
+.image-ranger {
+  background-image: url('../public/1915-ranger-410.jpg');
+  background-repeat: no-repeat;
+  background-position: center; 
+  height: 200px;
+  /* you need to match the shadow color to your background or image border for the desired effect*/
+  box-shadow: 0 0 8px 8px white inset;
+}
 .container {
     display: flex;
     flex-direction: column;
