@@ -135,7 +135,7 @@ scolds his soldiers and quietly plots his revenge.
 <h4>May 17, 2020</h4>
 </p>
 <p className="news">
-  Junior Lieutenant ‘the’ Caso claimed his first victory of the war last night, although rumors of chemical 
+  Junior Lieutenant the Caso claimed his first victory of the war last night, although rumors of chemical 
     warfare could prove diminishing to the win. “I felt loopy, I certainly wasn’t myself,” General Daddison stated to 
     reporters when asked why he didn’t use his cards at a crucial battle moment. “I guess it coulda been the anchovies,” 
     he added, apprehensively. In response to the allegations, Lieutenant the Caso began to describe an awkward dream he 
