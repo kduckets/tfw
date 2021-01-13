@@ -494,7 +494,7 @@ END MEMO
     now too familiar tension, conflict, and demise threading through every fabric of humanity.
     They say it tends to be darkest before the dawn...
   </p>
-  <img src="/yarn.png" height="200px" className="center"></img>
+  <img src="/yarn.png" className="center"></img>
 </div>
 
 <div className="fullHeight">
