@@ -84,7 +84,7 @@ scolds his soldiers and quietly plots his revenge.
   <h4>May 10, 2020</h4>
   </p>
   <p className="news">
- The eerie tranquility of the DMZ was eagerly shattered as Ol General Patch spiked his fancy wine-beer, 
+ The eerie tranquility of the DMZ was once again shattered last night as Ol General Patch spiked his fancy wine-beer, 
   loudly declaring warfare across Europe. The destruction continued with the Almighty Johnson 
   slapping through France for the first victory of the evening. The Green army was swiftly cast to the 
   southwest corner for the following battle, relying on carefully executed alliances and manipulative 
@@ -108,9 +108,8 @@ scolds his soldiers and quietly plots his revenge.
 
       <div className="fullHeight">
       <p className="narration">
-      While the turmoil continued to simmer, politicians bickered from high atop their castle walls, unable 
-      to reach an agreement. 
-      As egos squabbled, the fragile ice beneath the soldiers’ feet began to crack. 
+      While the turmoil continued to simmer, politicians bickered from high atop their castle walls. As egos squabbled, 
+      unable to reach agreement, the fragile ice beneath the soldiers’ feet began to crack. 
       Before long, another armistice had been broken. The calls for peace had been silenced. Even the dick jokes were going limp.
       </p>
       <p>Every so often, calls for harmony will nourish the potential for war...</p>
