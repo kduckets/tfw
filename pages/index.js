@@ -62,7 +62,7 @@ export default function Home() {
 
 <div className="fullHeight">
    <p className="newsTitle">
-<h2>Colossal Johnson Collapses</h2>
+<h2>Colossal Johnson Falls Flaccid</h2>
 <h4>May 3, 2020</h4>
 </p>
 <p className="news">
@@ -73,7 +73,7 @@ General Dowals, new on the scene of war, quickly rose
 through the ranks after wiping Deutschland clean of the 
 Almighty Johnson’s post-ceasefire army. While Johnson 
 gathers his battered troops to mansplain the follies of hubris, 
-Jr. Lieutenant 'the' Caso, humiliated to be the last war-torn nation without a victory, 
+Jr. Lieutenant the Caso, humiliated to be the last war-torn nation without a victory, 
 scolds his soldiers and quietly plots his revenge.
         </p>
       </div>
