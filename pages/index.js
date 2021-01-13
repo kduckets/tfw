@@ -6,7 +6,7 @@ export default function Home() {
       <Head>
         <title>The Flock Wars</title>
         <link rel="icon" href="/favicon.ico" />
-        <link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Hachi+Maru+Pop&family=Inconsolata&family=Caveat&family=Arapey&display=swap" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Hachi+Maru+Pop&family=Homemade+Apple&family=Inconsolata&family=Caveat&family=Arapey&display=swap" rel="stylesheet"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
       </Head>
 
