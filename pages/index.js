@@ -39,7 +39,7 @@ export default function Home() {
       through Canada and ran outta time just as I was hitting the fortify button. That small opening was all the Johnson needed for penetration. 
       Bruised, but not defeated from the bloody Caso-Johnson debacle, the Johnson perforated the gap and wreaked havoc on the southern region. 
       The fight continued in Canada but it was not enough to take down the almighty Johnson. With a damaged south and a once cololorful map 
-      now only scattered with red, General Johnson was able to pull out, return north, and claim victory once again.
+      now only scattered with red, General Johnson was able to pull out, scatter soldiers up north, and claim victory once again.
 
       The battle is over, but the scars remain.
       </p>
@@ -51,7 +51,7 @@ export default function Home() {
       </div>
 
       <div className="fullHeight">
-      <p className="narration">Following a weekend of quarrels, the hints of chaos seemed to deflate as 
+      <p className="narration">Following a weekend of minor quarrels, the hints of chaos seemed to deflate as 
       quickly as they had distended. A temporary ceasefire was agreed upon, and peace talks were underway in an effort
       to prevent large-scale warfare. 
       <br/>
