@@ -78,27 +78,6 @@ scolds his soldiers and quietly plots his revenge.
         </p>
       </div>
 
-      <div className="fullHeight">
-      <p className="narration">
-      Throughout the ceasefire, the dudes continued to bicker from high atop their castle walls, unable 
-      to reach an agreement. 
-      As egos squabbled, the fragile ice beneath the soldiers’ feet began to crack. 
-      Before long, another armistice had been broken. The calls for peace had been silenced. Even the dick jokes were going limp.
-      </p>
-      <p>Every so often, calls for harmony will nourish the potential for war...</p>
-      </div>
-
-      {/* <div className="fullHeight">
-      <p className="narration"><small>An excerpt from General Kev’s diary:</small></p>
-      <p className="diary"><b>May 4, 2020</b></p>
-      <p className="diary">
-      Alternating between peace and war seems to be the new normal. It's unclear how long this will last, however it doesn't
-       seem to be ending any time soon. Most of the other leaders seem reasonable, so perhaps we can come to some sort of agreement. The only one 
-       I'm truly nervous about is the Jr. Lieutenant. He seems too inexperienced to be dealing with this caliber of war. Someone should keep an eye on him.
-      
-      </p>
-      </div> */}
-
   <div className="fullHeight">
   <p className="newsTitle">
   <h2>Johnson Demolishes France; Dowals Peaks Prematurely</h2>
@@ -126,6 +105,29 @@ scolds his soldiers and quietly plots his revenge.
   </small>
  </p>
   </div>
+
+      <div className="fullHeight">
+      <p className="narration">
+      Throughout the ceasefire, the dudes continued to bicker from high atop their castle walls, unable 
+      to reach an agreement. 
+      As egos squabbled, the fragile ice beneath the soldiers’ feet began to crack. 
+      Before long, another armistice had been broken. The calls for peace had been silenced. Even the dick jokes were going limp.
+      </p>
+      <p>Every so often, calls for harmony will nourish the potential for war...</p>
+      </div>
+
+      {/* <div className="fullHeight">
+      <p className="narration"><small>An excerpt from General Kev’s diary:</small></p>
+      <p className="diary"><b>May 4, 2020</b></p>
+      <p className="diary">
+      Alternating between peace and war seems to be the new normal. It's unclear how long this will last, however it doesn't
+       seem to be ending any time soon. Most of the other leaders seem reasonable, so perhaps we can come to some sort of agreement. The only one 
+       I'm truly nervous about is the Jr. Lieutenant. He seems too inexperienced to be dealing with this caliber of war. Someone should keep an eye on him.
+      
+      </p>
+      </div> */}
+
+
 
 <div className="fullHeight">
 <p className="newsTitle">
