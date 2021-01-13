@@ -108,7 +108,7 @@ scolds his soldiers and quietly plots his revenge.
 
       <div className="fullHeight">
       <p className="narration">
-      Throughout the ceasefire, the dudes continued to bicker from high atop their castle walls, unable 
+      Throughout the peace negotiations, the dudes continued to bicker from high atop their castle walls, unable 
       to reach an agreement. 
       As egos squabbled, the fragile ice beneath the soldiers’ feet began to crack. 
       Before long, another armistice had been broken. The calls for peace had been silenced. Even the dick jokes were going limp.
