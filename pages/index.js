@@ -231,7 +231,7 @@ much power for the low-ranked leader. Johnson decided to break up the Blue army�
 few empty ‘thank yous’ from the other world leaders. Meanwhile, a desperate Yellow army was eagerly waiting at 
 the door to clean up the Blue/Green mess. General Daddison swept through the scraps of war, quickly gaining momentum on the 
 coattails of the Green army’s good deeds. Having not seen endgame in quite some time, the Yellow commander made a miscalculated 
-push. His scent of victory faded as quickly as it had emerged. A patiently waiting Red army marched westward for the final cleanup blow to the 
+push, and his scent of victory faded as quickly as it had surfaced. A patiently waiting Red army marched westward for the final cleanup blow to the 
 battle-ridden lands.
 <br/>
 <br/>
@@ -253,7 +253,7 @@ Jr. Lt. 'the' Caso was furious.</small>
 <h4>June 20, 2020</h4>
 </p>
 <p className="news">
-In a pitiful display of desperation, Jr. Lieutenant ‘the’ Caso utilized despicable war tactics such as 
+In a pitiful display of desperation, Jr. Lieutenant the Caso utilized despicable war tactics such as 
 inciting chaos, camping, shielding, tear gassing, and attacking without formally breaking alliances to 
 steal a dissatisfying win from the warring nations. Analysts are left questioning the legitimacy of the 
 Blue nation and are considering pulling global funding from the deplorable boys in blue. Even war has its 
