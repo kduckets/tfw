@@ -241,7 +241,7 @@ Jr. Lt. 'the' Caso was furious.</small>
 
 <div className="fullHeight">
   <p className="narration">
-    As the Summer of 2020's grappling heart continued to bleed out, the dudes kept fighting in lieu of patching 
+    As the Summer of 2020's grappling heart continued to bleed out, the boys kept fighting in lieu of patching 
     open wounds. Despite being ultimately meanlingless, small victories on the battlefield provided vital jolts of energy 
     to the desperate individuals lucky enough to aquire them.
   </p>
@@ -304,7 +304,7 @@ The Junior Lieutenant turned and scampered out, suddenly aware that he had, in f
 <div className="fullHeight">
   <p className="narration">
   While the arduous Summer blazed on, some of the dudes escaped to the wilderness
-   to seek solace from both the individual isolation and communal devastation. 
+   to seek solace from both the individual isolation and communal devastation. Others continued fighting with no end in sight.
   </p>
 </div>
 
@@ -482,7 +482,7 @@ END MEMO
 <div className="fullHeight">
   <p className="narration">
     The Summer of 2020 ended more peacefully than it began, while the world entered an autumn with slight hints of deceptive 
-    normalcy. A relatively friendly fall would soon give rise to a warring winter with more tension, conflict, and death threading through every fabric of humanity.
+    normalcy. A relatively friendly fall would soon give rise to a warring winter with an overabundance of tension, conflict, and death threading through every fabric of humanity.
      They say it tends to be darkest before the dawn...
   </p>
 </div>
@@ -669,7 +669,8 @@ Stir shit up, the Final Phase is upon us.
 </div>
 
 <div className="fullHeight">
-<p className="narration">As the battles carried over into a new year, the longing for an end to the War was increasingly palpable. </p> 
+<p className="narration">As the battles carried over into a new year, the longing for an end to the War was 
+increasingly palpable. Time began to divide itself into the before and after, with an unquantified middle still in flight.</p> 
 </div>
 
 <div className="fullHeight">
