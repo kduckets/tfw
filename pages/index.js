@@ -254,7 +254,7 @@ Jr. Lt. 'the' Caso was furious.</small>
 </p>
 <p className="news">
 In a pitiful display of desperation, Jr. Lieutenant the Caso utilized despicable war tactics such as 
-inciting chaos, camping, shielding, tear gassing, and attacking without formally breaking alliances to 
+inciting chaos, camping, shielding, tear gassing civillians, and attacking without formally breaking alliances to 
 steal a dissatisfying win from the warring nations. Analysts are left questioning the legitimacy of the 
 Blue nation and are considering pulling global funding from the deplorable boys in blue. Even war has its 
 limits, and the Blue army has incessantly shown it will act without shame, continuing to cross lines to 
