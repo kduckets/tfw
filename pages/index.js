@@ -31,7 +31,6 @@ export default function Home() {
         </div>
 
       <div className="fullHeight">
-      <p className="narration"><small>An excerpt from General Kev’s diary:</small></p>
       <p className="diary"><b>April 20, 2020</b></p>
       <p className="diary">
       The unrest amongst the group has lead to a few seemingly harmless battles to air some petty grievances. 
