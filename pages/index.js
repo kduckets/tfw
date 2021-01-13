@@ -514,11 +514,11 @@ of the trial have been tightly concealed behind Blue walls, provoking suspicions
 and abuse of power. General Serg, another suspect and alleged accomplice in the murder case, 
 was swift in his attempt to de-escalate the situation between the Caso and 
 General Johnson’s press team. General Serg has since fled the Blue nation, escaping his 
-trial under diplomatic immunity, however his prompt and unfiltered response to the altercation could 
+trial under diplomatic immunity, however the general's prompt and unfiltered response to the altercation could 
 suggest continued allegiance to the Blue army and its corrupt leaders. Rumors of technological 
-warfare have also resurfaced, as the true cause of General Dowals’ historic missing turn over the summer has yet 
+warfare have also resurfaced, as the true cause of General Dowals’ historic turn-miss over the summer has yet 
 to be determined. As of this evening, no violence has been reported, however the unresolved conflicts 
-between the nations seems to suggest an overabundance of shit inside the tender bowels of War.
+between the nations seem to suggest an overabundance of shit inside the tender bowels of War.
 
 </p>
 </div>
