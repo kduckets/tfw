@@ -79,10 +79,13 @@ p{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-size:1.2rem;
+
 }
 
 p.narration{
 font-family: 'Roboto Mono', monospace;
+font-size:1.2rem;
 }
 
 p.diary{
