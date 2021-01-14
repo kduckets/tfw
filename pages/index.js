@@ -29,7 +29,7 @@ export default function Home() {
           options={{
             autoStart: true,
             loop: false,
-            delay: 60
+            delay: 69
           }}
           onInit={(typewriter) => {
             typewriter.typeString('The year was 2020. Most great thinkers of earth had sensed the struggle and unrest brewing for quite some time, but very few were prepared for the events that actually transpired. Sickness, suffering, and death were just the tip of the iceberg as an already unstable human race was ravaged by plague, cultural divergence, and warfare.')
