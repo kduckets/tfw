@@ -22,20 +22,20 @@ export default function Home() {
 
         <div className="prologue">
         <p>Prologue</p>
+  
         <p><small>
         The year was 2020. Most great thinkers of earth had sensed the struggle and unrest 
         brewing for quite some time, but very few were prepared for the events that actually 
-        transpired. Sickness, suffering, and death were just the tip of the iceberg as an 
-        already unstable human race was ravaged by plague, cultural divergence, and warfare.
-    
+        transpired. Sickness, suffering, and death were just the tip of the iceberg as an already 
+        unstable human race was ravaged by plague, cultural divergence, and warfare.
         <Typewriter
           options={{
             autoStart: true,
             loop: false,
-            delay: 96
+            delay: 80
           }}
           onInit={(typewriter) => {
-            typewriter
+            typewriter.typeString('')
             .typeString('<br/> <br/> The following is a collection of diary entries, news articles, letters, and other miscellaneous artifacts from one group of completely insignificant dudes, mostly not dads, who had been forced to stay in their homes and play video games during this unprecedented year.')
             .start();
           }}
@@ -50,14 +50,12 @@ export default function Home() {
       <p className="diary">
         <h2>April 20, 2020</h2>
       The unrest amongst the group has lead to a few seemingly harmless battles to air some petty grievances. 
-      Tonight my battle strategy was sound, but the execution was poor. We had built up a huge border defense on 
-      the southern region during the Battle of Caso-Johnson, but left an unfortunate gap after sending a western army up 
-      through Canada. I ran outta time just as I was hitting the fortify button - an infuriating mistake to say the least. That small opening was all the Johnson needed for penetration. 
-      Bruised, but not defeated from the bloody Caso-Johnson debacle, the Johnson perforated the gap and wreaked havoc on the southern region. 
+      Tonight I ran outta time just as I was hitting the fortify button - an infuriating mistake to say the least. 
+      Bruised, but not defeated from the bloody Caso-Johnson debacle, General Johnson perforated the open gap and wreaked havoc on the southern region of the United States. 
       The fight continued in Canada but it was not enough to take down the almighty Johnson. With a damaged south and a once cololorful map 
       now only scattered with red, General Johnson was able to pull out, scatter soldiers up north, and claim victory once again.
 
-      The battle is over, but the scars remain.
+      The battle is over, but the scars remain. General Johnson has proven difficult to defeat.
       </p>
       <p className="diary">
       <img src='/xo.png' height="200px"></img>
@@ -67,7 +65,7 @@ export default function Home() {
       </div>
 
       <div className="fullHeight">
-      <p className="narration">Following a weekend of minor quarrels, the hints of chaos seemed to deflate as 
+      <p className="narration">Following a weekend of minor quarrels, the hints of chaos almost seemed to deflate as 
       quickly as they had distended. A temporary ceasefire was agreed upon, and peace talks were underway in an effort
       to prevent large-scale warfare. 
       <br/>
@@ -78,7 +76,7 @@ export default function Home() {
 
 <div className="fullHeight">
    <p className="newsTitle">
-<h2>Colossal Johnson Falls Flaccid</h2>
+<h2>Colossal Johnson Goes Limp</h2>
 <h4>May 3, 2020</h4>
 </p>
 <p className="news">
@@ -126,7 +124,7 @@ scolds his soldiers and quietly plots his revenge.
       <p className="narration">
       As the turmoil continued to simmer, politicians ruthlessly bickered from high atop their castle walls. While egos squabbled, 
       unable to reach agreement, the fragile ice beneath the soldiers’ feet began to crack. 
-      Before long, another armistice had been broken. The calls for peace had been silenced. Even the dick jokes were going limp.
+      Before long, another armistice had been broken. The calls for peace had been silenced.
       </p>
       <p>Every so often, calls for harmony will nourish the potential for war...</p>
       <img src="/mushroom.png" className="center"></img>

@@ -74,6 +74,7 @@ p{
 
 .prologue{
   font-family: 'Xanh Mono', monospace;
+  height: 100vh;
   /* padding-top: 20rem; */
   display: flex;
   flex-direction: column;
