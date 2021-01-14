@@ -193,9 +193,7 @@ perhaps the world), allowing a blood-colored history to once again, repeat itsel
 </p>
   <p> The Gordian knot of military bureaucracy just wasn’t worth fighting today. </p>
 
-<p className="story">...
-<br/>
-<br/>
+<p className="story">
 <small>Fed up with the constant ridicule from his peers, Jr. Lieutenant the Caso reluctantly finished his mound of paperwork, 
 anxious to finally order the ‘General the Caso’ nameplate to display prominently on his desk. <i>I’ll probably order the 
 silver - to match the Live, Laugh, Love sign,</i> he pondered as he knocked on his superior’s door.
