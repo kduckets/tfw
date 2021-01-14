@@ -41,7 +41,7 @@ export default function Home() {
             .typeString(' some dudes playing online Risk.')
             .pauseFor(1420)
             .deleteChars(32)
-            .pauseFor(1690)
+            .pauseFor(1000)
             .typeString(' <br/><i>The Flock Wars.</i>')
             .start();
           }}
