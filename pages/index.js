@@ -61,7 +61,7 @@ export default function Home() {
         <h2>April 20, 2020</h2>
       The unrest amongst the group has lead to a few seemingly harmless battles to air some petty grievances. 
       Tonight I ran outta time just as I was hitting the fortify button - an infuriating mistake to say the least. 
-      Bruised, but not defeated from the bloody Caso-Johnson debacle, General Johnson perforated the open gap and wreaked havoc on the southern region of 
+      Bruised, but not defeated from the bloody Caso-Johnson debacle, General Johnson's army perforated the open gap and wreaked havoc on the southern region of 
       the divided United States. 
       The fight continued in Canada but it was not enough to take down the almighty Johnson. With a damaged south and a once cololorful map 
       now only scattered with red, General Johnson was able to pull out, scatter soldiers up north, and claim victory once again.
