@@ -39,7 +39,7 @@ export default function Home() {
             .typeString('This is the story of')
             .pauseFor(2000)
             .typeString(' some dudes playing online Risk.')
-            .pauseFor(2000)
+            .pauseFor(1600)
             .deleteChars(32)
             .pauseFor(1800)
             .typeString(' <i>The Flock Wars.</i>')
