@@ -508,7 +508,7 @@ END MEMO
     The Summer of 2020 ended more peacefully than it began, as the world entered an autumn with slight hints of deceptive 
     normalcy. A relatively friendly fall would soon give rise to a warring winter with an overdose of 
     tension, conflict, and demise threading through every fabric of humanity.
-    They say it tends to be darkest before the dawn...
+    They say it tends to be darkest just before the dawn...
   </p>
   <img src="/yarn.png" className="center"></img>
 </div>
