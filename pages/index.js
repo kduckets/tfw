@@ -129,8 +129,7 @@ scolds his soldiers and quietly plots his revenge.
 
       <div className="fullHeight">
       <p className="narration">
-      As the turmoil continued to simmer, politicians ruthlessly bickered from high atop their castle walls. While egos squabbled, 
-      unable to reach agreement, the fragile ice beneath the soldiers’ feet began to crack. 
+      As the turmoil continued to simmer, politicians ruthlessly bickered from high atop their castle walls. While egos squabbled, the fragile ice beneath the soldiers’ feet began to crack. 
       Before long, another armistice had been broken. The calls for peace had been silenced.
       </p>
       <p>Every so often, calls for harmony will nourish the potential for war...</p>
