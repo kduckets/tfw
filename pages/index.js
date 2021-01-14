@@ -188,9 +188,7 @@ perhaps the world), allowing a blood-colored history to once again, repeat itsel
 </div>
 
 <div className="fullHeight">
-<p className="story"><small>June 14, 2020</small>
-<h2>The Promotion</h2>
-</p>
+<h2>June 14, 2020</h2>
   <p> The Gordian knot of military bureaucracy just wasn’t worth fighting today. </p>
 
 <p className="story">
