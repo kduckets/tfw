@@ -20,7 +20,7 @@ export default function Home() {
         <div className="prologue">
         <p>Prologue</p>
         <p><small>The year was 2020. Most great thinkers of earth had sensed the struggle and unrest brewing for quite some time, 
-          but very few were prepared for the events to come. Sickness, suffering, and death were just the tip of the iceberg
+          but very few were prepared for the events that transpired. Sickness, suffering, and death were just the tip of the iceberg
            as an already unstable human race was ravaged by plague, cultural divergence, and warfare. 
            <br/>
            <br/>
@@ -188,14 +188,15 @@ perhaps the world), allowing a blood-colored history to once again, repeat itsel
 </div>
 
 <div className="fullHeight">
-
-  <h2>June 14, 2020</h2>
+<p className="story"><small>June 14, 2020</small>
+<h2>The Promotion</h2>
+</p>
   <p> The Gordian knot of military bureaucracy just wasn’t worth fighting today. </p>
 
 <p className="story">...
 <br/>
 <br/>
-<small>Fed up with the constant ridicule from his peers, Jr. Lieutenant 'the' Caso reluctantly finished his mound of paperwork, 
+<small>Fed up with the constant ridicule from his peers, Jr. Lieutenant the Caso reluctantly finished his mound of paperwork, 
 anxious to finally order the ‘General the Caso’ nameplate to display prominently on his desk. <i>I’ll probably order the 
 silver - to match the Live, Laugh, Love sign,</i> he pondered as he knocked on his superior’s door.
 <br/>
@@ -243,7 +244,7 @@ Jr. Lt. 'the' Caso was furious.</small>
 
 <div className="fullHeight">
   <p className="narration">
-    As the Summer of 2020's grappling heart continued to bleed out, the boys kept fighting in lieu of patching 
+    As the Summer of 2020's grappling heart continued to bleed out, the public kept fighting in lieu of patching 
     open wounds. Despite being ultimately meanlingless, small victories on the battlefield provided vital jolts of energy 
     to the desperate individuals lucky enough to aquire them.
   </p>
@@ -305,8 +306,8 @@ The Junior Lieutenant turned and scampered out, suddenly aware that he had, in f
 
 <div className="fullHeight">
   <p className="narration">
-  While the arduous Summer blazed on, some of the dudes escaped to the wilderness
-   to seek solace from both the individual isolation and communal devastation. Others continued fighting with no end in sight.
+  While the arduous Summer blazed on, some escaped to the wilderness
+   to seek solace from both the individual isolation and communal devastation. Nature is left once all is distilled.
   </p>
 </div>
 
@@ -436,7 +437,6 @@ And with the simple motion of a contracting finger, blood was dispersed on a nig
 
 <div className="fullHeight">
   <p className="story">
-  <h4>July 18, 2020</h4>
 <small>
 Blood-soaked and traumatized from the gruesome event carried out by Lieutenant the Caso, General Serg grabbed a 
 blue uniform from the dead superior’s closet and haphazardly parted ways with the Lieutenant. 
@@ -449,7 +449,7 @@ Refuge was offered at the Orange camp, a desirable escape for The Virus as Gener
 <div className="fullHeight">
 
 <p className="newsTitle">
-<h2>Controversial Turn Miss Causes Big Loss for General Dowals</h2>
+<h2>Controversial Turn Miss Results In Big Loss For General Dowals</h2>
 <h4>July 19, 2020</h4>
 </p>
 <p className="news">
@@ -490,8 +490,8 @@ END MEMO
 <div className="fullHeight">
   <p className="narration">
     The Summer of 2020 ended more peacefully than it began, as the world entered an autumn with slight hints of deceptive 
-    normalcy. A relatively friendly fall would soon give rise to a warring winter with an overabundance of 
-    now too familiar tension, conflict, and demise threading through every fabric of humanity.
+    normalcy. A relatively friendly fall would soon give rise to a warring winter with an overdose of 
+    tension, conflict, and demise threading through every fabric of humanity.
     They say it tends to be darkest before the dawn...
   </p>
   <img src="/yarn.png" className="center"></img>
@@ -679,7 +679,7 @@ Stir shit up, the Final Phase is upon us.
 </div>
 
 <div className="fullHeight">
-<p className="narration">As dissention carried over into a new year, the longing for an end to the War became 
+<p className="narration">As the dissention carried over into a new year, the longing for an end to the War became 
 increasingly palpable. Time began to divide itself into The Before and The After, with an unquantified middle still in flight.</p> 
 </div>
 
