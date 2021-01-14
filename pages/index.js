@@ -42,7 +42,7 @@ export default function Home() {
             .pauseFor(1420)
             .deleteChars(32)
             .pauseFor(1690)
-            .typeString(' <i>The Flock Wars.</i>')
+            .typeString(' <br/><i>The Flock Wars.</i>')
             .start();
           }}
         />
