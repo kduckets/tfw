@@ -37,7 +37,7 @@ export default function Home() {
           }}
           onInit={(typewriter) => {
             typewriter
-            .typeString('<br/> <br/> What follows is a collection of diary entries, news articles, letters, and other miscellaneous artifacts from one group of completely insignificant dudes, mostly not dads, who had been forced to stay in their homes and play video games during this unprecedented year.')
+            .typeString('<br/> <br/> What follows is a collection of diary entries, news articles, letters, and other miscellaneous artifacts from one group of insignificant dudes, mostly not dads, who had been forced to stay in their homes and play video games during this unprecedented year.')
             .typeString('<br/> <br/>')
             .pauseFor(1800)
             .typeString('This is the story of')
