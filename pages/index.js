@@ -34,6 +34,15 @@ export default function Home() {
           onInit={(typewriter) => {
             typewriter.typeString('The year was 2020. Most great thinkers of earth had sensed the struggle and unrest brewing for quite some time, but very few were prepared for the events that actually transpired. Sickness, suffering, and death were just the tip of the iceberg as an already unstable human race was ravaged by plague, cultural divergence, and warfare.')
             .typeString('<br/> <br/> The following is a collection of diary entries, news articles, letters, and other miscellaneous artifacts from one group of completely insignificant dudes, mostly not dads, who had been forced to stay in their homes and play video games during this unprecedented year.')
+            .typeString('<br/> <br/>')
+            .pauseFor(1800)
+            .typeString('This is the story of')
+            .pauseFor(2000)
+            .typeString(' some dudes playing online Risk.')
+            .pauseFor(2000)
+            .deleteChars(32)
+            .pauseFor(1800)
+            .typeString(' <i>The Flock Wars.</i>')
             .start();
           }}
         />
