@@ -23,8 +23,8 @@ export default function Home() {
         <div className="prologue">
         <p>Prologue</p>
   
-        <p><small>
-
+        <p>
+        <small>
         <Typewriter
           options={{
             autoStart: true,
@@ -46,7 +46,7 @@ export default function Home() {
             .start();
           }}
         />
-        </small>
+    </small>
            <br/>
            <br/>
         </p>
