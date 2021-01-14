@@ -65,7 +65,7 @@ export default function Home() {
       </div>
 
       <div className="fullHeight">
-      <p className="narration">Following a weekend of minor quarrels, the hints of chaos almost seemed to deflate as 
+      <p className="narration">Following a weekend of minor quarrels, the hints of chaos seemed to deflate almost as 
       quickly as they had distended. A temporary ceasefire was agreed upon, and peace talks were underway in an effort
       to prevent large-scale warfare. 
       <br/>
