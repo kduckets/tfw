@@ -69,12 +69,12 @@ export default function Home() {
    
       The unrest amongst the dudes has lead to a few seemingly harmless battles to air some petty grievances. 
       Tonight I ran outta time just as I was hitting the fortify button - an infuriating mistake to say the least. 
-      Bruised, but not defeated from the bloody Caso-Johnson debacle, General Johnson's army perforated the open gap and wreaked havoc on the southern region of 
+      Bruised, but not defeated from the bloody Caso-Johnson debacle, General Johnson's Green army perforated the open gap and wreaked havoc on the southern region of 
       the divided United States. 
       The fight continued in Canada but it was not enough to take down the almighty Johnson. With a damaged south and a once cololorful map 
       now only scattered with red, General Johnson was able to pull out of the south, scatter soldiers up north, and claim victory once again.
 
-      Johnson's patient strategy has proven quite difficult to defeat. Tonight's battle is over, but the scars remain. 
+      Johnson's patient strategy has proven quite difficult to defeat. Tonight's battle is over, but the scars will remain. 
     
       </p>
      
