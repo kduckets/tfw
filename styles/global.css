@@ -133,14 +133,6 @@ img {
   display: block;
 }
 
-.image-ranger {
-  background-image: url('../public/1915-ranger-410.jpg');
-  background-repeat: no-repeat;
-  background-position: center; 
-  height: 114px;
-  box-shadow: 0 0 8px 8px white inset;
-}
-
 .center {
   display: block;
   margin-left: auto;

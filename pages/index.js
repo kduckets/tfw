@@ -464,7 +464,7 @@ firmly holding a sawed off double-barreled shotgun directy at his superior’s d
 And with the simple motion of a contracting finger, blood was dispersed on a night of proposed peace, as a Junior Lieutenant instantaneously acquired newfound power. 
 </small>
   </p>
-  <div class="image-ranger"></div>
+  <img src='/shells.png' className="center"></img>
 </div>
 
 <div className="fullHeight">
