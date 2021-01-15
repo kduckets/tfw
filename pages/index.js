@@ -87,7 +87,7 @@ export default function Home() {
 
 <div className="fullHeight">
    <p className="newsTitle">
-<h2>Colossal Johnson Goes Limp</h2>
+<h2>Johnson's Reign In Doubt</h2>
 <h4>May 3, 2020</h4>
 </p>
 <p className="news">
@@ -137,7 +137,7 @@ scolds his soldiers and quietly plots his revenge.
       Before long, another armistice had been broken. The calls for peace had been silenced.
       </p>
       <p>Every so often, calls for harmony will nourish the potential for war...</p>
-      <img src="/mushroom.png" className="center"></img>
+     
       </div>
 
       {/* <div className="fullHeight">
@@ -151,7 +151,9 @@ scolds his soldiers and quietly plots his revenge.
       </p>
       </div> */}
 
-
+<div className="fullHeight">
+<img src="/mushroom.png" className="center"></img>
+</div>
 
 <div className="fullHeight">
 <p className="newsTitle">
