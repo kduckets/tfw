@@ -464,7 +464,7 @@ And with the simple motion of a contracting finger, blood was dispersed on a nig
 Blood-soaked and traumatized from the gruesome event carried out by Lieutenant the Caso, General Serg grabbed a 
 blue uniform from the dead superior’s closet and haphazardly parted ways with the Lieutenant. 
 Refuge was offered at the Orange camp, a desirable escape for The Virus as General Dowals’ 
-<i>&nbsp;don’t ask don’t tell</i> policy was well established amongst the below-the-radar types. Sporting the purloined blue uniform, General Serg entered the Orange Gates under diplomatic immunity and prepared for what would be a long, bloody, emotionally draining evening of war.
+<i>&nbsp;Don’t Ask Don’t Tell</i> policy was well established amongst the below-the-radar types. Sporting the purloined blue uniform, General Serg entered the Orange Gates under diplomatic immunity and prepared for what would be a long, bloody, emotionally draining evening of war.
 </small>
 </p>
 </div>
