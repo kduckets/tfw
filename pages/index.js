@@ -41,7 +41,7 @@ export default function Home() {
             .typeString('<br/> <br/>')
             .pauseFor(1800)
             .typeString('This is the story of')
-            .pauseFor(420)
+            .pauseFor(1000)
             .typeString(' some dudes playing online Risk.')
             .pauseFor(1420)
             .deleteChars(32)
