@@ -66,7 +66,7 @@ export default function Home() {
       The fight continued in Canada but it was not enough to take down the almighty Johnson. With a damaged south and a once cololorful map 
       now only scattered with red, General Johnson was able to pull out, scatter soldiers up north, and claim victory once again.
 
-      The battle is over, but the scars remain. The Almighty Johnson has proven quite difficult to defeat.
+      The battle is over, but the scars remain. Johnson's patient strategy has proven quite difficult to defeat.
       </p>
       <p className="diary">
       <img src='/xo.png' height="200px"></img>
