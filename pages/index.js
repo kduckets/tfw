@@ -155,7 +155,7 @@ scolds his soldiers and quietly plots his revenge.
 
 <div className="fullHeight">
 <p className="newsTitle">
-<h2>Caso Gets Questionable Win</h2>
+<h2>The Caso Gets Questionable Win</h2>
 <h4>May 17, 2020</h4>
 </p>
 <p className="news">
