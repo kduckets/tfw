@@ -340,6 +340,7 @@ The Junior Lieutenant turned and scampered out, suddenly aware that he had, in f
   With no end in sight, some took escape to the wilderness
    to seek solace from the isolation and communal devastation. Nature is left once all else is distilled.
   </p>
+  <img src="/mountains.png" className="center"></img>
 </div>
 
 <div className="fullHeight">
