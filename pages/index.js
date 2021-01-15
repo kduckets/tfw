@@ -57,7 +57,7 @@ export default function Home() {
       <div className="fullHeight">
       <p className="diary">
       <h4>Private Property of General Kev  -  Keep Out</h4>
-        <h2>April 20, 2020</h2>
+        <h1>April 20, 2020</h1>
    
       The unrest amongst the group has lead to a few seemingly harmless battles to air some petty grievances. 
       Tonight I ran outta time just as I was hitting the fortify button - an infuriating mistake to say the least. 
