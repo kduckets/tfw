@@ -96,6 +96,7 @@ p.diary{
 p.diaryCaso{
   font-family: 'Hachi Maru Pop', cursive;
   font-size:1rem;
+  background-image: url(../public/paper.png);
 }
 
 p.diarySerg{
