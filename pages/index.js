@@ -180,8 +180,7 @@ scolds his soldiers and quietly plots his revenge.
   <br/>
   <br/>
  The only other leader willing to comment on the developing 
-    controversy was General Stevie the B, simply stating, “fucking pussies”. 
-    The General also requested the press to remind its readers, “the B stands for Bossin”.</p>
+    controversy was General Dowals, simply stating, “fucking pussies”. </p>
   </div>
 
 
