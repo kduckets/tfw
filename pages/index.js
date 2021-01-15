@@ -736,7 +736,7 @@ The eye of the battle quickly focused south, as a powerful Green army placed a c
 staring straight up the butthole of the eastern region of the map. General Dowals and General Kev made 
 the strategic decision to ally against the Green threat, pledging to stage a joint attack for the benefit 
 of all nations. General Daddison, who had spent the early battle launching petty attacks against the red 
-uniforms he so desperately wanted, refused to join the alliance stating “I won’t join your war but I will 
+uniforms he so desperately wanted, refused to join the alliance stating, “I won’t join your war but I will 
 stop passioning your ass for now.”
 <br/>
 <br/>
@@ -765,7 +765,7 @@ The second battle of the evening proved to be a battle of grievances, as many te
 General Johnson followed through on his vows to eliminate the previously victorious Purple 
 army via yet another kamikaze mission. Meanwhile, conspiracies over the Red/Orange alliances emerged, 
 ultimately leading to Jr. Lieutenant “the” Caso clouding the comms channel with outright fables. 
-Meanwhile, General Daddison used the conspiracy theories to continue his war of passion against 
+General Daddison used the conspiracy theories to continue his war of passion against 
 the red uniform he so desired. With the Yellow and Red armies unable to reach an agreement, the two 
 armies slowly chipped away at each other, giving General Dowals the opportunity to quietly rebuild his 
 army in the south, while claiming publicly, “I am willing to die for you, General Kev.” Claims of 
