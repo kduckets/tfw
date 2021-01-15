@@ -57,7 +57,7 @@ export default function Home() {
       <div className="fullHeight">
       <p className="diary">
         <h2>April 20, 2020</h2>
-        <h4>Private Property of General Kev - keep out</h4>
+        <h4>Private Property of General Kev  -  Keep Out</h4>
       The unrest amongst the group has lead to a few seemingly harmless battles to air some petty grievances. 
       Tonight I ran outta time just as I was hitting the fortify button - an infuriating mistake to say the least. 
       Bruised, but not defeated from the bloody Caso-Johnson debacle, General Johnson's army perforated the open gap and wreaked havoc on the southern region of 
