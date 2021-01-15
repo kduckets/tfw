@@ -33,7 +33,7 @@ export default function Home() {
           options={{
             autoStart: true,
             loop: false,
-            delay: 69
+            delay: 62
           }}
           onInit={(typewriter) => {
             typewriter
