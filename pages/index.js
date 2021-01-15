@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Typewriter from 'typewriter-effect';
+// import Typewriter from 'typewriter-effect';
 
 export default function Home() {
   return (
@@ -25,8 +25,17 @@ export default function Home() {
   
         <p>
         <small>
+
+        The year was 2020. Most great thinkers of earth had sensed the struggle and unrest brewing for 
+        quite some time, but very few were prepared for the events that actually transpired. Sickness, 
+        suffering, and death were just the tip of the iceberg as an already unstable human race was 
+        ravaged by plague, cultural divergence, and warfare.
+
+        <br/> <br/> What follows is a collection of diary entries, news articles, 
+        letters, and other miscellaneous artifacts from one group of fairly insignificant dudes, 
+        mostly not dads, who had been forced to stay in their homes and play video games during this unprecedented year.
      
-        <Typewriter
+        {/* <Typewriter
           options={{
             autoStart: true,
             loop: false,
@@ -47,7 +56,7 @@ export default function Home() {
             .typeString(' <i>The Flock Wars.</i>')
             .start();
           }}
-        />
+        /> */}
     </small>
            <br/>
            <br/>
