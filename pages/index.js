@@ -785,7 +785,7 @@ correspondence from the Blue army headquarters, as it was accidentally addressed
 Dear General Serg,
 <br/>
 <br/>
-It’s been a few moon cycles since we last spoke, and it seems the war has truly shattered us all. I assume you’re out there, lurking in the shadows, silently building strength; but the Blue army could really use an ally such as yourself in these trying times. War has made monsters of all its proprietors.
+It’s been a few moon cycles since we last spoke, and it seems the war has truly shattered us all. I know you’re out there lurking in the shadows, silently building strength; but the Blue army could really use an ally such as yourself in these trying times. War has made monsters of all its proprietors.
 <br/>
 <br/>
 This evening, as conspirators perpetuated ideas that only gain momentum through popularity of opinion, I was so disillusioned that I started completely making up false stories about General Kev stabbing General Dowals in the back. When the chaos and insanity begin to normalize - that’s when you know you’ve reached the inner circles of the hell of war.
