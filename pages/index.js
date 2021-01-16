@@ -794,7 +794,7 @@ This evening, as conspirators perpetuated ideas that only gain momentum through 
 They say the end is near; that there’s a cure to this devastation on the horizon. I’m just not sure we can take much more of this madness. And although we have no choice but to fight the war, it is clear both soldiers and leaders alike are growing more and more longing for the times of before; if those times can ever even be again. 
 <br/>
 <br/>
-While the other nations fight their own battles, all I ever desired was to obtain the General’s title. All the crimes, passion, and murder will have been for nothing if we don’t succeed in that goal. Once I become General of the Blue army, I promise you diplomacy and the highest Blue honor - which comes with perks beyond your wildest dreams. I just ask for your immediate assistance, as my only chance at achieving the rank I deserve is to bring home an uncontested Blue victory. The nations are weak, General Serg. It is time for us to strike. 
+While the other nations fight their own battles, all I ever desired was to obtain the General’s title. All the crimes, passion, deceit, and murder will have been for nothing if we don’t succeed in that goal. Once I become General of the Blue army, I promise you a pardon and the highest Blue honor - which comes with perks beyond your wildest dreams. I just ask for your immediate assistance, as my only chance at achieving the rank I deserve is to bring home an uncontested Blue victory. The nations are weak, General Serg. It is time for us to strike. 
 <br/>
 <br/>
 Warmest regards,
