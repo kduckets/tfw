@@ -371,7 +371,7 @@ clean. And call the old virus, we have an open position.”
 <p className="story"><small>News of Caso’s peace strike spread like wildfire and the generals were eager to take advantage 
 of the chance at a legitimate battle. The war moved to the grounds of the freedom-loving US of A, a 
 land where irony and juxtaposition had gone long past the point of humility. A place where extreme 
-individualism was posed to destroy a conceptual ideal perpetually doomed before the ink had even dried. 
+individualism was posed to destroy a conceptual ideal perhaps perpetually doomed before the ink had dried. 
 <i> All’s fair in love and war.</i> 
 </small>
 </p>
