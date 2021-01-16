@@ -287,7 +287,7 @@ Jr. Lt. 'the' Caso was furious.</small>
 <h4>June 20, 2020</h4>
 </p>
 <p className="news">
-In a pitiful display of desperation, Jr. Lieutenant the Caso utilized despicable war tactics such as 
+In a pitiful display of desperation, Jr. Lieutenant 'the' Caso utilized despicable war tactics such as 
 inciting chaos, camping, shielding, tear gassing civillians, and attacking without formally breaking alliances to 
 steal a dissatisfying win from the warring nations. Analysts are left questioning the legitimacy of the 
 Blue nation and are considering pulling global funding from the deplorable boys in blue. Even war has its 
