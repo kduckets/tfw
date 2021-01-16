@@ -202,11 +202,11 @@ with the humiliated Junior Lieutenant looking to unleash his anger on a nearest 
 passion broke out, resulting in a depleted Red army with no option but to beg for an alliance with 
 General Dowals in the north. Desperate for companionship in wartime, the General accepted the offer 
 and the Orange-Red army marched to destroy any hopeless soldiers in its path. Unable to band together 
-against the Goliath, the nations resorted to blame and slander as they fell pitifully to Orange, all 
+against the allied Titan, the nations resorted to blame and slander as they fell pitifully to Orange, all 
 while a tuna-breathed Lieutenant continued to stir the pot of conflict from the grave. 
 <br/>
 <br/>
-Perhaps out of both breathe and energy, the yelling calmed in Africa as the nations all turned against Orange, 
+Perhaps out of both air and energy, the yelling calmed in Africa as the nations all turned against Orange, 
 leaving an opening for a win-starved Purple army to deploy a fresh strategy. The decision to not camp in a 
 single country proved fruitful for Ol General Patch, as he was able to build and bleed through the war-torn 
 nations for a much needed Purple victory.
