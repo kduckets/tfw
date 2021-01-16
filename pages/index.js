@@ -240,8 +240,11 @@ He handed the neatly stacked, laminated documents to the systemic man and preten
 <br/>
 “Not yet, Lieutenant,” the man sneered as he stood to face the Caso. 
 “Put your goddamn crimes of passion to rest and secure a real win tonight. 
-Then, if you’re lucky, I might consider your request, <i>Lieutenant</i>.” The Caso idly saluted and stomped back to his office to prepare a 
-battle plan. He sighed as he noticed a new scratch on the <i>Junior Lieutenant</i> nameplate, sitting sluggishly on his desk.
+Then, if you’re lucky, I might consider your request, <i>Junior Lieutenant</i>.” The Caso idly saluted and stomped back to his office to prepare a 
+battle plan. He sighed as he noticed a new scratch on the <i>Jr. Lieutenant</i> nameplate, sitting sluggishly on his desk.
+<br/>
+<br/>
+<img src="/stars.png" className="center-small"></img>
 <br/>
 <br/>
 Back out on the battlefield the soldiers were tired and the violence seemed infinite. Unknowingly fighting for nothing other than a broken man’s new nameplate, 
