@@ -197,7 +197,7 @@ senseless violence to fuel the cycle of incessant devastation.</p>
 the Caso dropped his curry dinner, allegedly distracted by the sirenesque 
 sounds of General Dowals’ mistress. Filled with shame, the Junior Lieutenant 
 cracked a can of watery tuna and heeded the calls of war to fill the painful void. 
-The 'drop heard round the world' proved unfortunate for the Red army, who shared a border 
+The <i>'drop heard round the world'</i> proved unfortunate for the Red army, who shared a border 
 with the humiliated Lieutenant looking to unleash his anger on a nearest neighbor. A battle of 
 passion broke out, resulting in a depleted Red army with no option but to beg for an alliance with 
 General Dowals in the north. Desperate for companionship in wartime, the General accepted the offer 
