@@ -198,7 +198,7 @@ the Caso dropped his curry dinner, allegedly distracted by the sirenesque
 sounds of General Dowals’ mistress. Filled with shame, the Junior Lieutenant 
 cracked a can of watery tuna and heeded the calls of war to fill the painful void. 
 The <i>'drop heard round the world'</i> proved unfortunate for the Red army, who shared a border 
-with the humiliated Lieutenant looking to unleash his anger on a nearest neighbor. A battle of 
+with the humiliated Junior Lieutenant looking to unleash his anger on a nearest neighbor. A battle of 
 passion broke out, resulting in a depleted Red army with no option but to beg for an alliance with 
 General Dowals in the north. Desperate for companionship in wartime, the General accepted the offer 
 and the Orange-Red army marched to destroy any hopeless soldiers in its path. Unable to band together 
