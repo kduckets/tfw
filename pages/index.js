@@ -601,7 +601,7 @@ army showed up in purple uniforms, prompting questions of collusion and even dic
 have been pressed at the time of this publication.
 <br/>
 <br/>
-Meanwhile, Junior Lieutenant “the” Caso, fresh out of the courtroom as a free man, was prompt and 
+Meanwhile, Junior Lieutenant 'the' Caso, fresh out of the courtroom as a free man, was prompt and 
 eager to cast a shadow over the shameful events that had recently transpired across the Blue nation. 
 Communicating over a secure Generals-only line, the Generals agreed to pull soldiers from the second 
 battlefield, leaving the outranked Junior Lieutenant to unknowingly sacrifice Blue blood to mere outdated 
