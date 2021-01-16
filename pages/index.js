@@ -756,7 +756,7 @@ opportunity at victory. Albeit building an impressively sized army, General Dadd
 proved too difficult to protect, eventually leaving a thin path for one of the strong coastal nations to 
 march through. The initial attempt was made by General Dowals, a valiant, calculated effort held short of 
 victory by just a single country. The void proved fruitful for General Patch, who launched his now unrivaled 
-nukes over a war-torn land, claiming a much-needed victory. Experts say had it not been for his air support 
+nukes over a war-torn land, claiming victory. Experts say had it not been for his air support 
 during the Battle of the Green Goliath, history would sing a different song. The Green army leader, when 
 asked for a comment, condescendingly referred to this analysis as “counterfactual”.
 <br/>
