@@ -776,7 +776,7 @@ surrender didn’t fool anyone, however the Blue units were not strong enough to
 the Orange army eventually marched through the bloody north, to victory. 
 <br/>
 <br/>
-After a suspiciously quiet night from Jr. Lieutenant the Caso, officials have intercepted a 
+After a suspiciously quiet night from Jr. Lieutenant 'the' Caso, officials have intercepted a 
 correspondence from the Blue army headquarters, as it was accidentally addressed to <i>'Cyrus the V-brb I just shat myself'. </i>
  The letter will be published, unaltered, to serve as a public service announcement warning of a dangerous, 
  potentially psychotic Jr Lieutenant, currently a fugitive under international law.
