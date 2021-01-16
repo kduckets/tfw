@@ -217,7 +217,7 @@ seemingly unable to learn from the past, began to repeat history (again). The
 coastal quarrels quickly boiled over, leaving room for the armies inland to grow and plot. 
 With a valiant effort to break the infinite loops of the days of old, the Red army marched with 
 hope and passion, only to fall by the limits of their own weaponry. With the privilege of superior 
-funding, artillery, and technology, General Johnson crushed the hope of the passionate Red army (and 
+funding and technology, General Johnson crushed the hope of the passionate Red army (and 
 perhaps the world), allowing a blood-colored history to once again, repeat itself.</small></p>
 
 </div>
