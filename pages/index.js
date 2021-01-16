@@ -421,13 +421,13 @@ confirm or deny such claims without hard evidence.
 “Strategies are like underwear,” the old Blue superior told his new recruit following an acceptable first performance in blue. 
 “Everyone has some, and they are all susceptible to being destroyed by a unruly heap of shit. 
 We need to wipe the news clean of the disaster and illegitimate wins Lieutenant Caso caused for the boys in blue. 
-A virus might just be the chaos we need to distract the public and clear our record to go back to the days of old. 
+A virus might just be the chaos we need to distract the public and clear our record. 
 Keep it up out there, 
 General Serg. If you succeed, we may again one day enjoy the privilege of invincibility the blue uniform once stood for. 
 Stir the bullshit up, but do so under the radar. We don’t need another pants-shitter steering this ship.”
 <br/>
 
-“Yes, sir” General Serg replied.
+“Yes, sir,” General Serg replied.
 </small>
 </p>
 </div>
