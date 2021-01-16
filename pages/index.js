@@ -195,7 +195,7 @@ senseless violence to fuel the cycle of incessant devastation.</p>
 
 <p className="story"><small>The pale echoes of peace were swiftly silenced as Junior Lieutenant 
 the Caso dropped his curry dinner, allegedly distracted by the sirenesque 
-sounds of General Dowals’ mistress. Filled with shame and regret, the Lieutenant 
+sounds of General Dowals’ mistress. Filled with shame, the Junior Lieutenant 
 cracked a can of watery tuna and heeded the calls of war to fill the painful void. 
 The 'drop heard round the world' proved unfortunate for the Red army, who shared a border 
 with the humiliated Lieutenant looking to unleash his anger on a nearest neighbor. A battle of 
