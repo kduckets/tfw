@@ -251,7 +251,7 @@ Back out on the battlefield the soldiers were tired and the violence seemed infi
 the Blue army obeyed their orders and listened to the Jr. Lieutenant’s passionately mediocre speech. “You only live once, so go fight for it!” concluded the 
 sermon with a lackluster ‘hoo-rah’ as the army’s response. The soldiers knew not what they were fighting for, 
 but nonetheless blindly adhered to the lines of command. “It is what it is,” a veteran soldier whispered to a questioning young recruit 
-as they all watched the Jr. Lieutenant prepare the artillery for another inevitable battle.
+as they watched the Jr. Lieutenant prepare the artillery for another inevitable battle.
 <br/>
 <br/>
 The night began, once again, with bloodshed. Several battles immediately rang out across the nations, with frustrated generals 
