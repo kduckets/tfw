@@ -304,6 +304,60 @@ the fate of the Blue army and its questionable constituents.
 </div>
 
 <div className="fullHeight">
+<p className="diary">
+<h4>Private Diary of General Dowals - Keep Out</h4>
+  <h2>June 21, 2020</h2>
+
+Tensions were high pre-war. Jr. LT Caso was spitting the utmost heat and Cholua sauce only to get smacked in the face via Rocket League..... but we can discuss that impotence later...... to the war
+<br/>
+<br/>
+An interesting yet spacious map. Enough for “everyone can have an island - why do you want to come after me” (Gen Johnson). After initial establishments - the back and forth of “who was strongest” leading to skirmishes that held each power house back. The first to get smacked, was General Stevie despite having an alliance with Jr. Lt Caso - “as soon as I got a good roll it was time to take you out”. Also said was - “I have to get to Kev - he has 20 troops less than everyone else, doesn’t have a Country, so I had to go through you.” No one on the map understood the move, but it did work in his favor by collecting the cards. Shows the true random effect beautifully doesn’t it?
+<br/>
+<br/>
+After that confusion - it seems as though the areas were distraught and all fighting was occurring because “Kev has the north, he will win” while Johnson stayed in place and built ...... slowly. 
+<br/>
+<br/>
+A pivotal point in the war came when General Pach took a huge shit in the boat to the north rendering Gen Kevs country immobile. The dump was so big, it almost sunk the ship. The Red Army was sure to win but all hopes was slashed for the onslaught. 
+<br/>
+<br/>
+As Jr Lt Caso and Gen Johnson played tiddly winks in the south (taking some troops here an there) allowing Gen Johnson to continue to amass his troops there was a limit to The green army’s success. General Pach aware of his impending doom pulled a Chess Castle type maneuver shifting the nature of his troops to the south East portion of the map all while retaining General Johnson back to keep troops at bay. While all this was occurring, each of the generals needed to examine the space and recalculate. It was said Jr Lt Caso was playing with his Batman action figure at this time......
+<br/>
+<br/>
+While there could be arguments of the moves made by the Generals (and Jr Lts - not naming names) could have been “bad” or just “bad luck maybe” or even crazy but had logical sense. The move that was at the top of the list was the completely outrageous punch to the Red Army but the Junior led Blue Army. Correspondence from the field described a massive confusion by all. 
+<br/>
+<br/>
+“Lt Caso - what is the point of this? The Green Army will surely destroy us - why” 
+<br/>
+“Listen to my orders - I have tactical prowess” screamed the Jr Lt. 
+<br/>
+“But sir - the logic is not sound” said a Captain
+<br/>
+“Logic is a word I use when I’m buying a house - this is war” Jr Lt Caso
+<br/>
+“Sir, that doesn’t make sense” 
+<br/>
+The Jr Lt simply said “well chocolate bars Captain - that is my answer to that. I have spoken” 
+<br/>
+<br/>
+Confused and a little bothered - the Captain followed through with the attack.
+<br/>
+Literally the next turn - cards were turned in troops were set - the Green Army started its run - territory’s destroyed one by one, 52% ......... 56% .........68%
+<br/>
+A blunder..... General Johnson was one short on a costly redeployment move....
+<br/>
+Jr Lt Caso had already packed his bags and was going home until luckily the Captain that did not give up on the war drove 150 miles In a Jeep to get his “superior” and tell him the Green Army Failed. 
+<br/>
+“Oh really!!! woweeee - my tactics DID work” exclaimed the Jr Lt.
+<br/>
+Scurrying back - all the Junior needed to do was to sweep up the garbage and put a bow on it. A task an ensign could do.  
+<br/>
+<br/>
+A win is truly a win in all accounts - however to gloat of tactics when playing with action figures during a shift in the battle field is just deplorable. Thank god for that Captain - he was promoted to LT but just to save face with the troops - the top superior might offer Lt Caso his “Sr” title again. He also got him the Joker and the Penguin to match his set......
+</p>
+
+</div>
+
+<div className="fullHeight">
 <p className="story">
   <h3>June 21, 2020</h3>
 <small>
@@ -340,59 +394,7 @@ The Junior Lieutenant turned and scampered out, suddenly aware that he had, in f
 </p>
 </div>
 
-<div className="fullHeight">
-<p className="diary">
-<h4>Private Diary of General Dowals - Keep Out</h4>
-  <h2>June 21, 2020</h2>
 
-Tensions were high pre-war. Jr. LT Caso was spitting the utmost heat and Cholua sauce only to get smacked in the face via Rocket League..... but we can discuss that impotence later...... to the war
-<br/>
-<br/>
-An interesting yet spacious map. Enough for “everyone can have an island - why do you want to come after me” (Gen Ceej). After initial establishments - the back and forth of “who was strongest” leading to skirmishes that held each power house back. The first to get smacked, was General Stevie despite having an alliance with Jr. Lt Caso - “as soon as I got a good roll it was time to take you out”. Also said was - “I have to get to Kev - he has 20 troops less than everyone else, doesn’t have a Country, so I had to go through you.” No one on the map understood the move, but it did work in his favor by collecting the cards. Shows the true random effect beautifully doesn’t it?
-<br/>
-<br/>
-After that confusion - it seems as though the areas were distraught and all fighting was occurring because “Kev has the north, he will win” while Ceej stayed in place and built ...... slowly. 
-<br/>
-<br/>
-A pivotal point in the war came when General Pach took a huge shit in the boat to the north rendering Gen Kevs country immobile. The dump was so big, it almost sunk the ship. The Red Army was sure to win but all hopes was slashed for the onslaught. 
-<br/>
-<br/>
-As Jr Lt Caso and Gen Ceej played tiddly winks in the south (taking some troops here an there) allowing Gen Ceej to continue to amass his troops there was a limit to The green army’s success. General Pach aware of his impending doom pulled a Chess Castle type maneuver shifting the nature of his troops to the south East portion of the map all while retaining General Ceej back to keep troops at bay. While all this was occurring, each of the generals needed to examine the space and recalculate. It was said Jr Lt Caso was playing with his Batman action figure at this time......
-<br/>
-<br/>
-While there could be arguments of the moves made by the Generals (and Jr Lts - not naming names) could have been “bad” or just “bad luck maybe” or even crazy but had logical sense. The move that was at the top of the list was the completely outrageous punch to the Red Army but the Junior led Blue Army. Correspondence from the field described a massive confusion by all. 
-<br/>
-<br/>
-“Lt Caso - what is the point of this? The Green Army will surely destroy us - why” 
-<br/>
-“Listen to my orders - I have tactical prowess” screamed the Jr Lt. 
-<br/>
-“But sir - the logic is not sound” said a Captain
-<br/>
-“Logic is a word I use when I’m buying a house - this is war” Jr Lt Caso
-<br/>
-“Sir, that doesn’t make sense” 
-<br/>
-The Jr Lt simply said “well chocolate bars Captain - that is my answer to that. I have spoken” 
-<br/>
-<br/>
-Confused and a little bothered - the Captain followed through with the attack.
-<br/>
-Literally the next turn - cards were turned in troops were set - the Green Army started its run - territory’s destroyed one by one, 52% ......... 56% .........68%
-<br/>
-A blunder..... General Ceej was one short on a costly redeployment move....
-<br/>
-Jr Lt Caso had already packed his bags and was going home until luckily the Captain that did not give up on the war drove 150 miles In a Jeep to get his “superior” and tell him the Green Army Failed. 
-<br/>
-“Oh really!!! woweeee - my tactics DID work” exclaimed the Jr Lt.
-<br/>
-Scurrying back - all the Junior needed to do was to sweep up the garbage and put a bow on it. A task an ensign could do. We all know how the conversation went with his superior.... 
-<br/>
-<br/>
-A win is truly a win in all accounts - however to gloat of tactics when playing with action figures during a shift in the battle field is just deplorable. Thank god for that Captain - he was promoted to LT but just to save face with the troops - the top superior might offer Lt Caso his “Sr” title again. He also got him the Joker and the Penguin to match his set......
-</p>
-
-</div>
 
 <div className="fullHeight">
   <p className="narration">
