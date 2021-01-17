@@ -149,7 +149,7 @@ export default function Home() {
 
 <div className="fullHeight">
    <p className="newsTitle">
-<h2>Johnson's Reign In Doubt</h2>
+<h2>After Abrupt End to Ceasefire, Johnson's Reign In Doubt</h2>
 <h4>May 3, 2020</h4>
 </p>
 <p className="news">
@@ -300,7 +300,7 @@ perhaps the world), allowing a blood-colored history to once again, repeat itsel
 
 <div className="fullHeight">
 <p className="diaryDowals"><small>
-<h4>Private Diary of General Dowals - Keep Out</h4>
+<h4>Private Diary of General Dowals - Keep Out!</h4>
   <h2>June 14, 2020</h2>
   Another interesting map lay in the second War of the eve. LT Caso still brimming with anger 
   and spewing hate in all directions, General Dowals and Patch sat for a vast period of time due to 
@@ -435,7 +435,7 @@ the fate of the Blue army and its questionable constituents.
 
 <div className="fullHeight">
 <p className="diaryDowals"><small>
-<h4>Private Diary of General Dowals - Keep Out</h4>
+<h4>Private Diary of General Dowals - Keep Out!</h4>
   <h2>June 21, 2020</h2>
 
 Tensions were high pre-war. Jr. LT Caso was spitting the utmost heat and Cholua sauce only to get smacked in the face via Rocket League..... but we can discuss that impotence later...... to the war
