@@ -304,7 +304,7 @@ the fate of the Blue army and its questionable constituents.
 </div>
 
 <div className="fullHeight">
-<p className="diary">
+<p className="diaryDowals"><small>
 <h4>Private Diary of General Dowals - Keep Out</h4>
   <h2>June 21, 2020</h2>
 
@@ -353,6 +353,7 @@ Scurrying back - all the Junior needed to do was to sweep up the garbage and put
 <br/>
 <br/>
 A win is truly a win in all accounts - however to gloat of tactics when playing with action figures during a shift in the battle field is just deplorable. Thank god for that Captain - he was promoted to LT but just to save face with the troops - the top superior might offer Lt Caso his “Sr” title again. He also got him the Joker and the Penguin to match his set......
+</small>
 </p>
 
 </div>
@@ -764,7 +765,7 @@ As the dust of disarray settled, a note was recovered from a Blue army messenger
 found amongst the gruesome remains of the historic battle. The note read simply,
 </small>
 </p>
-<p className="diarySerg">
+<p className="diaryDowals">
 Stir shit up, the Final Phase is upon us. 
 <br/>
 -The Virus
@@ -866,8 +867,14 @@ Jr. Lieutenant the Caso
   </p>
 </div>
 <div className="fullHeight">
-<p>To be continued..<a href="https://imgur.com/a/IXWxmJW">.</a></p>
+<p>To be continued...</p>
 </div>
+
+<footer>
+<p className="disclaimer"><small><i>The Accounts drawn in the description about are all true and factual - old tombs and writings 
+  were discovered and vetted through the historical museums of war. <a href="https://imgur.com/a/IXWxmJW">All rights reserved.</a></i></small>
+  </p>
+</footer>
  </div>
   )
 }

@@ -10,11 +10,11 @@ html,
   }
 
  a:link {
-  color: red;
+  color: black;
 }
 
 a:visited {
-  color: green;
+  color: black;
 }
 
 a:hover {
@@ -72,6 +72,17 @@ p{
   transform: translateY(-10%);
 }
 
+p.disclaimer {
+  font-size: .8rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items:baseline;
+  font-family: 'Arapey', serif;
+  text-align: center;
+  padding-top: 300px;
+
+}
+
 .prologue{
   font-family: 'Xanh Mono', monospace;
   font-size: 1rem;
@@ -80,7 +91,6 @@ p{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
 }
 
 p.narration{
@@ -101,10 +111,9 @@ p.diaryCaso{
   padding-left: 32px;
   padding-top: 32px;
   padding-bottom: 32px;
-  font-weight: 580;
 }
 
-p.diarySerg{
+p.diaryDowals{
   font-family: 'Caveat', cursive;
   font-size: 1.6rem;
 }
