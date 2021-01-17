@@ -65,7 +65,7 @@ export default function Home() {
 
       <div className="fullHeight">
       <p className="diary">
-        <h2>April 20, 2020</h2>
+        <h2>April 19, 2020</h2>
    
       The unrest amongst the dudes has lead to a few seemingly harmless battles to air some petty grievances. 
       Tonight I ran outta time just as I was hitting the fortify button - an infuriating mistake to say the least. 
