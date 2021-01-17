@@ -172,6 +172,8 @@ scolds his soldiers and quietly plots his revenge.
           <br/>
           <br/>
           GEN KEV: A COSTLY BETRAYAL
+          <br/>
+          <br/>
           GEN PATCH: GENERAL DOWALS IS A NEW PLAYER ON THE FIELD THAT DEMANDS RESPECT. HE WAS IGNORED AS WEAK AND INEXPERIENCED - NEVER AGAIN
           <br/>
           <br/>
