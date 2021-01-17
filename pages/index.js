@@ -261,7 +261,7 @@ scolds his soldiers and quietly plots his revenge.
 
 <div className="fullHeight">
 <p className="story"><small>June 7, 2020</small>
-<h2>Colors of War</h2>
+<h2>The Shushing</h2>
 </p>
 <p>Chaos and crimes of passion overshadowed any hope for actual strategy, as verbal conflict blended with 
 senseless violence to fuel the cycle of incessant devastation.</p> 
@@ -277,8 +277,9 @@ with the humiliated Junior Lieutenant looking to unleash his anger on a nearest 
 passion broke out, resulting in a depleted Red army with no option but to beg for an alliance with 
 General Dowals in the north. Desperate for companionship in wartime, the General accepted the offer 
 and the Orange-Red army marched to destroy any hopeless soldiers in its path. Unable to band together 
-against the allied Titan, the nations resorted to blame and slander as they fell pitifully to Orange, all 
-while a tuna-breathed Lieutenant continued to stir the pot of conflict from the grave. 
+against the allied Titan, the nations resorted to blame, slander, and yelling as they fell pitifully to Orange, all 
+while General Daddison repeatedly cried out "SHHHH SHHHH SHHHH SHHHH SHHHH" over the public comms channel, directed at
+the leader of the Red army. 
 <br/>
 <br/>
 Perhaps out of both air and energy, the yelling calmed in Africa as the nations all turned against Orange, 
