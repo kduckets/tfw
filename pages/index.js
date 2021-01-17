@@ -86,6 +86,58 @@ export default function Home() {
       </div>
 
       <div className="fullHeight">
+        <p className="narration"><small>
+          <h2>HUDDLE CORRESPONDENCE 4/20/20</h2>
+          THE CASO: WAS THAT A 2.5 HR GAME?
+          <br/>
+          <br/>
+          KEV: PSA - DON'T TRUST CASO
+          <br/>
+          <br/>
+          KEV: I DEF SHOULDA MADE A DEAL WITH YOU RAD TO GET ONE OF YOUR COUNTRIES FOR A CARD IN EXCHANGE FOR CHARGING PACH. I HAD 2 SO THAT WOULDA GIVEN ME 10 TROOPS AND THE ADVANTAGE
+          <br/>
+          <br/>
+          KEV: I WAS TOO DISTRAUGHT FROM THE FALLOUT OF OUR ALLIANCE BREAK EARLIER. I THINK CASO WOULDA WON THEN THO
+          <br/>
+          <br/>
+          JOHNSON: I HAD RISK DREAMS LAST NIGHT
+          <br/>
+          <br/>
+          SERG: RISK DREAMS TOO. AND CASO DISTINCTLY COMPLAINED ABOUT THE DICE BEING WEIGHTED IN IT
+          <br/>
+          <br/>
+          DADDISON: HAPPY 4/20
+          <br/>
+          <br/>
+          DADDISON: THAT MAP REQUIRES SPECIFIC AND BRIEF ALLIANCES
+          <br/>
+          <br/>
+          THE CASO: HAD TO SQUASH KEV SINCE HE WASN'T ATTACKING RAD. JUST BEING A BIG BEE'S NEST SMACK DAB IN THE MIDDLE OF THE MAP
+          <br/>
+          <br/>
+          
+          KEV: GOTTA BE A COASTIE, THAT MIDDLE AREA IS FUCKED
+          <br/>
+          <br/>
+          KEV: I TURNED ON RAD BECAUSE HE WOULDN'T MAKE A DEAL AND THEN HE TURNED INTO THE HULK
+          <br/>
+          <br/>
+          THE CASO: THE BETRAYAL OF KEV WAS ONLY POSSIBLE DUE TO THE BOND I FORGED WITH PACH IN THE PREVIOUS GAME
+          <br/>
+          <br/>
+          PACH: I'M STILL RIDING THIS HIGH. YOU HAVE TO PROVE YOURSELF AS A VP TO TAKE THE TOP SPOT IN THE LONG RUN. CAN'T BE PISSING ALL OVER YOUR GOOD NAME OUT THERE 
+          <br/>
+          <br/>
+          PACH: PEOPLE NEVER FORGET 
+          <br/>
+          <br/>
+          SERG: CHAOS IS THE ONLY CONSTANT
+
+          </small></p>
+
+      </div>
+
+      <div className="fullHeight">
       <p className="narration">Following a weekend of minor quarrels, the hints of chaos seemed to deflate almost as 
       quickly as they had distended. A temporary ceasefire was agreed upon, and peace talks were underway in an effort
       to prevent large-scale warfare. 
