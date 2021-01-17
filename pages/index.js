@@ -871,7 +871,7 @@ Jr. Lieutenant the Caso
 </div>
 
 <footer>
-<p className="disclaimer"><small><i>The Accounts drawn in the description about are all true and factual - old tombs and writings 
+<p className="disclaimer"><small><i>The accounts drawn in the description about are all true and factual - old tombs and writings 
   were discovered and vetted through the historical museums of war. <a href="https://imgur.com/a/IXWxmJW">All rights reserved.</a></i></small>
   </p>
 </footer>
