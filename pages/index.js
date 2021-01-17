@@ -223,7 +223,61 @@ perhaps the world), allowing a blood-colored history to once again, repeat itsel
 </div>
 
 <div className="fullHeight">
-<h2>June 14, 2020</h2>
+<p className="diaryDowals"><small>
+<h4>Private Diary of General Dowals - Keep Out</h4>
+  <h2>June 14, 2020</h2>
+  Another interesting map lay in the second War of the eve. LT Caso still brimming with anger 
+  and spewing hate in all directions, General Dowals and Patch sat for a vast period of time due to 
+  “hey let’s ally - oh wait I want to go that way - I assumed that since we allied you would just know 
+  what I wanted and do what is best for me.....well F that noise..... oh hold on a sec, we both lost.....” 
+  General Rad, Johnson, and Kev were generally forgettable in the first game (I 
+  lost so early I don’t care what happened - bullshit rolls)
+<br/>
+<br/>
+To a new war. Immediately the tactic was set by General Kev asking the typical 
+“hey Stevie, what are you doing down there, I have no issues with you.....just leave because I want the country.” 
+General Johnson's approach was forced by the lands of the Middle East, General Patch laid claim you the 
+north west establishment creating a barrier with the red/ yellow armies. Now this is the time the dicks starting flying. 
+Lt Caso, still fuming, found a friend in a fellow loser General who couldn’t decide wether whisky or beer was the 
+right choice. Very similar to the “shit, I had cards?” Incident or the “fuck, didn’t want to fortify there....whoops” 
+debacle. Sitting pretty in Dicks-Ville, Lt Caso / General Rad formed a stronghold in the north/north east. 
+This shows the map as is the first 3 years of war.
+<br/>
+<br/>
+Moves were subtle, no one looking to whip it out to show the world. A lot of tit for tat. 
+One cute little move was when Lt Caso took his troops outside of a few countries to let 
+General Rad go fight others for him - it was adorable. Some words were spoken, which 
+forced General Kev to establish dominance and lay his lumber into Turkey to cut up the homo-erotic 
+love fest of Rad and Caso. Lt Caso was not a fan and his strength in numbers, which showed when he took 
+back his lands gave General Rad his home again..... the bond was sealed. Having no path way out 
+General Dowals was stuck with a fat stack of troops in the south, and by the time the Country was 
+established by a bloody battle to end General Kev's rein, his forces were weakened......
+<br/>
+<br/>
+Observing this fact, Lt Caso took advantage of General Johnson’s long hold of a 
+centralized country and sliced the domain into the southern tier of General Dowals. 
+There was no reinforcements. Graciously, in the massive fog of dicks in the north, Lt Caso allowed 
+General Rad to remain living to use his cards ....... the whiskey took hold...... 
+cards weren’t used and his troops riddled.....
+<br/>
+<br/>
+With only one shot of claiming strength back, General Dowals slapped General Rad taking his 
+pathetic cards only to leave himself more vulnerable....... we can all see the story from here....
+<br/>
+<br/>
+Lt Caso pushes his massive troops that was collected with zero resistance into squabbling the 
+territories marking victory on the lands.
+<br/>
+<br/>
+The Battle was named: <i>The Battle of Dick Hill</i>
+<br/>
+The excited Lt scurried back to his superiors. Feeling positive about the win at
+Dick Hill and his crimes of passion seemed to be under control. This little Lt was jazzed. 
+  </small>
+  </p>
+</div>
+
+<div className="fullHeight">
   <p> The Gordian knot of military bureaucracy just wasn’t worth fighting today. </p>
 
 <p className="story">
