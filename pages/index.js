@@ -1021,7 +1021,7 @@ General Daddison denied comments on the matter, reportedly telling the press to 
 <br/>
 The following scrimmage began with General Patch again refusing to join the comms, 
 even after receiving a written petition to do so. Unable to set his moral compass straight 
-and join the Green/Red coalition for transparency, General Daddison utlized the underground 
+and join the Green/Red Coalition for Transparency in War, General Daddison utlized the underground 
 media channels and sabotaged the public comms. The Yellow army commander was able to 
 poke away at General Kev while successfully angering General Johnson enough to sacrifice Green 
 troops to a boring version of the Cuban missile crisis. The calamity allowed Ol General Patch 
