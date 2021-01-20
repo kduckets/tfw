@@ -1012,10 +1012,10 @@ Jr. Lieutenant the Caso
 <p className="news">
 In a rare four man scrimmage yesterday evening, the Generals decided to send a message to Ol General Patch that in 
 order to participate in worthy battle, it’s way more fun if everyone acts with transparency and joins the public comms channel. 
-General Daddison, beyond desperate for a win, chose to take advantage of the situation, breaking with 
-the coalition by opening an encrypted private channel with General Patch and snaking a practice victory as a result. 
-Analysts presume the unscrupulous strategy was an effort to gain endgame experience for use in real battle. The private comms 
-channel is now known as ’69chan’ and is under investigation by officials.
+General Daddison, beyond desperate for a win, chose to take advantage of the situation by breaking with 
+the coalition and opening an encrypted private channel. By allying and communicating offline with General Patch, the Yellow army was able to 
+snake a victory currently under official review for an asterisk. Analysts presume the unscrupulous strategy was an effort to gain endgame experience for use in real battle. The private comms 
+channel is now known as ’69chan’, and is also under investigation by officials.
 General Daddison denied comments on the matter, reportedly telling the press to “eat my butt”. 
 <br/>
 <br/>
