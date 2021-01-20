@@ -1026,7 +1026,7 @@ media channels and sabotaged the public comms. The Yellow army commander was abl
 poke away at General Kev while successfully angering General Johnson enough to sacrifice Green 
 troops to a boring version of the Cuban missile crisis. The calamity allowed Ol General Patch 
 to clean up the unnecessary mess and take the second scrimmage win of the evening. The press, 
-most profitable from stories involving more interesting drama and controversy, eagerly awaits a 
+most profitable from stories involving interesting drama and controversy, eagerly awaits a 
 for-reals battle where the Generals have the opportunity to publicly yell, face to face (over the internet). 
 </p>
 </div>
