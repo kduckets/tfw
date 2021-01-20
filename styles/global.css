@@ -130,6 +130,10 @@ p.newsTitle{
   font-size: 1.2rem;
 }
 
+p.newsTitle h2, h4{
+  text-align: center;
+}
+
 p.story{
   font-family: 'Arapey', serif;
 }

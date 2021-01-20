@@ -92,12 +92,12 @@ export default function Home() {
           <br/>
           <br/>
           GEN KEV: PSA - DON'T TRUST CASO
-          <br/>
+          {/* <br/>
           <br/>
           GEN KEV: I DEF SHOULDA MADE A DEAL WITH YOU RAD TO GET ONE OF YOUR COUNTRIES FOR A CARD IN EXCHANGE FOR CHARGING PACH. I HAD 2 SO THAT WOULDA GIVEN ME 10 TROOPS AND THE ADVANTAGE
           <br/>
           <br/>
-          GEN KEV: I WAS TOO DISTRAUGHT FROM THE FALLOUT OF OUR ALLIANCE BREAK EARLIER. I THINK CASO WOULDA WON THEN THO
+          GEN KEV: I WAS TOO DISTRAUGHT FROM THE FALLOUT OF OUR ALLIANCE BREAK EARLIER. I THINK CASO WOULDA WON THEN THO */}
           <br/>
           <br/>
           GEN JOHNSON: I HAD RISK DREAMS LAST NIGHT
@@ -132,6 +132,9 @@ export default function Home() {
           <br/>
           <br/>
           GEN SERG: CHAOS IS THE ONLY CONSTANT
+          <br/>
+          <br/>
+          END OF CORRESPONDENCE
 
           </small></p>
 
@@ -184,6 +187,9 @@ scolds his soldiers and quietly plots his revenge.
           <br/>
           <br/>
           GEN DADDISON: ANYONE KNOW WHERE I COULD BUY A LUXUY TEE WITH A PICTURE OF THE RED ARMY GENERAL'S HEAD ON IT
+          <br/>
+          <br/>
+          END OF CORRESPONDENCE
              </small>
           </p>
           </div>
@@ -996,6 +1002,58 @@ Jr. Lieutenant the Caso
 </i>
   </p>
 </div>
+
+<div className="fullHeight">
+<p className="newsTitle">
+<h2>Public Comms Dispute Results in Victory for Daddison and Ol Patch </h2>
+<h4>January 18, 2020</h4>
+</p>
+
+<p className="news">
+In a rare four man scrimmage, it was decided early on to send a message to Ol General Patch that in 
+order to participate in worthy battle, it’s way more fun if everyone acts with transparency and joins the public comms channel. 
+General Daddison, beyond desperate for a win, chose to take advantage of the situation, breaking with 
+the coalition by opening an encrypted private channel with General Patch and snaking a practice victory as a result. 
+Analysts presume the unscrupulous strategy was an effort to gain endgame experience for use in real battle. The private comms 
+channel is now known as ’69chan’ and is under investigation by officials.
+General Daddison denied comments on the matter, reportedly telling the press to “eat my butt”. 
+<br/>
+<br/>
+The following scrimmage began with General Patch again refusing to join the comms, 
+even after receiving a written petition to do so. Unable to set his moral compass straight 
+and join the Green/Red coalition for transparency, General Daddison utlized the underground 
+media channels and sabotaged the public comms. The Yellow army commander was able to 
+poke away at General Kev while successfully angering General Johnson enough to sacrifice Green 
+troops to a boring version of the Cuban missile crisis. The calamity allowed Ol General Patch 
+to clean up the unnecessary mess and take the second scrimmage win of the evening. The press, 
+most profitable from stories involving more interesting drama and controversy, eagerly awaits a 
+for-reals battle where the Generals have the opportunity to yell face to face. 
+</p>
+</div>
+
+<div className="fullHeight">
+  <img src="/rainbow.png" className="centered"></img>
+</div>
+
+<div className="fullHeight">
+  <p className="narration">
+    "We can see each other not as adversaries but as neighbors.  We can treat each other with dignity and respect. We can join forces, stop the shouting and lower the temperature. For without unity there is no peace, only 
+    bitterness and fury. No progress, only exhausting outrage. No nation, only state of chaos."
+    <br/>
+    <br/>
+    "Every disagreement doesn't have to be a cause for total war."
+    <br/>
+    <br/>
+    President/General J.R. Biden Jr.
+    <br/>
+    January 20, 2021
+    
+
+  </p>
+</div>
+
+
+
 <div className="fullHeight">
 <p>To be continued...</p>
 </div>
