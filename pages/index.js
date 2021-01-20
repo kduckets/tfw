@@ -1010,7 +1010,7 @@ Jr. Lieutenant the Caso
 </p>
 
 <p className="news">
-In a rare four man scrimmage, it was decided early on to send a message to Ol General Patch that in 
+In a rare four man scrimmage yesterday evening, the Generals decided to send a message to Ol General Patch that in 
 order to participate in worthy battle, it’s way more fun if everyone acts with transparency and joins the public comms channel. 
 General Daddison, beyond desperate for a win, chose to take advantage of the situation, breaking with 
 the coalition by opening an encrypted private channel with General Patch and snaking a practice victory as a result. 
