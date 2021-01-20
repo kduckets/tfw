@@ -26,7 +26,7 @@ export default function Home() {
         <p>
         <small>
 
-        The year was 2020. Most great thinkers of earth had sensed the unrest brewing for 
+        The year was 2020. Most great thinkers of earth had sensed unrest brewing for 
         quite some time, but very few were prepared for the events that actually transpired. Sickness, 
         suffering, and death were just the tip of the iceberg as an already unstable human race was 
         ravaged by plague, cultural divergence, and warfare.
@@ -67,7 +67,7 @@ export default function Home() {
       <p className="diary">
         <h2>April 19, 2020</h2>
    
-      The unrest amongst the dudes has lead to a few seemingly harmless battles to air some petty grievances. 
+      The agitation amongst the dudes has lead to a few seemingly harmless battles to air some petty grievances. 
       Tonight I ran outta time just as I was hitting the fortify button - an infuriating mistake to say the least. 
       Bruised, but not defeated from the bloody Caso-Johnson debacle, General Johnson's Green army perforated the open gap and wreaked havoc on the southern region of 
       the divided United States. 
@@ -1001,8 +1001,8 @@ Jr. Lieutenant the Caso
 </div>
 
 <footer>
-<p className="disclaimer"><small><i>The accounts drawn in the description about are all true and factual - old tombs and writings 
-  were discovered and vetted through the historical museums of war. <a href="https://imgur.com/a/IXWxmJW">All rights reserved.</a></i></small>
+<p className="disclaimer"><small>The accounts drawn in the description above are all true and factual - old tombs and writings 
+  were discovered and vetted through the historical museums of war. <a href="https://imgur.com/a/IXWxmJW">All rights reserved.</a></small>
   </p>
 </footer>
  </div>
