@@ -257,10 +257,10 @@ scolds his soldiers and quietly plots his revenge.
     reporters when asked why he didn’t use his cards at a crucial battle moment. “I guess it coulda been the anchovies,” 
     he added, apprehensively. In response to the allegations, Lieutenant the Caso began to describe an awkward dream he 
     had about the Yellow army’s commander, followed by some patronizing advice to the seasoned General. The topics of 
-    chemical warfare and anchovies were suspiciously avoided.
+    chemical warfare and anchovies were suspiciously avoided. Officials are currently voting on whether or not to asterisk the battle.
   <br/>
   <br/>
- The only other leader willing to comment on the developing 
+  The only other leader willing to comment on the developing 
     controversy was General Dowals, simply stating, “fucking pussies”. </p>
   </div>
 
