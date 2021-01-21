@@ -1013,21 +1013,21 @@ Jr. Lieutenant the Caso
 In a rare four man scrimmage yesterday evening, the Generals decided to send a message to Ol General Patch that in 
 order to participate in worthy battle, it’s way more fun if everyone acts with transparency and joins the public comms channel. 
 General Daddison, beyond desperate for a win, chose to take advantage of the situation by breaking with 
-the coalition and opening an encrypted private channel. By allying and communicating offline with General Patch, the Yellow army was able to 
-snake a victory currently under official review for an asterisk. Analysts presume the unscrupulous strategy was an effort to gain endgame experience for use in real battle. The private comms 
-channel is now known as ’69chan’, and is also under investigation by officials.
-General Daddison denied comments on the matter, reportedly telling the press to “eat my butt”. 
+the coalition and opening an encrypted private backend channel with General Patch. By allying and communicating offline, the Yellow army was able to 
+snake a questionable victory, currently under official review for an asterisk. Analysts presume the unscrupulous strategy was an effort to gain endgame experience for use in real battle. The private comms 
+channel is now known as ’69chan’ and is also under investigation by officials.
+General Daddison denied commenting on the developing controversy, reportedly telling the press to “eat my butt”. 
 <br/>
 <br/>
-The following scrimmage began with General Patch again refusing to join the comms, 
+The following battle began with General Patch again refusing to join the comms, 
 even after receiving a written petition to do so. Unable to set his moral compass straight 
-and join the Green/Red Coalition for Transparency in War, General Daddison utlized the underground 
-media channels and sabotaged the public comms. The Yellow army commander was able to 
-poke away at General Kev while successfully angering General Johnson enough to sacrifice Green 
-troops to a boring version of the Cuban missile crisis. The calamity allowed Ol General Patch 
-to clean up the unnecessary mess and take the second scrimmage win of the evening. The press, 
-most profitable from stories involving interesting drama and controversy, eagerly awaits a 
-for-reals battle where the Generals have the opportunity to publicly yell, face to face (over the internet). 
+and join the Green/Red Coalition for Transparency in War, General Daddison continued to utlize the underground 
+media channels while simultaneously sabotaging the public comms. The Yellow army commander was eventually able to 
+successfully anger General Johnson enough to sacrifice Green 
+troops to what historians are referring to as a 'boring version of the Cuban missile crisis'. The calamity allowed Ol General Patch 
+to clean up the unnecessary mess and take the second scrimmage victory of the evening. The press, 
+most profitable from stories involving interesting drama and controversy, eagerly awaits a battle where the Generals have the opportunity to publicly yell, 
+face to face (over the internet). 
 </p>
 </div>
 
