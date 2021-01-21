@@ -1036,7 +1036,7 @@ face to face (over the internet).
 <div className="fullHeight">
   <p className="narration">
     A transfer of power casted a brief moment of tension release, yet the chaos cleanup ahead seemed nearly impossible. 
-    Hints of new hope, however, were back in the air.
+    Hints of a new hope, however, were back in the air.
   </p>
   <img src="/rainbow.png" className="centered"></img>
 </div>
