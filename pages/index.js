@@ -1040,7 +1040,7 @@ for-reals battle where the Generals have the opportunity to publicly yell, face 
     <h2>Supreme Commander J.R. Biden Jr.</h2>
     <h3>January 20, 2021</h3>
   <small>
-    "...We can see each other not as adversaries but as neighbors.  We can treat each other with dignity and respect. We can join forces, stop the shouting and lower the temperature. For without unity there is no peace, only 
+    "We can see each other not as adversaries but as neighbors.  We can treat each other with dignity and respect. We can join forces, stop the shouting and lower the temperature. For without unity there is no peace, only 
     bitterness and fury. No progress, only exhausting outrage. No nation, only state of chaos."
     <br/>
     <br/>
