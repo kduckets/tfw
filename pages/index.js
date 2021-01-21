@@ -186,7 +186,7 @@ scolds his soldiers and quietly plots his revenge.
           GEN DOWALS: WHEN THE STARS OF A TRUE GENERAL GLIMMERED BRIGHTLY OVER THE GERMAN STATE
           <br/>
           <br/>
-          GEN DADDISON: ANYONE KNOW WHERE I COULD BUY A LUXUY TEE WITH A PICTURE OF THE RED ARMY GENERAL'S HEAD ON IT
+          GEN DADDISON: ANYONE KNOW WHERE I COULD BUY A LUXURY TEE WITH A PICTURE OF THE RED ARMY GENERAL'S HEAD ON IT
           <br/>
           <br/>
           END OF CORRESPONDENCE
@@ -1031,7 +1031,13 @@ face to face (over the internet).
 </p>
 </div>
 
+
+
 <div className="fullHeight">
+  <p className="narration">
+    A transfer of power casted a brief moment of tension release, yet the chaos cleanup ahead seemed nearly impossible. 
+    Hope, however, was back in the air.
+  </p>
   <img src="/rainbow.png" className="centered"></img>
 </div>
 
