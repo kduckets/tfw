@@ -383,7 +383,7 @@ battle plan. He sighed as he noticed a new scratch on the <i>Jr. Lieutenant</i> 
 <img src="/stars.png" className="center-small"></img>
 <br/>
 <br/>
-Back out on the battlefield the soldiers were tired and the violence seemed infinite. Unknowingly fighting for nothing other than a broken man’s new nameplate, 
+Back out on the battlefield the soldiers were tired and the violence seemed infinite. Unknowingly fighting for little more than a broken man’s new nameplate, 
 the Blue army obeyed their orders and listened to the Jr. Lieutenant’s passionately mediocre speech. “You only live once, so go fight for it!” concluded the 
 sermon with a lackluster ‘hoo-rah’ as the army’s response. The soldiers knew not what they were fighting for, 
 but nonetheless blindly adhered to the lines of command. “It is what it is,” a veteran soldier whispered to a questioning young recruit 
