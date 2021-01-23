@@ -308,6 +308,7 @@ perhaps the world), allowing a blood-colored history to once again, repeat itsel
 <p className="diaryDowals"><small>
 <h4>Private Diary of General Dowals - Keep Out!</h4>
   <h2>June 14, 2020</h2>
+  <h2>"The Battle of Dick Hill"</h2>
   Another interesting map lay in the second War of the eve. LT Caso still brimming with anger 
   and spewing hate in all directions, General Dowals and Patch sat for a vast period of time due to 
   “hey let’s ally - oh wait I want to go that way - I assumed that since we allied you would just know 
