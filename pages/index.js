@@ -363,7 +363,7 @@ Dick Hill and his crimes of passion seemed to be under control. This little Lt w
   <p> The Gordian knot of military bureaucracy just wasn’t worth fighting today. </p>
 
 <p className="story">
-<small>Energized by his recent win and fed up with the constant ridicule from his peers, Jr. Lieutenant the Caso reluctantly finished his mound of paperwork, 
+<small>Energized by a recent win and fed up with the constant ridicule from his peers, Jr. Lieutenant the Caso reluctantly finished his mound of paperwork, 
 anxious to finally order the ‘General the Caso’ nameplate to display prominently on his desk. <i>I’ll probably order the 
 silver - to match the Live, Laugh, Love sign,</i> he pondered as he knocked on his superior’s door.
 <br/>
