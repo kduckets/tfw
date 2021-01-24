@@ -430,7 +430,7 @@ Jr. Lt. 'the' Caso was furious.</small>
 </p>
 <p className="news">
 In a pitiful display of desperation, Jr. Lieutenant 'the' Caso utilized despicable war tactics such as 
-inciting chaos, camping, shielding, tear gassing civillians, and attacking without formally breaking alliances to 
+inciting chaos, camping, shielding, tear gassing civilians, and attacking without formally breaking alliances to 
 steal a dissatisfying win from the warring nations. Officials are left questioning the legitimacy of the 
 Blue nation and are considering pulling global funding from the deplorable boys in blue. Even war has its 
 limits, and the Blue army has incessantly shown it will act without shame, continuing to cross lines to 
@@ -652,7 +652,7 @@ seemingly for the purpose of the Hell of War. Only time, per usual, will yell.
 <p className="story">
   <small>
 “The virus and I have returned from the desert with an arrived agreement,” the Junior Lieutenant said, 
-firmly holding a sawed off double-barreled shotgun directy at his superior’s dilapidated heart. 
+firmly holding a sawed off double-barreled shotgun directly at his superior’s dilapidated heart. 
 “It would be in your best interest to sign this.” 
 <br/>The superior officer showed no emotion, exhausted from the tumultuous months of his recent past. He took a quick glance at the contract held by General Serg and looked back toward the barrels of the gun. 
 <br/>
