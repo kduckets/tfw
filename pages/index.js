@@ -290,7 +290,7 @@ the leader of the Red army.
 <br/>
 Perhaps out of both air and energy, the yelling calmed in Africa as the nations all turned against Orange, 
 leaving an opening for a win-starved Purple army to deploy a fresh strategy. The decision to not camp in a 
-single country proved fruitful for Ol General Patch, as he was able to build and bleed through the war-torn 
+single country proved fruitful for Ol General Patch, as he was able to pull off an unprecedented pivot-play and bleed through the war-torn 
 nations for a much needed Purple victory.
 <br/>
 <br/>
