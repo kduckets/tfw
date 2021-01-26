@@ -1068,7 +1068,7 @@ face to face (over the internet).
 
 <footer>
 <p className="disclaimer"><small>The accounts drawn in the description above are all true and factual - old tombs and writings 
-  were discovered and vetted through the historical museums of war. <a href="https://imgur.com/a/IXWxmJW">All rights reserved.</a></small>
+  were discovered and vetted through the historical museums of the chambers of forgotten wars. <a href="https://imgur.com/a/IXWxmJW">All rights reserved.</a></small>
   </p>
 </footer>
  </div>
