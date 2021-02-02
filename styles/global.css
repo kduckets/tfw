@@ -91,14 +91,11 @@ p.disclaimer {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  text-align: center;
-  text-align: justify;
 }
 
 p.narration{
 font-family: 'Roboto Mono', monospace;
 font-size:1.2rem;
-text-align: center;
 }
 
 p.narration-quote{
