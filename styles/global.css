@@ -92,6 +92,7 @@ p.disclaimer {
   justify-content: center;
   align-items: center;
   text-align: center;
+  text-align: justify;
 }
 
 p.narration{
