@@ -26,7 +26,7 @@ export default function Home() {
         <p>
         <small>
 
-        The year was 2020 AD. Most great thinkers of earth had sensed the unrest brewing for 
+        The year was A.D. 2020. Most great thinkers of earth had sensed the unrest brewing for 
         quite some time, but very few were prepared for the events that actually transpired. Sickness, 
         suffering, and death were just the tip of the iceberg as an already unstable human race was 
         ravaged by plague, cultural divergence, and warfare.
