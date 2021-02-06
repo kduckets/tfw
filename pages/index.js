@@ -26,7 +26,7 @@ export default function Home() {
         <p>
         <small>
 
-        The year was 2020. Most great thinkers of earth had sensed unrest brewing for 
+        The year was 2020 AD. Most great thinkers of earth had sensed the unrest brewing for 
         quite some time, but very few were prepared for the events that actually transpired. Sickness, 
         suffering, and death were just the tip of the iceberg as an already unstable human race was 
         ravaged by plague, cultural divergence, and warfare.
@@ -160,7 +160,7 @@ The ceasefire proved costly for General Johnson’s troops,
 as the undefeated veteran collapsed to two previously 
 winless armies in yet another bloody Saturday night. 
 General Dowals, new on the scene of war, quickly rose 
-through the ranks after wiping Deutschland clean of the 
+through the ranks by wiping Deutschland clean of the 
 Almighty Johnson’s post-ceasefire army. While Johnson 
 gathers his battered troops to mansplain the follies of hubris, 
 Jr. Lieutenant the Caso, humiliated to be the last war-torn nation without a victory, 
@@ -253,7 +253,7 @@ scolds his soldiers and quietly plots his revenge.
 </p>
 <p className="news">
   Junior Lieutenant 'the' Caso claimed his first victory of the war last night, although rumors of chemical 
-    warfare could prove diminishing to the win. “I felt loopy, I certainly wasn’t myself,” General Daddison stated to 
+    warfare involving the Yellow army could prove diminishing to the win. “I felt loopy, I certainly wasn’t myself,” General Daddison stated to 
     reporters when asked why he didn’t use his cards at a crucial battle moment. “I guess it coulda been the anchovies,” 
     he added, apprehensively. In response to the allegations, Lieutenant the Caso began to describe an awkward dream he 
     had about the Yellow army’s commander, followed by some patronizing advice to the seasoned General. The topics of 
