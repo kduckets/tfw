@@ -1060,6 +1060,113 @@ face to face (over the internet).
   </p>
 </div>
 
+<div className="fullHeight">
+
+<p className="diaryDowals"><small>
+
+  
+  <h2>"The Battle of the Great Wall of Bullshit"</h2>
+  <h2>February 6, 2020</h2>
+  <h4>As written from the Private Diary of General Dowals (Or Gen. Stevie - interchangable)</h4>
+  After a pleasant journey though the sacred walls of the Tomb of Forgotten Wars, the Generals (and LTs. alike*) gather back to begin a new year of strategy, battle, and good
+ole fashioned tomfoolery. Within the DMZ zone of "HP", tales of victory and failure rused up sleeping tensions like a bear being prodded during his slumber in which he didnt
+have his fill of meats prior to hibernation....
+<br/>
+<br/>
+Gen. Dowals: "Hey, dont we just play for fun and friendship/comradery?"
+<br/>
+<br/>
+Gen. Daddison (Or Gen. Rad): "No...We play to Win."
+<br/>
+<br/>
+And so the battle begins...
+<br/>
+<br/>
+It should be noted in the records that General Ceej / Lt Caso missed the first bus out of the DMZ zone..... Pre-War jitters I guess.   
+<br/>
+<br/>
+Finally when all the Generals (and LT) reached the battle front, the map displayed several locations of strategic strength, the difficulty was landing these locations with
+5 Generals / 1 LT all sniffing for the best one. Within my records, I established and early dominance in which many of the other generals did not see in the clear of day.
+A quick push into Gen. Daddisons early country was led with and immediate ask for alliance from Gen. Ceej / Gen. Kev simultaneously. Always line up with strength, and I
+cannot refute that.
+<br/>
+<br/>
+Countries began to be established by the leaders and the discussion of the Great Wall of Bullshit was at hand.....Apparently, the statistics of attacking over the wall favored
+the defence. Makes sense. Percentages of victory were shown to the Generals to understand the amount of "Risk" that would be taken via each battle. A standard item in a
+Generals tool box. Apparently the Lt. did not see or know about this when his leadership was taken via a coup/murder. Would have been nice to be trained of that feature. Sad
+and confused of not knowing this basic fact - the Lt. lashed out at me, claiming it was "an advantage". As a General, I accepted the tantrum and continued to strategize
+and take notes.
+<br/>
+<br/>
+Maybe all hopped up on "percentage based combat", Lt Caso made the first significant move of the night.
+<br/>
+<br/>
+Lt. Caso: "Its nothing personal" as he took a greasy shit in Gen. Kev's living room.
+<br/>
+<br/>
+Gen Kev: "What the fuck are you talking about - that is personal! asdfhuhiwuehihacieaoieuohfoiahiu (unintelligible ramblings)"
+<br/>
+<br/>
+On the northern portion of the Map - Gen. Daddison amassed a large troop on an island on the other side of his home County to prevent Gen. Pach from claiming stake to his land
+A fued of Gen. Pach / Daddison ensude with massive losses of troops and mean rolls. A drop of whiskey is within my notes of who won this quarrel.... drinking/notes/war are a
+bad combo. Lets just say no one was happy about that.
+<br/>
+<br/>
+As always, we reach the point in the Battle where Gen. Kev makes his standard announcement.
+<br/>
+<br/>
+Gen. Kev: "Well, someone needs to break an alliance." (This is strictly observational and not financial advice)
+<br/>
+<br/>
+At this time, General Daddison felt the need to point out that he has "big balls". Kinda random, a little bold. A few attacks to countries and all of a sudden the sack
+between the legs is a pair of 18 lb bowling balls. During this discussion of ball size, Gen Daddison/Lt Caso were coaxing Gen Kev to attack others than themselves. General Kev
+in the middle between 3 Generals and a LT had to make a coice. With Gen Ceej and his nukes at his back door, myself with a wall of defense, Lt Caso's needle pokes, and Gen
+Daddison with a set a balls...... Something had to be done.
+<br/>
+<br/>
+The choice was made to make war with the Lt. - he had shown to be the weakest at the time. Heavy back and forth, General Daddison supported the Lt. with his quarrel.
+<br/>
+<br/>
+During the battle - the Record was requested to state that - Gen. Kev should have attached Gen Daddison.....and so it shall.
+<br/>
+<br/>
+After whining and claiming alliances were cheap, attacks from my army that were not real, Gen. Kev being an idiot, and several other notes that you can read in his
+diary. Mostly whining about the strong Orange Flag..... the Lt made a swift exit. The Red Army proved to be too strong for the Blue Armys false threats. It will be noted
+that the Lt. was able to get view mode which allowed additioal ramblings while watching the battle unfold from the DMZ area. Records for this diary should be reviewed
+strongly by the Generals since they are:
+<br/>
+<br/>
+1. Written by an LT
+2. Written while not in the game
+3. Complaints are not a record of War.
+<br/>
+<br/>
+Shortly after the Lt. defeat, Gen. Pach swept in for the kill to take Gen. Daddison from the map all while stifiling the defenses of Gen. Dowals. The chess pieces were
+placed. (Echos of the dead were heard at this time "Pach, go for Orange! Go for Orange". The sounds whistfully disappeared in the wind.)
+<br/>
+<br/>
+At this time in the War a stale-mate was placed. Gen. Kev/Ceej/Dowals/Pach holding quarter. Gen Ceej / Pach had the most amassed troops sitting with anywhere between 25 - 40
+on two separte countries. Against every statement made in Lt. Casos diary - myself / Gen. Kev remove the alliance and being to fight. At this point I remember getting hit
+General Ceej and Gen Pach which left me at a point of defense and attempting to rebuild. There was no path to victory for myself nor Gen. Kev. A highly debated topic of Gen.
+Ceejs lack of push was into play when Gen. Pach being more decisive made the strong push and narrowly claimed the map within seconds of the turn ending.
+<br/>
+<br/>
+A truly bloody battle in which "should have" or "could haves" were on the table. A glorious win for Gen. Pach and the Purple Army.
+<br/>
+<br/>
+Gen. Daddison: "Can we play another small one?"
+<br/>
+<br/>
+Gen. Dowals: "Yea, I guess we can play a small one."
+<br/>
+<br/>
+Gen. Daddison: "Fuck You."
+
+  </small>
+</p>
+
+</div>
+
 
 
 <div className="fullHeight">
