@@ -1066,8 +1066,9 @@ face to face (over the internet).
 
   
   <h2>"The Battle of the Great Wall of Bullshit"</h2>
+  <h3>As written from the Private Diary of General Dowals (Or Gen. Stevie - interchangable)</h3>
+
   <h2>February 6, 2020</h2>
-  <h4>As written from the Private Diary of General Dowals (Or Gen. Stevie - interchangable)</h4>
   After a pleasant journey though the sacred walls of the Tomb of Forgotten Wars, the Generals (and LTs. alike*) gather back to begin a new year of strategy, battle, and good
 ole fashioned tomfoolery. Within the DMZ zone of "HP", tales of victory and failure rused up sleeping tensions like a bear being prodded during his slumber in which he didnt
 have his fill of meats prior to hibernation....
