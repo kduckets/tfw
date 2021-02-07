@@ -1087,8 +1087,8 @@ It should be noted in the records that General Ceej / Lt Caso missed the first b
 <br/>
 <br/>
 Finally when all the Generals (and LT) reached the battle front, the map displayed several locations of strategic strength, the difficulty was landing these locations with
-5 Generals / 1 LT all sniffing for the best one. Within my records, I established and early dominance in which many of the other generals did not see in the clear of day.
-A quick push into Gen. Daddisons early country was led with and immediate ask for alliance from Gen. Ceej / Gen. Kev simultaneously. Always line up with strength, and I
+5 Generals / 1 LT all sniffing for the best one. Within my records, I established an early dominance in which many of the other generals did not see in the clear of day.
+A quick push into Gen. Daddison's early country was led with and immediate ask for alliance from Gen. Ceej / Gen. Kev simultaneously. Always line up with strength, and I
 cannot refute that.
 <br/>
 <br/>
