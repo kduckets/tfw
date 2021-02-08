@@ -1169,10 +1169,10 @@ Gen. Daddison: "Fuck You."
 </div>
 
 <div className="fullHeight">
-  <p className="narration"><small><i>Public Interest Notice: The following text was written by a reportedly unstable Junior Lieutenant, currently under investigation for 
+  {/* <p className="narration"><small><i>Public Interest Notice: The following text was written by a reportedly unstable Junior Lieutenant, currently under investigation for 
  several nefarious war crimes.</i></small></p>
  <br/>
- <br/>
+ <br/> */}
   <p className="caso">
   <small>
       <h2>Battle of the Great Wall of Bullshit</h2>
