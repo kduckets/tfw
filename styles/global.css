@@ -120,6 +120,12 @@ p.diaryCaso{
   padding-bottom: 32px;
 }
 
+p.caso{
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size:1.2rem;
+
+}
+
 p.diaryDowals{
   font-family: 'Caveat', cursive;
   font-size: 1.6rem;
