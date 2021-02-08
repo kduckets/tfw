@@ -111,7 +111,7 @@ p.diary{
 }
 
 p.diaryCaso{
-  font-family: 'Hachi Maru Pop', cursive;
+  font-family: 'Hachi Maru Pop';
   font-size:.9rem;
   background-image: url(../public/paper.png);
   padding-right: 32px;
@@ -121,8 +121,8 @@ p.diaryCaso{
 }
 
 p.caso{
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
-  font-size:1.2rem;
+  font-family: 'Hachi Maru Pop';
+  font-size:.9rem;
 
 }
 
