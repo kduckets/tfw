@@ -1246,6 +1246,7 @@ If the mounds of records in the Red army leader’s arms weren’t convincing en
 <br/>
 General Dowals paused before his next move. He knew what he had to do, but understood this would not be well perceived amongst the other nations. The warring armies had already been suspicious of some sort of Red/Orange contractual agreement, despite the records showing no such accord. Alas, there was no choice at this juncture. 
 <br/>
+<br/>
 “Ok I’m in, if only for the good of those who have already suffered enough from this horrible war. What kind of sick bastard watches someone take shits? That kind of human cannot be given the opportunity to prey on the fragility of a post-war world. We don’t know what kind of chaos this irrational insanity may incite. Let’s put an end to this impermissible evil, <i>for good</i>.”
 <br/>
 <br/>
