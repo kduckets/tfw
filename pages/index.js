@@ -1237,7 +1237,7 @@ General Kev sighed, silently acknowledging the countless hours his intelligence 
 “For the sake of post-war peace and the overall good of the world, we have no choice but to team up and put an end to this madness, General Dowals. We cannot let maniacs like the Jr. Lieutenant roam free, unchallenged. The great people of this world are depending on us. The post-war recovery will be difficult enough as is.”
 <br/>
 <br/>
-“I’m no advocate for secret alliances, General Kev, but it seems the die has been cast. Why don’t we alert the other nations and form a global committee? The whole world has felt perturbed by the Junior Lieutenant’s actions throughout the war. Surely they’ll agree to help us nip this in the bud while we still can. He thought The Virus’ shit was <i>talking</i>, for fuck’s sake. He’s been rocketing towards the moon of insanity ever since he murdered that old Blue superior.”
+“I’m no advocate for secret alliances, General Kev, but it seems the die has been cast. Why don’t we alert the other nations and form a global committee? The whole world has felt perturbed by the Junior Lieutenant’s actions throughout the war. Surely they’ll agree to help us nip this in the bud while we still can. He thought The Virus’ excrement was <i>talking</i>, for fuck’s sake. He’s been rocketing towards the moon of insanity ever since he murdered that old Blue superior.”
 <br/>
 <br/>
 “We don’t know whom else to trust,” General Kev replied convincingly. “The RAIU has determined your Orange nation runs the only organization we can truly rely on. The entire Blue army is in disarray, and it is difficult to identify which nations will accept the desperate backdoor deals being proposed by the corrupt, disintegrating Blue army factions.” 
