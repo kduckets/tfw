@@ -1223,7 +1223,7 @@ Flicking on the bathroom light he looked down in horror at his distended stomach
 General Kev proceeded to open his manila folder, revealing a thick stack of intelligence reports labeled <i>THE TAPES</i>. He scanned through the first few pages as General Dowals began to address the strange elephant in the room.
 <br/>
 <br/>
-“His most recent publication may be an indication of the shit hitting the fan, figuratively speaking. Why the hell was he watching someone take a shit? And reporting, on the record, on his own hallucinations of the shit <i>speaking?!</i> This is absolutely ludicrous. Are we able to identify the Jr. Lieutenant's location to warn the poor individual of the dangerous, murderous voyeur outside their bathroom window?” General Dowals spared no time for pleasantries.
+“His most recent publication may be an indication of the shit hitting the fan, figuratively speaking." General Dowals spared no time for pleasantries. "Why the hell was he watching someone take a shit? And reporting, on the record, on his own hallucinations of the shit <i>speaking?!</i> This is absolutely ludicrous. Are we able to identify the Jr. Lieutenant's location to warn the poor individual of the dangerous, murderous voyeur outside their bathroom window?” 
 <br/>
 <br/>
 “Yes, the Red Army Intelligence Unit was able to locate the Junior Lieutenant on the night of the publication. The transmission was sent from the bumfuck suburbs of Texas, where it’s been reported literally nothing cool ever happens. They might have good BBQ, but at this time even that remains unclear. We believe it to be the new location of the Virus’ base.”
