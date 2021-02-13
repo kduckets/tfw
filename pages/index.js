@@ -1217,7 +1217,7 @@ Flicking on the bathroom light he looked down in horror at his distended stomach
 “Thanks for meeting with me on such short notice, General. I understand your concerns regarding this matter are as grave as ours.”
 <br/>
 <br/>
-“Indeed, General Dowals,” General Kev replied in earnest. “Somebody needs to stop this train before it goes completely off the rails. We’ve got a potential maniac in control of one of the most barbaric, malleable armies in the world.” 
+“Indeed, General Dowals,” General Kev replied in earnest. "Someone needs to stop this train before it goes completely off the rails. We’ve got a potential maniac in control of one of the most barbaric, malleable armies in the world.” 
 <br/>
 <br/>
 General Kev proceeded to open his manila folder, revealing a thick stack of intelligence reports labeled <i>THE TAPES</i>. He scanned through the first few pages as General Dowals began to address the strange elephant in the room.
