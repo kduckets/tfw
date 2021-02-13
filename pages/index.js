@@ -1222,6 +1222,7 @@ Flicking on the bathroom light he looked down in horror at his distended stomach
 <br/>
 General Kev proceeded to open his manila folder, revealing a thick stack of intelligence reports labeled <i>THE TAPES</i>. He scanned through the first few pages as General Dowals began to address the strange elephant in the room.
 <br/>
+<br/>
 “His most recent publication may be an indication of the shit hitting the fan, figuratively speaking. Why the hell was he watching someone take a shit? And reporting, on the record, on his own hallucinations of the shit <i>speaking?!</i> This is absolutely ludicrous. Are we able to identify the Jr. Lieutenant's location to warn the poor individual of the dangerous, murderous voyeur outside their bathroom window?” General Dowals spared no time for pleasantries.
 <br/>
 <br/>
