@@ -1251,7 +1251,7 @@ If the mounds of records in the Red army leader’s arms weren’t convincing en
 General Dowals paused before his next move. He knew what he had to do, but understood this would not be well perceived amongst the other nations. The warring armies had already been suspicious of some sort of Red/Orange contractual agreement, despite the records showing no such accord. Alas, there was no choice at this juncture. 
 <br/>
 <br/>
-“Ok I’m in, if only for the good of those who have already suffered enough from this horrible war. What kind of sick bastard watches someone take shits? That kind of human cannot be given the opportunity to prey on the fragility of a post-war world. We don’t know what kind of chaos this irrational insanity may incite. Let’s put an end to this impermissible evil, <i>for good</i>.”
+“Ok I’m in, if only for the good of those who have already suffered enough from this horrible war. What kind of sick bastard watches someone take shits? That kind of human cannot be given the opportunity to prey on the fragility of a post-war world. We don’t know what kind of chaos this irrational insanity may incite. In the words of the great Jim Lahey, 'there's a shitnado coming'. Let’s put an end to this impermissible burning bag of scat, <i>for good</i>.”
 <br/>
 <br/>
 “Glad to see we are in agreement, General. We can only hope the other nations will appreciate our sacrifice once this is all over.”
