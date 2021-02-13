@@ -1202,7 +1202,7 @@ Flicking on the bathroom light he looked down in horror at his distended stomach
   <p className="story">
     <small>
    <h3>February 12, 2021</h3>
-<h5>Classified location</h5>
+<h5>LOCATION: CLASSIFIED</h5>
 
 “Thanks for meeting with me on such short notice, General. I understand your concerns regarding this matter are as grave as ours.”
 <br/>
