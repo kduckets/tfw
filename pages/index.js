@@ -1240,7 +1240,7 @@ General Kev sighed, silently acknowledging the countless hours his intelligence 
 “I’m no advocate for secret alliances, General Kev, but it seems the die has been cast. Why don’t we alert the other nations and form a global committee? The whole world has felt perturbed by the Junior Lieutenant’s actions throughout the war. Surely they’ll agree to help us nip this in the bud while we still can. He thought The Virus’ excrement was <i>talking</i>, for fuck’s sake. He’s been rocketing towards the moon of insanity ever since he murdered that old Blue superior.”
 <br/>
 <br/>
-“We don’t know whom else to trust,” General Kev replied convincingly. “The RAIU has determined your Orange nation runs the only organization we can truly rely on. The entire Blue army is in disarray, and it is difficult to identify which nations will accept the desperate backdoor deals being proposed by the corrupt, disintegrating Blue army factions.” 
+“We don’t know whom else to trust,” General Kev replied convincingly. “The RAIU has determined your Orange is the only organization we can rely on. The entire Blue army is in disarray, and it is difficult to identify which nations will accept the desperate backdoor deals being proposed by the corrupt, disintegrating Blue army factions.” 
 <br/>
 If the mounds of records in the Red army leader’s arms weren’t convincing enough, it was clear from General Kev’s demeanor that there were no other options. “We must form an alliance, General Dowals. For the good of <i>every single</i> living being on this planet.”
 <br/>
