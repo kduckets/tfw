@@ -216,8 +216,8 @@ scolds his soldiers and quietly plots his revenge.
     <small>
   <i>In war, whichever side may call itself the victor, there are no winners, but all are losers,&nbsp;</i> Jr. Lieutenant 'the' 
   Caso tells himself as he contemplates his failed alliance strategies. The Junior Lieutenant looks over his 
-  Blue army, now appearing purple from the blood soaked uniforms, and quietly tells them to go home and “thank 
-  your mothahs”.
+  Blue army, now appearing purple from the blood soaked uniforms, and quietly tells them to go home and 'thank 
+  your mothahs'.
   </small>
  </p>
   </div>
@@ -368,12 +368,15 @@ Dick Hill and his crimes of passion seemed to be under control. This little Lt w
 anxious to finally order the ‘General the Caso’ nameplate to display prominently on his desk. <i>I’ll probably order the 
 silver - to match the Live, Laugh, Love sign,</i> he pondered as he knocked on his superior’s door.
 <br/>
+<br/>
 “Come in,” the staunch old man ordered, clearly aggravated by the Jr. Lieutenant’s interruption and disheveled appearance. 
 “Back again for the promotion plea I see?” The Jr. Lieutenant held back his loathe for the expendable old man. 
+<br/>
 <br/>
 “Yes, sir,” the Caso said. “I’ve got everything you asked for this time.” 
 He handed the neatly stacked, laminated documents to the systemic man and pretended to respect the outdated procedures. 
 “It’s all there, sir. May I have the title now?”
+<br/>
 <br/>
 “Not yet, Lieutenant,” the man sneered as he stood to face the Caso. 
 “Put your goddamn crimes of passion to rest and secure a real win tonight. 
@@ -504,6 +507,7 @@ A win is truly a win in all accounts - however to gloat of tactics when playing 
 <br/>
 The Caso’s superior hung his head in disgrace, unable to look his subordinate in the eye. Caso’s grin quickly faded. 
 <br/>
+<br/>
 “In all my years, I have never seen such poppycock. Camping at the fucking pier? Attacking the north for no reason? 
 And now every headline is calling you the new virus in town? Your bullshit ‘win’ off the coattails of General Johnson’s 
 prudent strategy is a PR catastrophe. I’m sure you’re now aware of the calls for a full Blue systemic reform? The boys 
@@ -511,6 +515,7 @@ in blue were sitting pretty, Caso. For centuries. Nobody questioned our authorit
 Why would we change policies that kept us on top for hundreds of years? We <i>just</i> got finished convincing the public we 
 have an immigration problem to throw more military dollars at - and now, this. A god damn calamity, Caso. With your face 
 on the poster.”
+<br/>
 <br/>
 The superior officer collapsed into his chair, too fat and exhausted to fully comprehend the mess Caso had left in his wake. 
 An unpleasant moment of silence hovered ominously in the office before the old superior spoke again. 
@@ -520,11 +525,13 @@ An unpleasant moment of silence hovered ominously in the office before the old s
 papers clean of this disaster immediately, we just might have an opening on Blue’s leadership team. And if the word 
 ‘defund’ crosses my desk one more time, you can kiss any chance at a promotion in a blue uniform goodbye, <i>for life</i>." The superior suspired.
 <br/>
+<br/>
 "Get out of my office, it smells like you defecated yourself.”
 <br/>
+<br/>
 Caso, shocked at his superior’s analysis of his tiresome win, paused before he made his next move.
-<br/> 
 “A win’s a win though, right, sir?”
+<br/>
 <br/>
 “GET OUT!” the superior roared, finally gazing directly into the Caso’s eyes. 
 The Junior Lieutenant turned and scampered out, suddenly aware that he had, in fact, shit himself.
@@ -549,13 +556,20 @@ The Junior Lieutenant turned and scampered out, suddenly aware that he had, in f
 “That squirrelly Lieutenant is becoming my biggest regret. What are my options?” The old Blue superior 
 barked, almost relieved by the news of his Junior Lieutenant’s sudden disappearance. 
 <br/>
+<br/>
 “Desertion carries a maximum punishment of dishonorable discharge, forfeiture of all 
 tokens, and confinement of up to five weeks, sir.” 
 <br/>
+<br/>
+
 “Fine, find him and lock him up.” 
 <br/>
+<br/>
+
 “Well sir, for desertion during a time of war, the <i>ultimate punishment</i> may be applied...”
 <br/>
+<br/>
+
 “Just find him. Check the rivers, we know he had some poopy pants to 
 clean. And call the old virus, we have an open position.”
 <br/>
@@ -625,6 +639,7 @@ Keep it up out there,
 General Serg. If you succeed, we may again one day enjoy the privilege of invincibility the blue uniform once stood for. 
 Stir the bullshit up, but do so under the radar. We don’t need another pants-shitter steering this ship.”
 <br/>
+<br/>
 
 “Yes, sir,” General Serg replied.
 </small>
@@ -654,12 +669,18 @@ seemingly for the purpose of the Hell of War. Only time, per usual, will yell.
 “The virus and I have returned from the desert with an arrived agreement,” the Junior Lieutenant said, 
 firmly holding a sawed off double-barreled shotgun directly at his superior’s dilapidated heart. 
 “It would be in your best interest to sign this.” 
-<br/>The superior officer showed no emotion, exhausted from the tumultuous months of his recent past. He took a quick glance at the contract held by General Serg and looked back toward the barrels of the gun. 
 <br/>
+
+<br/>The superior officer showed no emotion, exhausted from the tumultuous months of his recent past. He took a quick glance at the contract held by General Serg and looked back toward the barrels of the gun. 
+
 “Over my dead, shitless-pantsed, body.”
 <br/>
+<br/>
+
 “Very well then, sir.”
 <br/>
+<br/>
+
 And with the simple motion of a contracting finger, blood was dispersed on a night of proposed peace, as a Junior Lieutenant instantaneously acquired newfound power. 
 </small>
   </p>
