@@ -1183,15 +1183,25 @@ Gen. Daddison: "Fuck You."
 
 The Red General tossed and turned, suddenly awakened by a searing pain in his abdomen.
 <br/>
+<br/>
+
 “That week old calzone must have given me food poisoning.” he thought as he made his way to the bathroom.
 Flicking on the bathroom light he looked down in horror at his distended stomach, and dropped to his knees as he felt what must be the biggest poop of his life demanding to be released.
 <br/>
+<br/>
+
 “Oh, hey General Kev! Just wanted to see if you’re ready for war tonight.” said the head of General Stevie “The B” Dowaliby as it wriggled it’s way out of the Red General’s butt.
 <br/>
+<br/>
+
 “Stevie..” General Kev sighed. “I know we’re lifelong partners who would never turn on each other, but you really need to find your own place to live..my butt’s getting really sore with you hiding in there all of the time”.
 <br/>
+<br/>
+
 “But..but Master General Kev, it’s so scary out there on my own, and since we act as one army in war anyway, I don’t see why I should ever have to leave your side.” The Orange General wimpered.
 <br/>
+<br/>
+
 “I guess you’re right, there’s no point in you leaving now since we’ll be embracing each other on the battlefield in just a few short hours. Go ahead and climb back inside, I’ll let you know when it’s time for War.” sighed General “Hothead” Kev.
 </small>
 
