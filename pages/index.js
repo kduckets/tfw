@@ -1053,11 +1053,7 @@ face to face (over the internet).
     <br/>
     "Every disagreement doesn't have to be a cause for total war."
     </small>
-   
-  
-    
-
-  </p>
+    </p>
 </div>
 
 <div className="fullHeight">
@@ -1207,6 +1203,14 @@ Flicking on the bathroom light he looked down in horror at his distended stomach
 
   </p>
 </div>
+
+<div className="fullHeight">
+<p className="narration-quote">
+      <small>"What's an exit strategy?" 
+        <br/>
+      -DFV</small>
+    </p>
+    </div>
 
 <div className="fullHeight">
   <p className="story">
