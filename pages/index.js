@@ -1257,8 +1257,8 @@ The Generals departed with a nod and a handshake, both in disgust at the series 
 <br/>
 The chaos of war takes peculiar tolls.
 </small>
-
   </p>
+  <img src="/classified.png" className="center"></img>
 
 
 </div>
