@@ -1198,6 +1198,61 @@ Flicking on the bathroom light he looked down in horror at his distended stomach
   </p>
 </div>
 
+<div className="fullHeight">
+  <p className="story">
+    <small>
+   <h3>February 12, 2021</h3>
+<h5>Classified location</h5>
+
+“Thanks for meeting with me on such short notice, General. I understand your concerns regarding this matter are as grave as ours.”
+<br/>
+<br/>
+“Indeed, General Dowals,” General Kev replied in earnest. “Somebody needs to stop this train before it goes completely off the rails. We’ve got a potential maniac in control of one of the most barbaric, malleable armies in the world.” 
+<br/>
+<br/>
+General Kev proceeded to open his manila folder, revealing a thick stack of intelligence reports labeled ‘The Tapes’. He scanned through the first few pages as General Dowals began to address the strange elephant in the room.
+<br/>
+“His most recent publication may be an indication of the shit hitting the fan, figuratively speaking. Why the hell was he watching someone take a shit? And reporting, on the record, of his own hallucinations of the shit <i>speaking?!</i> This is absolutely ludicrous. Are we able to identify the Jr. Lieutenant's location to warn the poor individual of the dangerous, murderous voyeur outside their bathroom window?” General Dowals spared no time for pleasantries.
+<br/>
+<br/>
+“Yes, the Red Army Intelligence Unit was able to locate the Junior Lieutenant on the night of the publication. The transmission was sent from the bumfuck suburbs of Texas, where it’s been reported literally nothing cool ever happens. They might have good BBQ, but at this time even that remains unclear. We believe it to be the new location of the Virus’ base.”
+<br/>
+<br/>
+“General Serg on the move again? What the fuck is he doing in Texas?”
+<br/>
+<br/>
+“Our intelligence is basically clueless regarding the Virus, General Dowals. I wish I had more information. We’ve had very little intel on him this entire war, and frankly he’s too unruly to negotiate with. We don’t know what he’s planning, or what his next move might be. All we can derive at this moment with 99% certainty is that Junior Lieutenant 'the' Caso is watching The Virus while he takes his morning shits. We presume the Virus is unaware of the Jr. Lieutenant’s disgusting activity, at least at the time of the transmission.” 
+General Kev sighed, silently acknowledging the countless hours his intelligence team had dedicated to these disturbing findings, all in good faith. 
+“For the sake of post-war peace and the overall good of the world, we have no choice but to team up and put an end to this madness, General Dowals. We cannot let maniacs like the Jr. Lieutenant roam free, unchallenged. The great people of this world are depending on us. The post-war recovery will be difficult enough as is.”
+<br/>
+<br/>
+“I’m no advocate for secret alliances, General Kev, but it seems the die has been cast. Why don’t we alert the other nations and form a global committee? The whole world has felt perturbed by the Junior Lieutenant’s actions throughout the war. Surely they’ll agree to help us nip this in the bud while we still can. He thought The Virus’ shit was <i>talking</i>, for fuck’s sake. He’s been rocketing towards the moon of insanity ever since he murdered that old Blue superior.”
+<br/>
+<br/>
+“We don’t know whom else to trust,” General Kev replied convincingly. “The RAIU has determined your Orange nation runs the only organization we can truly rely on. The entire Blue army is in disarray, and it is difficult to identify which nations will accept the desperate backdoor deals being proposed by the corrupt, disintegrating Blue army factions.” 
+<br/>
+If the mounds of records in the Red army leader’s arms weren’t convincing enough, it was clear from General Kev’s demeanor that there were no other options. “We must form an alliance, General Dowals. For the good of <i>every single</i> living being on this planet.”
+<br/>
+<br/>
+General Dowals paused before his next move. He knew what he had to do, but understood this would not be well perceived amongst the other nations. The warring armies had already been suspicious of some sort of Red/Orange contractual agreement, despite the records showing no such accord. Alas, there was no choice at this juncture. 
+<br/>
+“Ok I’m in, if only for the good of those who have already suffered enough from this horrible war. What kind of sick bastard watches someone take shits? That kind of human cannot be given the opportunity to prey on the fragility of a post-war world. We don’t know what kind of chaos this irrational insanity may incite. Let’s put an end to this impermissible evil, <i>for good</i>.”
+<br/>
+<br/>
+“Glad to see we are in agreement, General. We can only hope the other nations will appreciate our sacrifice once this is all over.”
+<br/>
+<br/>
+The Generals departed with a nod and a handshake, both in disgust at the series of events that had turned a once pants-shitter into a now shit-watcher. 
+<br/>
+<br/>
+The chaos of war takes peculiar tolls.
+</small>
+
+  </p>
+
+
+</div>
+
 
 
 <div className="fullHeight">
