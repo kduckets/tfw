@@ -1186,7 +1186,7 @@ Flicking on the bathroom light he looked down in horror at his distended stomach
 <br/>
 <br/>
 
-“Oh, hey General Kev! Just wanted to see if you’re ready for war tonight.” said the head of General Stevie “The B” Dowaliby as it wriggled it’s way out of the Red General’s butt.
+“Oh, hey General Kev! Just wanted to see if you’re ready for war tonight.” said the head of General Stevie “The B” Dowals as it wriggled it’s way out of the Red General’s butt.
 <br/>
 <br/>
 
