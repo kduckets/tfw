@@ -1281,7 +1281,7 @@ General Dowals paused before his next move. He knew what he had to do, but under
 The Generals departed with a nod and a handshake, both in disgust at the series of events that had turned a once pants-shitter, into a now shit-watcher. 
 <br/>
 <br/>
-The chaos of war takes peculiar tolls.
+The volatility of war takes peculiar tolls.
 </small>
   </p>
   <img src="/classified.png" className="center"></img>
