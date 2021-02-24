@@ -1292,6 +1292,17 @@ The volatility of war takes peculiar tolls.
 
 
 <div className="fullHeight">
+  <p className="narration-quote">
+    <small>
+    That said, BTC & ETH do seem high lol
+<br/>
+    — Elon Musk (@elonmusk) February 20, 2021
+    </small>
+    </p>
+    </div>
+
+
+<div className="fullHeight">
 <p>To be continued...</p>
 </div>
 
