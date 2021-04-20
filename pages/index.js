@@ -1299,7 +1299,7 @@ The volatility of war takes peculiar tolls.
 A cool, subtle breeze coated the New England territory with what was hoped to be the final snowfall of an indelible winter. The exhausted generals prayed the false spring was not yet another melodramatic metaphor. 
 <br/>
 <br/>
-For months it had seemed the end was within reach. Calls for peace and cool sweatshirts with ‘love’ written on them were becoming omnipresent in a world that had been forever changed. Most of the brave and honorable, who had done their part to contribute to the greater good throughout the war, eagerly awaited to emerge and build a new life in a mysterious post-war world. The Jr. Lieutenant of the Blue army, still obsessed only with achieving the General’s title, was not a member of this humble tribe.
+For months it had seemed the end was within reach. Calls for peace and cool sweatshirts with ‘love’ written on them were becoming omnipresent in a world that had been forever changed. Most of the brave and honorable, who had done their parts to contribute to the greater good throughout the war, eagerly awaited to emerge and build a new life in a mysterious post-war world. The Jr. Lieutenant of the Blue army, still obsessed only with achieving the General’s title, was not a member of this humble tribe.
 <br/>
 <br/>
 ...
