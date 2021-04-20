@@ -1291,21 +1291,11 @@ The volatility of war takes peculiar tolls.
 
 
 
-<div className="fullHeight">
-  <p className="narration-quote">
-    <small>
-    That said, BTC & ETH do seem high lol
-<br/>
-    — Elon Musk (@elonmusk) February 20, 2021
-    </small>
-    </p>
-    </div>
-
     <div className="fullHeight">
     <p className="story">
     <small>
    <h3>April 17, 2021</h3>
-<h5>War’s Coda, Part I</h5>
+<h3>War’s Coda, Part I</h3>
 A subtle, cool breeze coated the New England territory with what was hoped to be the final snowfall of an indelible winter. The exhausted generals prayed the false spring was not yet another melodramatic metaphor. 
 <br/>
 For months it had seemed the end was within reach. Calls for peace and cool sweatshirts with ‘love’ written on them were becoming omnipresent in a world that had been forever changed. Most of the brave and honorable, who had done their part to contribute to the greater good throughout the war, eagerly awaited to emerge and build a new life in a mysterious post-war world. The Jr. Lieutenant of the Blue army, still obsessed only with achieving the General’s title, was not a member of this humble tribe.
