@@ -1314,7 +1314,7 @@ For months it had seemed the end was within reach. Calls for peace and cool swea
 “Do you want a trophy for doing your job? Where’s the damn ice cream now?” 
 <br/>
 <br/>
-“Did you check up your butt?” a young recruit confidently shouted from the back row. Nervous chuckles followed as Jr. Lieutenant 'the' Caso locked his eyes on the young soldier and swiftly placed his hand on his pistol. 
+“Did you check up your butt?” a young recruit confidently shouted from the back row. Nervous chuckles followed as Jr. Lieutenant 'the' Caso locked his eyes on the young soldier and calmly placed his hand on his pistol. 
 <br/>
 <br/>
 “Any last words from the class clown? Perhaps a knock-knock joke? Those are my favorite.” The assembly went silent. Only the sounds of the cool breeze could now be heard. The troops knew the Jr. Lieutenant was on the brink of insanity and had crossed too many lines to count at this point in the war. Most of the blue soldiers lacked any trace of loyalty or patriotism after the shameful atrocities committed by the blue organization. The blue army just wanted to go home.
