@@ -1296,7 +1296,8 @@ The volatility of war takes peculiar tolls.
     <small>
    <h3>April 17, 2021</h3>
 <h3>War’s Coda, Part I</h3>
-A subtle, cool breeze coated the New England territory with what was hoped to be the final snowfall of an indelible winter. The exhausted generals prayed the false spring was not yet another melodramatic metaphor. 
+A cool, subtle breeze coated the New England territory with what was hoped to be the final snowfall of an indelible winter. The exhausted generals prayed the false spring was not yet another melodramatic metaphor. 
+<br/>
 <br/>
 For months it had seemed the end was within reach. Calls for peace and cool sweatshirts with ‘love’ written on them were becoming omnipresent in a world that had been forever changed. Most of the brave and honorable, who had done their part to contribute to the greater good throughout the war, eagerly awaited to emerge and build a new life in a mysterious post-war world. The Jr. Lieutenant of the Blue army, still obsessed only with achieving the General’s title, was not a member of this humble tribe.
 <br/>
@@ -1313,7 +1314,7 @@ For months it had seemed the end was within reach. Calls for peace and cool swea
 “Do you want a trophy for doing your job? Where’s the damn ice cream now?” 
 <br/>
 <br/>
-“Did you check up your butt?” a young recruit confidently shouted from the back row. Nervous chuckles followed as Jr. Lt the Caso locked his eyes on the young soldier and swiftly placed his hand on his pistol. 
+“Did you check up your butt?” a young recruit confidently shouted from the back row. Nervous chuckles followed as Jr. Lieutenant 'the' Caso locked his eyes on the young soldier and swiftly placed his hand on his pistol. 
 <br/>
 <br/>
 “Any last words from the class clown? Perhaps a knock-knock joke? Those are my favorite.” The assembly went silent. Only the sounds of the cool breeze could now be heard. The troops knew the Jr. Lieutenant was on the brink of insanity and had crossed too many lines to count at this point in the war. Most of the blue soldiers lacked any trace of loyalty or patriotism after the shameful atrocities committed by the blue organization. The blue army just wanted to go home.
