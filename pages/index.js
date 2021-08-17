@@ -26,13 +26,13 @@ export default function Home() {
         <p>
         <small>
 
-        The year was A.D. 2020. Most great thinkers of earth had sensed the unrest brewing for 
-        quite some time, but very few were prepared for the events that actually transpired. Sickness, 
+        The year was A.D. 2020. Most great thinkers of earth had sensed unrest brewing for 
+        quite some time, but very few were prepared for the events which actually transpired. Sickness, 
         suffering, and death were just the tip of the iceberg as an already unstable human race was 
         ravaged by plague, cultural divergence, and warfare.
 
         <br/> <br/> What follows is a collection of diary entries, news articles, 
-        letters, and other miscellaneous artifacts from one group of fairly insignificant dudes, 
+        letters, and other miscellaneous artifacts from a group of fairly insignificant dudes, 
         mostly not dads, who had been forced to stay in their homes and play video games during this unprecedented year.
      
         {/* <Typewriter
